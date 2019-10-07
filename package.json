@@ -1,0 +1,21 @@
+{
+  "name": "material-design-icons-updated-font",
+  "description": "Material Design icons by Google, updated (Font)",
+  "author": "Material Design Authors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cyberalien/google-material-design-icons-updated/issues"
+  },
+  "homepage": "https://github.com/cyberalien/google-material-design-icons-updated",
+  "scripts": {
+    "build": "node build/font.js"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-sass": "^4.12.0",
+    "svg2ttf": "^4.3.0",
+    "svgicons2svgfont": "^9.1.1",
+    "ttf2woff": "^2.0.1",
+    "ttf2woff2": "^3.0.0"
+  }
+}

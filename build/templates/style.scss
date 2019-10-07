@@ -1,0 +1,125 @@
+@charset "UTF-8";
+
+$font-path: '{font-path}';
+
+$default-family: '{default-family}';
+$default-theme: '{default-theme}';
+$default-filename: '{default-filename}';
+
+$extra-themes: (
+  /*themes*/
+);
+
+$icons: (
+  /*icons*/
+);
+
+$sizes: (
+  18,
+  24,
+  36,
+  48
+);
+
+@function content($codepoint) {
+  @return unquote("'\\#{$codepoint}'");
+}
+
+@mixin font($family, $filename) {
+  @font-face {
+    font-family: $family;
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("#{$font-path}#{$filename}.ttf");
+    /* For IE6-8 */
+    src: url("#{$font-path}#{$filename}.woff2") format("woff2"),
+    url("#{$font-path}#{$filename}.woff") format("woff"),
+    url("#{$font-path}#{$filename}.ttf") format("truetype");
+  }
+}
+
+@include font($default-family, $default-filename);
+
+@each $theme, $item in $extra-themes {
+  $family: nth($item, 1);
+  $filename: nth($item, 2);
+  @include font($family, $filename);
+}
+
+#{$font-prefix} {
+  font-family: $default-family;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  -ms-word-wrap: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: 'liga';
+  -webkit-font-feature-settings: 'liga';
+  font-feature-settings: 'liga';
+  position: relative;
+
+  &:before {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: .3;
+  }
+  &:after {
+    opacity: 1;
+  }
+}
+
+@each $theme, $family in $extra-themes {
+  #{$font-prefix}--#{$theme} {
+    font-family: nth($family, 1), $default-family;
+  }
+}
+
+/* Rules for sizing the icon. */
+@each $size in $sizes {
+  #{$icon-prefix}-#{$size} {
+    font-size: #{$size}px;
+  }
+}
+
+/* Rules for using icons as black on a light background. */
+#{$icon-prefix}-dark { color: rgba(0, 0, 0, 0.54); }
+#{$icon-prefix}-dark#{$icon-prefix}-inactive { color: rgba(0, 0, 0, 0.26); }
+
+/* Rules for using icons as white on a dark background. */
+#{$icon-prefix}-light { color: rgba(255, 255, 255, 1); }
+#{$icon-prefix}-light#{$icon-prefix}-inactive { color: rgba(255, 255, 255, 0.3); }
+
+/* Icons. */
+#{$icon-prefix} {
+  @each $icon, $codepoints in $icons {
+    &-#{$icon} {
+      @if (type-of($codepoints) == 'list') {
+        &:after {
+          content: content(nth($codepoints, 1));
+        }
+        @if (length($codepoints) > 1) {
+          &:before {
+            content: content(nth($codepoints, 2));
+          }
+        }
+      } @else {
+        &:after {
+          content: content($codepoints);
+        }
+      }
+    }
+  }
+}
