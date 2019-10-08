@@ -115,7 +115,7 @@ Font uses 2 glyphs to represent that icon:
 * transparent part ![baseline-battery_30-transparent.svg](https://material-icons.github.io/material-icons-font/samples/baseline-battery_30-transparent.svg)
 * opaque part ![baseline-battery_30-opaque.svg](https://material-icons.github.io/material-icons-font/samples/baseline-battery_30-opaque.svg)
 
-They are layered on top of each other. :before is used to display transparent part, :after is used to display opaque part with 30% opacity.
+They are layered on top of each other. :before is used to display transparent part with 30% opacity, :after is used to display opaque part.
 
 #### Changing colors in two tone icons
 
@@ -123,13 +123,23 @@ Using stylesheet you can change color of any part.
 
 To change color for opaque part, change color of :after pseudo element:
 ```css
+/* for all icons */
 .md:after { color: red; }
+/* for specific icon */
+.md-view-carousel:after { color: purple; }
+/* or custom class added to specific icon */
+.icon-green-red:after { color: green; }
 ```
 
 
 To change color for transparent part, change color (and opacity) of :before pseudo element:
 ```css
+/* for all icons */
 .md:before { color: blue; opacity: 1; }
+/* for specific icon */
+.md-view-carousel:after { color: lightblue; opacity: 1; }
+/* or custom class added to specific icon */
+.icon-green-red:after { color: red; opacity: 1; }
 ```
 
 ## Avoid using font
