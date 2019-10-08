@@ -83,19 +83,19 @@
   opacity: 1;
 }
 
-.material-icons--outline {
+.md-outline {
   font-family: "Material Icons Outlined", "Material Icons";
 }
 
-.material-icons--round {
+.md-round {
   font-family: "Material Icons Round", "Material Icons";
 }
 
-.material-icons--sharp {
+.md-sharp {
   font-family: "Material Icons Sharp", "Material Icons";
 }
 
-.material-icons--twotone {
+.md-twotone {
   font-family: "Material Icons Two Tone", "Material Icons";
 }
 

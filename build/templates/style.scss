@@ -82,7 +82,7 @@ $sizes: (
 }
 
 @each $theme, $family in $extra-themes {
-  #{$font-prefix}--#{$theme} {
+  #{$icon-prefix}-#{$theme} {
     font-family: nth($family, 1), $default-family;
   }
 }

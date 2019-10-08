@@ -76,17 +76,17 @@ module.exports = fontData => new Promise((fulfill, reject) => {
             rows.html += replaceAllItems({
                 '{font-class}': config.css.font,
                 '{icon-prefix}': config.css.icon,
-                '{theme-class}': (theme === config.themeKeys[0] ? '' : config.css.font + '--' + theme),
+                '{theme-class}': (theme === config.themeKeys[0] ? '' : config.css.icon + '-' + theme),
                 '{icon-name}': name
             }, '<i class="{font-class} {theme-class} {icon-prefix}-{icon-name}"></i>');
 
             rows.debug += replaceAllItems({
                 '{font-class}': config.css.font,
                 '{icon-prefix}': config.css.icon,
-                '{theme-class}': (theme === config.themeKeys[0] ? '' : config.css.font + '--' + theme),
+                '{theme-class}': (theme === config.themeKeys[0] ? '' : config.css.icon + '-' + theme),
                 '{icon-name}': name
             }, '<i class="{font-class} {theme-class} {icon-prefix}-{icon-name}"></i>');
-            rows.debug += '<img src="../../material-design-icons-updated/svg/' + icon.name + '/' + theme + '.svg" /> ' + theme + '-' + icon.name + '<br />';
+            rows.debug += '<img src="../../material-icons/svg/' + icon.name + '/' + theme + '.svg" /> ' + theme + '-' + icon.name + '<br />';
         });
 
         iconsHTML.html += rows.html + ' ' + name + '<br />';

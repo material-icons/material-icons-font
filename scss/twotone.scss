@@ -1217,7 +1217,7 @@ $sizes: (
 }
 
 @each $theme, $family in $extra-themes {
-  .material-icons--#{$theme} {
+  .md-#{$theme} {
     font-family: nth($family, 1), $default-family;
   }
 }
