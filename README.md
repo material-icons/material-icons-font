@@ -95,10 +95,10 @@ Additionally to those colors you can set md-inactive for grey inactive color:
 
 
 If you are using all.css, to use different icon font add class name for that icon font:
-* material-icons--outline for "MaterialIcons Outline" font
-* material-icons--round for "MaterialIcons Round" font
-* material-icons--sharp for "MaterialIcons Sharp" font
-* material-icons--twotone for "MaterialIcons TwoTone" font
+* md-outline for "MaterialIcons Outline" font
+* md-round for "MaterialIcons Round" font
+* md-sharp for "MaterialIcons Sharp" font
+* md-twotone for "MaterialIcons TwoTone" font
 
 ```html
 <i class="material-icons md-sharp md-shuffle"></i>
