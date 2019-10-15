@@ -82,25 +82,26 @@ $sizes: (
 }
 
 @each $theme, $family in $extra-themes {
-  #{$icon-prefix}-#{$theme} {
+  #{$font-prefix}-#{$theme} {
+    @extend #{$font-prefix};
     font-family: nth($family, 1), $default-family;
   }
 }
 
 /* Rules for sizing the icon. */
 @each $size in $sizes {
-  #{$icon-prefix}-#{$size} {
+  #{$extra-prefix}-#{$size} {
     font-size: #{$size}px;
   }
 }
 
 /* Rules for using icons as black on a light background. */
-#{$icon-prefix}-dark { color: rgba(0, 0, 0, 0.54); }
-#{$icon-prefix}-dark#{$icon-prefix}-inactive { color: rgba(0, 0, 0, 0.26); }
+#{$extra-prefix}-dark { color: rgba(0, 0, 0, 0.54); }
+#{$extra-prefix}-dark#{$extra-prefix}-inactive { color: rgba(0, 0, 0, 0.26); }
 
 /* Rules for using icons as white on a dark background. */
-#{$icon-prefix}-light { color: rgba(255, 255, 255, 1); }
-#{$icon-prefix}-light#{$icon-prefix}-inactive { color: rgba(255, 255, 255, 0.3); }
+#{$extra-prefix}-light { color: rgba(255, 255, 255, 1); }
+#{$extra-prefix}-light#{$extra-prefix}-inactive { color: rgba(255, 255, 255, 0.3); }
 
 /* Icons. */
 #{$icon-prefix} {

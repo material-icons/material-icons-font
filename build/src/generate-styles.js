@@ -55,7 +55,7 @@ const replaceAllItems = (replacements, code) => {
  */
 const buildLine = (key, icon, twotone) => {
     let replacements = {
-        '{name}': icon.name.replace(/_/g, '-'),
+        '{name}': icon.name,
         '{hex1}': toHex(icon.char.opaque),
         '{hex2}': twotone ? toHex(icon.char.transparent) : ''
     };
@@ -72,8 +72,9 @@ module.exports = fontData => new Promise((fulfill, reject) => {
 
     let replacements = {
         common: {
-            '#{$icon-prefix}': '.' + config.css.icon,
-            '#{$font-prefix}': '.' + config.css.font,
+            '#{$font-prefix}': '.' + config.prefix.font,
+            '#{$icon-prefix}': '.' + config.prefix.icon,
+            '#{$extra-prefix}': '.' + config.prefix.extra,
             '{font-path}': '../font/',
             '{default-theme}': config.themeKeys[0],
             '{default-family}': config.themes[config.themeKeys[0]],

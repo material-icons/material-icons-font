@@ -83,7 +83,7 @@
   content: '\e000';
 }
 
-.md-3d-rotation:after {
+.md-3d_rotation:after {
   content: '\e001';
 }
 
@@ -95,31 +95,31 @@
   content: '\e003';
 }
 
-.md-ac-unit:after {
+.md-ac_unit:after {
   content: '\e004';
 }
 
-.md-access-alarm:after {
+.md-access_alarm:after {
   content: '\e005';
 }
 
-.md-access-alarm:before {
+.md-access_alarm:before {
   content: '\e006';
 }
 
-.md-access-alarms:after {
+.md-access_alarms:after {
   content: '\e007';
 }
 
-.md-access-alarms:before {
+.md-access_alarms:before {
   content: '\e008';
 }
 
-.md-access-time:after {
+.md-access_time:after {
   content: '\e009';
 }
 
-.md-access-time:before {
+.md-access_time:before {
   content: '\e00a';
 }
 
@@ -127,7 +127,7 @@
   content: '\e00b';
 }
 
-.md-accessibility-new:after {
+.md-accessibility_new:after {
   content: '\e00c';
 }
 
@@ -135,47 +135,47 @@
   content: '\e00d';
 }
 
-.md-accessible-forward:after {
+.md-accessible_forward:after {
   content: '\e00e';
 }
 
-.md-account-balance:after {
+.md-account_balance:after {
   content: '\e00f';
 }
 
-.md-account-balance:before {
+.md-account_balance:before {
   content: '\e010';
 }
 
-.md-account-balance-wallet:after {
+.md-account_balance_wallet:after {
   content: '\e011';
 }
 
-.md-account-balance-wallet:before {
+.md-account_balance_wallet:before {
   content: '\e012';
 }
 
-.md-account-box:after {
+.md-account_box:after {
   content: '\e013';
 }
 
-.md-account-box:before {
+.md-account_box:before {
   content: '\e014';
 }
 
-.md-account-circle:after {
+.md-account_circle:after {
   content: '\e015';
 }
 
-.md-account-circle:before {
+.md-account_circle:before {
   content: '\e016';
 }
 
-.md-account-tree:after {
+.md-account_tree:after {
   content: '\e017';
 }
 
-.md-account-tree:before {
+.md-account_tree:before {
   content: '\e018';
 }
 
@@ -187,95 +187,95 @@
   content: '\e01a';
 }
 
-.md-add-a-photo:after {
+.md-add_a_photo:after {
   content: '\e01b';
 }
 
-.md-add-a-photo:before {
+.md-add_a_photo:before {
   content: '\e01c';
 }
 
-.md-add-alarm:after {
+.md-add_alarm:after {
   content: '\e01d';
 }
 
-.md-add-alarm:before {
+.md-add_alarm:before {
   content: '\e01e';
 }
 
-.md-add-alert:after {
+.md-add_alert:after {
   content: '\e01f';
 }
 
-.md-add-alert:before {
+.md-add_alert:before {
   content: '\e020';
 }
 
-.md-add-box:after {
+.md-add_box:after {
   content: '\e021';
 }
 
-.md-add-box:before {
+.md-add_box:before {
   content: '\e022';
 }
 
-.md-add-circle:after {
+.md-add_circle:after {
   content: '\e023';
 }
 
-.md-add-circle:before {
+.md-add_circle:before {
   content: '\e024';
 }
 
-.md-add-circle-outline:after {
+.md-add_circle_outline:after {
   content: '\e025';
 }
 
-.md-add-comment:after {
+.md-add_comment:after {
   content: '\e026';
 }
 
-.md-add-comment:before {
+.md-add_comment:before {
   content: '\e027';
 }
 
-.md-add-location:after {
+.md-add_location:after {
   content: '\e028';
 }
 
-.md-add-location:before {
+.md-add_location:before {
   content: '\e029';
 }
 
-.md-add-photo-alternate:after {
+.md-add_photo_alternate:after {
   content: '\e02a';
 }
 
-.md-add-photo-alternate:before {
+.md-add_photo_alternate:before {
   content: '\e02b';
 }
 
-.md-add-shopping-cart:after {
+.md-add_shopping_cart:after {
   content: '\e02c';
 }
 
-.md-add-to-home-screen:after {
+.md-add_to_home_screen:after {
   content: '\e02d';
 }
 
-.md-add-to-photos:after {
+.md-add_to_photos:after {
   content: '\e02e';
 }
 
-.md-add-to-photos:before {
+.md-add_to_photos:before {
   content: '\e02f';
 }
 
-.md-add-to-queue:after {
+.md-add_to_queue:after {
   content: '\e030';
 }
 
-.md-add-to-queue:before {
+.md-add_to_queue:before {
   content: '\e031';
 }
 
@@ -283,55 +283,55 @@
   content: '\e032';
 }
 
-.md-airline-seat-flat:after {
+.md-airline_seat_flat:after {
   content: '\e033';
 }
 
-.md-airline-seat-flat:before {
+.md-airline_seat_flat:before {
   content: '\e034';
 }
 
-.md-airline-seat-flat-angled:after {
+.md-airline_seat_flat_angled:after {
   content: '\e035';
 }
 
-.md-airline-seat-flat-angled:before {
+.md-airline_seat_flat_angled:before {
   content: '\e036';
 }
 
-.md-airline-seat-individual-suite:after {
+.md-airline_seat_individual_suite:after {
   content: '\e037';
 }
 
-.md-airline-seat-individual-suite:before {
+.md-airline_seat_individual_suite:before {
   content: '\e038';
 }
 
-.md-airline-seat-legroom-extra:after {
+.md-airline_seat_legroom_extra:after {
   content: '\e039';
 }
 
-.md-airline-seat-legroom-normal:after {
+.md-airline_seat_legroom_normal:after {
   content: '\e03a';
 }
 
-.md-airline-seat-legroom-reduced:after {
+.md-airline_seat_legroom_reduced:after {
   content: '\e03b';
 }
 
-.md-airline-seat-recline-extra:after {
+.md-airline_seat_recline_extra:after {
   content: '\e03c';
 }
 
-.md-airline-seat-recline-normal:after {
+.md-airline_seat_recline_normal:after {
   content: '\e03d';
 }
 
-.md-airplanemode-active:after {
+.md-airplanemode_active:after {
   content: '\e03e';
 }
 
-.md-airplanemode-inactive:after {
+.md-airplanemode_inactive:after {
   content: '\e03f';
 }
 
@@ -339,11 +339,11 @@
   content: '\e040';
 }
 
-.md-airport-shuttle:after {
+.md-airport_shuttle:after {
   content: '\e041';
 }
 
-.md-airport-shuttle:before {
+.md-airport_shuttle:before {
   content: '\e042';
 }
 
@@ -355,23 +355,23 @@
   content: '\e044';
 }
 
-.md-alarm-add:after {
+.md-alarm_add:after {
   content: '\e045';
 }
 
-.md-alarm-add:before {
+.md-alarm_add:before {
   content: '\e046';
 }
 
-.md-alarm-off:after {
+.md-alarm_off:after {
   content: '\e047';
 }
 
-.md-alarm-on:after {
+.md-alarm_on:after {
   content: '\e048';
 }
 
-.md-alarm-on:before {
+.md-alarm_on:before {
   content: '\e049';
 }
 
@@ -383,35 +383,35 @@
   content: '\e04b';
 }
 
-.md-all-inbox:after {
+.md-all_inbox:after {
   content: '\e04c';
 }
 
-.md-all-inbox:before {
+.md-all_inbox:before {
   content: '\e04d';
 }
 
-.md-all-inclusive:after {
+.md-all_inclusive:after {
   content: '\e04e';
 }
 
-.md-all-out:after {
+.md-all_out:after {
   content: '\e04f';
 }
 
-.md-all-out:before {
+.md-all_out:before {
   content: '\e050';
 }
 
-.md-alternate-email:after {
+.md-alternate_email:after {
   content: '\e051';
 }
 
-.md-amp-stories:after {
+.md-amp_stories:after {
   content: '\e053';
 }
 
-.md-amp-stories:before {
+.md-amp_stories:before {
   content: '\e054';
 }
 
@@ -443,67 +443,67 @@
   content: '\e05b';
 }
 
-.md-arrow-back:after {
+.md-arrow_back:after {
   content: '\e05c';
 }
 
-.md-arrow-back-ios:after {
+.md-arrow_back_ios:after {
   content: '\e05d';
 }
 
-.md-arrow-downward:after {
+.md-arrow_downward:after {
   content: '\e05e';
 }
 
-.md-arrow-drop-down:after {
+.md-arrow_drop_down:after {
   content: '\e05f';
 }
 
-.md-arrow-drop-down-circle:after {
+.md-arrow_drop_down_circle:after {
   content: '\e060';
 }
 
-.md-arrow-drop-down-circle:before {
+.md-arrow_drop_down_circle:before {
   content: '\e061';
 }
 
-.md-arrow-drop-up:after {
+.md-arrow_drop_up:after {
   content: '\e062';
 }
 
-.md-arrow-forward:after {
+.md-arrow_forward:after {
   content: '\e063';
 }
 
-.md-arrow-forward-ios:after {
+.md-arrow_forward_ios:after {
   content: '\e064';
 }
 
-.md-arrow-left:after {
+.md-arrow_left:after {
   content: '\e065';
 }
 
-.md-arrow-right:after {
+.md-arrow_right:after {
   content: '\e066';
 }
 
-.md-arrow-right-alt:after {
+.md-arrow_right_alt:after {
   content: '\e067';
 }
 
-.md-arrow-upward:after {
+.md-arrow_upward:after {
   content: '\e068';
 }
 
-.md-art-track:after {
+.md-art_track:after {
   content: '\e069';
 }
 
-.md-aspect-ratio:after {
+.md-aspect_ratio:after {
   content: '\e06a';
 }
 
-.md-aspect-ratio:before {
+.md-aspect_ratio:before {
   content: '\e06b';
 }
 
@@ -523,43 +523,43 @@
   content: '\e06f';
 }
 
-.md-assignment-ind:after {
+.md-assignment_ind:after {
   content: '\e070';
 }
 
-.md-assignment-ind:before {
+.md-assignment_ind:before {
   content: '\e071';
 }
 
-.md-assignment-late:after {
+.md-assignment_late:after {
   content: '\e072';
 }
 
-.md-assignment-late:before {
+.md-assignment_late:before {
   content: '\e073';
 }
 
-.md-assignment-return:after {
+.md-assignment_return:after {
   content: '\e074';
 }
 
-.md-assignment-return:before {
+.md-assignment_return:before {
   content: '\e075';
 }
 
-.md-assignment-returned:after {
+.md-assignment_returned:after {
   content: '\e076';
 }
 
-.md-assignment-returned:before {
+.md-assignment_returned:before {
   content: '\e077';
 }
 
-.md-assignment-turned-in:after {
+.md-assignment_turned_in:after {
   content: '\e078';
 }
 
-.md-assignment-turned-in:before {
+.md-assignment_turned_in:before {
   content: '\e079';
 }
 
@@ -571,11 +571,11 @@
   content: '\e07b';
 }
 
-.md-assistant-photo:after {
+.md-assistant_photo:after {
   content: '\e07c';
 }
 
-.md-assistant-photo:before {
+.md-assistant_photo:before {
   content: '\e07d';
 }
 
@@ -583,11 +583,11 @@
   content: '\e07e';
 }
 
-.md-attach-file:after {
+.md-attach_file:after {
   content: '\e07f';
 }
 
-.md-attach-money:after {
+.md-attach_money:after {
   content: '\e080';
 }
 
@@ -607,7 +607,7 @@
   content: '\e084';
 }
 
-.md-av-timer:after {
+.md-av_timer:after {
   content: '\e085';
 }
 
@@ -635,7 +635,7 @@
   content: '\e08b';
 }
 
-.md-bar-chart:after {
+.md-bar_chart:after {
   content: '\e08c';
 }
 
@@ -651,127 +651,127 @@
   content: '\e08f';
 }
 
-.md-battery-20:after {
+.md-battery_20:after {
   content: '\e090';
 }
 
-.md-battery-20:before {
+.md-battery_20:before {
   content: '\e091';
 }
 
-.md-battery-30:after {
+.md-battery_30:after {
   content: '\e092';
 }
 
-.md-battery-30:before {
+.md-battery_30:before {
   content: '\e093';
 }
 
-.md-battery-50:after {
+.md-battery_50:after {
   content: '\e094';
 }
 
-.md-battery-50:before {
+.md-battery_50:before {
   content: '\e095';
 }
 
-.md-battery-60:after {
+.md-battery_60:after {
   content: '\e096';
 }
 
-.md-battery-60:before {
+.md-battery_60:before {
   content: '\e097';
 }
 
-.md-battery-80:after {
+.md-battery_80:after {
   content: '\e098';
 }
 
-.md-battery-80:before {
+.md-battery_80:before {
   content: '\e099';
 }
 
-.md-battery-90:after {
+.md-battery_90:after {
   content: '\e09a';
 }
 
-.md-battery-90:before {
+.md-battery_90:before {
   content: '\e09b';
 }
 
-.md-battery-alert:after {
+.md-battery_alert:after {
   content: '\e09c';
 }
 
-.md-battery-charging-20:after {
+.md-battery_charging_20:after {
   content: '\e09d';
 }
 
-.md-battery-charging-20:before {
+.md-battery_charging_20:before {
   content: '\e09e';
 }
 
-.md-battery-charging-30:after {
+.md-battery_charging_30:after {
   content: '\e09f';
 }
 
-.md-battery-charging-30:before {
+.md-battery_charging_30:before {
   content: '\e0a0';
 }
 
-.md-battery-charging-50:after {
+.md-battery_charging_50:after {
   content: '\e0a1';
 }
 
-.md-battery-charging-50:before {
+.md-battery_charging_50:before {
   content: '\e0a2';
 }
 
-.md-battery-charging-60:after {
+.md-battery_charging_60:after {
   content: '\e0a3';
 }
 
-.md-battery-charging-60:before {
+.md-battery_charging_60:before {
   content: '\e0a4';
 }
 
-.md-battery-charging-80:after {
+.md-battery_charging_80:after {
   content: '\e0a5';
 }
 
-.md-battery-charging-80:before {
+.md-battery_charging_80:before {
   content: '\e0a6';
 }
 
-.md-battery-charging-90:after {
+.md-battery_charging_90:after {
   content: '\e0a7';
 }
 
-.md-battery-charging-90:before {
+.md-battery_charging_90:before {
   content: '\e0a8';
 }
 
-.md-battery-charging-full:after {
+.md-battery_charging_full:after {
   content: '\e0a9';
 }
 
-.md-battery-full:after {
+.md-battery_full:after {
   content: '\e0aa';
 }
 
-.md-battery-std:after {
+.md-battery_std:after {
   content: '\e0ab';
 }
 
-.md-battery-unknown:after {
+.md-battery_unknown:after {
   content: '\e0ac';
 }
 
-.md-beach-access:after {
+.md-beach_access:after {
   content: '\e0ad';
 }
 
-.md-beach-access:before {
+.md-beach_access:before {
   content: '\e0ae';
 }
 
@@ -791,35 +791,35 @@
   content: '\e0b2';
 }
 
-.md-bluetooth-audio:after {
+.md-bluetooth_audio:after {
   content: '\e0b3';
 }
 
-.md-bluetooth-connected:after {
+.md-bluetooth_connected:after {
   content: '\e0b4';
 }
 
-.md-bluetooth-disabled:after {
+.md-bluetooth_disabled:after {
   content: '\e0b5';
 }
 
-.md-bluetooth-searching:after {
+.md-bluetooth_searching:after {
   content: '\e0b6';
 }
 
-.md-blur-circular:after {
+.md-blur_circular:after {
   content: '\e0b7';
 }
 
-.md-blur-linear:after {
+.md-blur_linear:after {
   content: '\e0b8';
 }
 
-.md-blur-off:after {
+.md-blur_off:after {
   content: '\e0b9';
 }
 
-.md-blur-on:after {
+.md-blur_on:after {
   content: '\e0ba';
 }
 
@@ -839,7 +839,7 @@
   content: '\e0be';
 }
 
-.md-bookmark-border:after {
+.md-bookmark_border:after {
   content: '\e0bf';
 }
 
@@ -851,159 +851,159 @@
   content: '\e0c1';
 }
 
-.md-border-all:after {
+.md-border_all:after {
   content: '\e0c2';
 }
 
-.md-border-bottom:after {
+.md-border_bottom:after {
   content: '\e0c3';
 }
 
-.md-border-clear:after {
+.md-border_clear:after {
   content: '\e0c4';
 }
 
-.md-border-color:after {
+.md-border_color:after {
   content: '\e0c5';
 }
 
-.md-border-color:before {
+.md-border_color:before {
   content: '\e0c6';
 }
 
-.md-border-horizontal:after {
+.md-border_horizontal:after {
   content: '\e0c7';
 }
 
-.md-border-inner:after {
+.md-border_inner:after {
   content: '\e0c8';
 }
 
-.md-border-left:after {
+.md-border_left:after {
   content: '\e0c9';
 }
 
-.md-border-outer:after {
+.md-border_outer:after {
   content: '\e0ca';
 }
 
-.md-border-right:after {
+.md-border_right:after {
   content: '\e0cb';
 }
 
-.md-border-style:after {
+.md-border_style:after {
   content: '\e0cc';
 }
 
-.md-border-top:after {
+.md-border_top:after {
   content: '\e0cd';
 }
 
-.md-border-vertical:after {
+.md-border_vertical:after {
   content: '\e0ce';
 }
 
-.md-branding-watermark:after {
+.md-branding_watermark:after {
   content: '\e0cf';
 }
 
-.md-branding-watermark:before {
+.md-branding_watermark:before {
   content: '\e0d0';
 }
 
-.md-brightness-1:after {
+.md-brightness_1:after {
   content: '\e0d1';
 }
 
-.md-brightness-1:before {
+.md-brightness_1:before {
   content: '\e0d2';
 }
 
-.md-brightness-2:after {
+.md-brightness_2:after {
   content: '\e0d3';
 }
 
-.md-brightness-2:before {
+.md-brightness_2:before {
   content: '\e0d4';
 }
 
-.md-brightness-3:after {
+.md-brightness_3:after {
   content: '\e0d5';
 }
 
-.md-brightness-3:before {
+.md-brightness_3:before {
   content: '\e0d6';
 }
 
-.md-brightness-4:after {
+.md-brightness_4:after {
   content: '\e0d7';
 }
 
-.md-brightness-4:before {
+.md-brightness_4:before {
   content: '\e0d8';
 }
 
-.md-brightness-5:after {
+.md-brightness_5:after {
   content: '\e0d9';
 }
 
-.md-brightness-5:before {
+.md-brightness_5:before {
   content: '\e0da';
 }
 
-.md-brightness-6:after {
+.md-brightness_6:after {
   content: '\e0db';
 }
 
-.md-brightness-6:before {
+.md-brightness_6:before {
   content: '\e0dc';
 }
 
-.md-brightness-7:after {
+.md-brightness_7:after {
   content: '\e0dd';
 }
 
-.md-brightness-7:before {
+.md-brightness_7:before {
   content: '\e0de';
 }
 
-.md-brightness-auto:after {
+.md-brightness_auto:after {
   content: '\e0df';
 }
 
-.md-brightness-auto:before {
+.md-brightness_auto:before {
   content: '\e0e0';
 }
 
-.md-brightness-high:after {
+.md-brightness_high:after {
   content: '\e0e1';
 }
 
-.md-brightness-high:before {
+.md-brightness_high:before {
   content: '\e0e2';
 }
 
-.md-brightness-low:after {
+.md-brightness_low:after {
   content: '\e0e3';
 }
 
-.md-brightness-low:before {
+.md-brightness_low:before {
   content: '\e0e4';
 }
 
-.md-brightness-medium:after {
+.md-brightness_medium:after {
   content: '\e0e5';
 }
 
-.md-brightness-medium:before {
+.md-brightness_medium:before {
   content: '\e0e6';
 }
 
-.md-broken-image:after {
+.md-broken_image:after {
   content: '\e0e7';
 }
 
-.md-broken-image:before {
+.md-broken_image:before {
   content: '\e0e8';
 }
 
@@ -1015,19 +1015,19 @@
   content: '\e0ea';
 }
 
-.md-bubble-chart:after {
+.md-bubble_chart:after {
   content: '\e0eb';
 }
 
-.md-bubble-chart:before {
+.md-bubble_chart:before {
   content: '\e0ec';
 }
 
-.md-bug-report:after {
+.md-bug_report:after {
   content: '\e0ed';
 }
 
-.md-bug-report:before {
+.md-bug_report:before {
   content: '\e0ee';
 }
 
@@ -1039,11 +1039,11 @@
   content: '\e0f0';
 }
 
-.md-burst-mode:after {
+.md-burst_mode:after {
   content: '\e0f1';
 }
 
-.md-burst-mode:before {
+.md-burst_mode:before {
   content: '\e0f2';
 }
 
@@ -1055,11 +1055,11 @@
   content: '\e0f4';
 }
 
-.md-business-center:after {
+.md-business_center:after {
   content: '\e0f5';
 }
 
-.md-business-center:before {
+.md-business_center:before {
   content: '\e0f6';
 }
 
@@ -1075,19 +1075,19 @@
   content: '\e0f9';
 }
 
-.md-calendar-today:after {
+.md-calendar_today:after {
   content: '\e0fa';
 }
 
-.md-calendar-today:before {
+.md-calendar_today:before {
   content: '\e0fb';
 }
 
-.md-calendar-view-day:after {
+.md-calendar_view_day:after {
   content: '\e0fc';
 }
 
-.md-calendar-view-day:before {
+.md-calendar_view_day:before {
   content: '\e0fd';
 }
 
@@ -1099,43 +1099,43 @@
   content: '\e0ff';
 }
 
-.md-call-end:after {
+.md-call_end:after {
   content: '\e100';
 }
 
-.md-call-end:before {
+.md-call_end:before {
   content: '\e101';
 }
 
-.md-call-made:after {
+.md-call_made:after {
   content: '\e102';
 }
 
-.md-call-merge:after {
+.md-call_merge:after {
   content: '\e103';
 }
 
-.md-call-missed:after {
+.md-call_missed:after {
   content: '\e104';
 }
 
-.md-call-missed-outgoing:after {
+.md-call_missed_outgoing:after {
   content: '\e105';
 }
 
-.md-call-received:after {
+.md-call_received:after {
   content: '\e106';
 }
 
-.md-call-split:after {
+.md-call_split:after {
   content: '\e107';
 }
 
-.md-call-to-action:after {
+.md-call_to_action:after {
   content: '\e108';
 }
 
-.md-call-to-action:before {
+.md-call_to_action:before {
   content: '\e109';
 }
 
@@ -1147,43 +1147,43 @@
   content: '\e10b';
 }
 
-.md-camera-alt:after {
+.md-camera_alt:after {
   content: '\e10c';
 }
 
-.md-camera-alt:before {
+.md-camera_alt:before {
   content: '\e10d';
 }
 
-.md-camera-enhance:after {
+.md-camera_enhance:after {
   content: '\e10e';
 }
 
-.md-camera-enhance:before {
+.md-camera_enhance:before {
   content: '\e10f';
 }
 
-.md-camera-front:after {
+.md-camera_front:after {
   content: '\e110';
 }
 
-.md-camera-front:before {
+.md-camera_front:before {
   content: '\e111';
 }
 
-.md-camera-rear:after {
+.md-camera_rear:after {
   content: '\e112';
 }
 
-.md-camera-rear:before {
+.md-camera_rear:before {
   content: '\e113';
 }
 
-.md-camera-roll:after {
+.md-camera_roll:after {
   content: '\e114';
 }
 
-.md-camera-roll:before {
+.md-camera_roll:before {
   content: '\e115';
 }
 
@@ -1195,43 +1195,43 @@
   content: '\e117';
 }
 
-.md-cancel-presentation:after {
+.md-cancel_presentation:after {
   content: '\e118';
 }
 
-.md-cancel-presentation:before {
+.md-cancel_presentation:before {
   content: '\e119';
 }
 
-.md-cancel-schedule-send:after {
+.md-cancel_schedule_send:after {
   content: '\e11a';
 }
 
-.md-cancel-schedule-send:before {
+.md-cancel_schedule_send:before {
   content: '\e11b';
 }
 
-.md-card-giftcard:after {
+.md-card_giftcard:after {
   content: '\e11c';
 }
 
-.md-card-giftcard:before {
+.md-card_giftcard:before {
   content: '\e11d';
 }
 
-.md-card-membership:after {
+.md-card_membership:after {
   content: '\e11e';
 }
 
-.md-card-membership:before {
+.md-card_membership:before {
   content: '\e11f';
 }
 
-.md-card-travel:after {
+.md-card_travel:after {
   content: '\e120';
 }
 
-.md-card-travel:before {
+.md-card_travel:before {
   content: '\e121';
 }
 
@@ -1247,15 +1247,15 @@
   content: '\e124';
 }
 
-.md-cast-connected:after {
+.md-cast_connected:after {
   content: '\e125';
 }
 
-.md-cast-connected:before {
+.md-cast_connected:before {
   content: '\e126';
 }
 
-.md-cast-for-education:after {
+.md-cast_for_education:after {
   content: '\e127';
 }
 
@@ -1267,35 +1267,35 @@
   content: '\e129';
 }
 
-.md-cell-wifi:after {
+.md-cell_wifi:after {
   content: '\e12a';
 }
 
-.md-cell-wifi:before {
+.md-cell_wifi:before {
   content: '\e12b';
 }
 
-.md-center-focus-strong:after {
+.md-center_focus_strong:after {
   content: '\e12c';
 }
 
-.md-center-focus-strong:before {
+.md-center_focus_strong:before {
   content: '\e12d';
 }
 
-.md-center-focus-weak:after {
+.md-center_focus_weak:after {
   content: '\e12e';
 }
 
-.md-center-focus-weak:before {
+.md-center_focus_weak:before {
   content: '\e12f';
 }
 
-.md-change-history:after {
+.md-change_history:after {
   content: '\e130';
 }
 
-.md-change-history:before {
+.md-change_history:before {
   content: '\e131';
 }
 
@@ -1307,15 +1307,15 @@
   content: '\e133';
 }
 
-.md-chat-bubble:after {
+.md-chat_bubble:after {
   content: '\e134';
 }
 
-.md-chat-bubble:before {
+.md-chat_bubble:before {
   content: '\e135';
 }
 
-.md-chat-bubble-outline:after {
+.md-chat_bubble_outline:after {
   content: '\e136';
 }
 
@@ -1323,59 +1323,59 @@
   content: '\e137';
 }
 
-.md-check-box:after {
+.md-check_box:after {
   content: '\e138';
 }
 
-.md-check-box:before {
+.md-check_box:before {
   content: '\e139';
 }
 
-.md-check-box-outline-blank:after {
+.md-check_box_outline_blank:after {
   content: '\e13a';
 }
 
-.md-check-circle:after {
+.md-check_circle:after {
   content: '\e13b';
 }
 
-.md-check-circle:before {
+.md-check_circle:before {
   content: '\e13c';
 }
 
-.md-check-circle-outline:after {
+.md-check_circle_outline:after {
   content: '\e13d';
 }
 
-.md-chevron-left:after {
+.md-chevron_left:after {
   content: '\e13e';
 }
 
-.md-chevron-right:after {
+.md-chevron_right:after {
   content: '\e13f';
 }
 
-.md-child-care:after {
+.md-child_care:after {
   content: '\e140';
 }
 
-.md-child-care:before {
+.md-child_care:before {
   content: '\e141';
 }
 
-.md-child-friendly:after {
+.md-child_friendly:after {
   content: '\e142';
 }
 
-.md-child-friendly:before {
+.md-child_friendly:before {
   content: '\e143';
 }
 
-.md-chrome-reader-mode:after {
+.md-chrome_reader_mode:after {
   content: '\e144';
 }
 
-.md-chrome-reader-mode:before {
+.md-chrome_reader_mode:before {
   content: '\e145';
 }
 
@@ -1391,7 +1391,7 @@
   content: '\e148';
 }
 
-.md-clear-all:after {
+.md-clear_all:after {
   content: '\e149';
 }
 
@@ -1399,11 +1399,11 @@
   content: '\e14a';
 }
 
-.md-closed-caption:after {
+.md-closed_caption:after {
   content: '\e14b';
 }
 
-.md-closed-caption:before {
+.md-closed_caption:before {
   content: '\e14c';
 }
 
@@ -1415,51 +1415,51 @@
   content: '\e14e';
 }
 
-.md-cloud-circle:after {
+.md-cloud_circle:after {
   content: '\e14f';
 }
 
-.md-cloud-circle:before {
+.md-cloud_circle:before {
   content: '\e150';
 }
 
-.md-cloud-done:after {
+.md-cloud_done:after {
   content: '\e151';
 }
 
-.md-cloud-done:before {
+.md-cloud_done:before {
   content: '\e152';
 }
 
-.md-cloud-download:after {
+.md-cloud_download:after {
   content: '\e153';
 }
 
-.md-cloud-download:before {
+.md-cloud_download:before {
   content: '\e154';
 }
 
-.md-cloud-off:after {
+.md-cloud_off:after {
   content: '\e155';
 }
 
-.md-cloud-off:before {
+.md-cloud_off:before {
   content: '\e156';
 }
 
-.md-cloud-queue:after {
+.md-cloud_queue:after {
   content: '\e157';
 }
 
-.md-cloud-queue:before {
+.md-cloud_queue:before {
   content: '\e158';
 }
 
-.md-cloud-upload:after {
+.md-cloud_upload:after {
   content: '\e159';
 }
 
-.md-cloud-upload:before {
+.md-cloud_upload:before {
   content: '\e15a';
 }
 
@@ -1475,19 +1475,19 @@
   content: '\e15d';
 }
 
-.md-collections-bookmark:after {
+.md-collections_bookmark:after {
   content: '\e15e';
 }
 
-.md-collections-bookmark:before {
+.md-collections_bookmark:before {
   content: '\e15f';
 }
 
-.md-color-lens:after {
+.md-color_lens:after {
   content: '\e160';
 }
 
-.md-color-lens:before {
+.md-color_lens:before {
   content: '\e161';
 }
 
@@ -1519,15 +1519,15 @@
   content: '\e168';
 }
 
-.md-compare-arrows:after {
+.md-compare_arrows:after {
   content: '\e169';
 }
 
-.md-compass-calibration:after {
+.md-compass_calibration:after {
   content: '\e16a';
 }
 
-.md-compass-calibration:before {
+.md-compass_calibration:before {
   content: '\e16b';
 }
 
@@ -1539,35 +1539,35 @@
   content: '\e16d';
 }
 
-.md-confirmation-number:after {
+.md-confirmation_number:after {
   content: '\e16e';
 }
 
-.md-confirmation-number:before {
+.md-confirmation_number:before {
   content: '\e16f';
 }
 
-.md-contact-mail:after {
+.md-contact_mail:after {
   content: '\e170';
 }
 
-.md-contact-mail:before {
+.md-contact_mail:before {
   content: '\e171';
 }
 
-.md-contact-phone:after {
+.md-contact_phone:after {
   content: '\e172';
 }
 
-.md-contact-phone:before {
+.md-contact_phone:before {
   content: '\e173';
 }
 
-.md-contact-support:after {
+.md-contact_support:after {
   content: '\e174';
 }
 
-.md-contact-support:before {
+.md-contact_support:before {
   content: '\e175';
 }
 
@@ -1587,47 +1587,47 @@
   content: '\e179';
 }
 
-.md-content-copy:after {
+.md-content_copy:after {
   content: '\e17a';
 }
 
-.md-content-copy:before {
+.md-content_copy:before {
   content: '\e17b';
 }
 
-.md-content-cut:after {
+.md-content_cut:after {
   content: '\e17c';
 }
 
-.md-content-cut:before {
+.md-content_cut:before {
   content: '\e17d';
 }
 
-.md-content-paste:after {
+.md-content_paste:after {
   content: '\e17e';
 }
 
-.md-content-paste:before {
+.md-content_paste:before {
   content: '\e17f';
 }
 
-.md-control-camera:after {
+.md-control_camera:after {
   content: '\e180';
 }
 
-.md-control-point:after {
+.md-control_point:after {
   content: '\e181';
 }
 
-.md-control-point:before {
+.md-control_point:before {
   content: '\e182';
 }
 
-.md-control-point-duplicate:after {
+.md-control_point_duplicate:after {
   content: '\e183';
 }
 
-.md-control-point-duplicate:before {
+.md-control_point_duplicate:before {
   content: '\e184';
 }
 
@@ -1647,19 +1647,19 @@
   content: '\e188';
 }
 
-.md-create-new-folder:after {
+.md-create_new_folder:after {
   content: '\e189';
 }
 
-.md-create-new-folder:before {
+.md-create_new_folder:before {
   content: '\e18a';
 }
 
-.md-credit-card:after {
+.md-credit_card:after {
   content: '\e18b';
 }
 
-.md-credit-card:before {
+.md-credit_card:before {
   content: '\e18c';
 }
 
@@ -1667,47 +1667,47 @@
   content: '\e18d';
 }
 
-.md-crop-16-9:after {
+.md-crop_16_9:after {
   content: '\e18e';
 }
 
-.md-crop-3-2:after {
+.md-crop_3_2:after {
   content: '\e18f';
 }
 
-.md-crop-5-4:after {
+.md-crop_5_4:after {
   content: '\e190';
 }
 
-.md-crop-7-5:after {
+.md-crop_7_5:after {
   content: '\e191';
 }
 
-.md-crop-din:after {
+.md-crop_din:after {
   content: '\e192';
 }
 
-.md-crop-free:after {
+.md-crop_free:after {
   content: '\e193';
 }
 
-.md-crop-landscape:after {
+.md-crop_landscape:after {
   content: '\e194';
 }
 
-.md-crop-original:after {
+.md-crop_original:after {
   content: '\e195';
 }
 
-.md-crop-portrait:after {
+.md-crop_portrait:after {
   content: '\e196';
 }
 
-.md-crop-rotate:after {
+.md-crop_rotate:after {
   content: '\e197';
 }
 
-.md-crop-square:after {
+.md-crop_square:after {
   content: '\e198';
 }
 
@@ -1719,15 +1719,15 @@
   content: '\e19a';
 }
 
-.md-data-usage:after {
+.md-data_usage:after {
   content: '\e19b';
 }
 
-.md-date-range:after {
+.md-date_range:after {
   content: '\e19c';
 }
 
-.md-date-range:before {
+.md-date_range:before {
   content: '\e19d';
 }
 
@@ -1751,31 +1751,31 @@
   content: '\e1a2';
 }
 
-.md-delete-forever:after {
+.md-delete_forever:after {
   content: '\e1a3';
 }
 
-.md-delete-forever:before {
+.md-delete_forever:before {
   content: '\e1a4';
 }
 
-.md-delete-outline:after {
+.md-delete_outline:after {
   content: '\e1a5';
 }
 
-.md-delete-sweep:after {
+.md-delete_sweep:after {
   content: '\e1a6';
 }
 
-.md-delete-sweep:before {
+.md-delete_sweep:before {
   content: '\e1a7';
 }
 
-.md-departure-board:after {
+.md-departure_board:after {
   content: '\e1a8';
 }
 
-.md-departure-board:before {
+.md-departure_board:before {
   content: '\e1a9';
 }
 
@@ -1787,27 +1787,27 @@
   content: '\e1ab';
 }
 
-.md-desktop-access-disabled:after {
+.md-desktop_access_disabled:after {
   content: '\e1ac';
 }
 
-.md-desktop-access-disabled:before {
+.md-desktop_access_disabled:before {
   content: '\e1ad';
 }
 
-.md-desktop-mac:after {
+.md-desktop_mac:after {
   content: '\e1ae';
 }
 
-.md-desktop-mac:before {
+.md-desktop_mac:before {
   content: '\e1af';
 }
 
-.md-desktop-windows:after {
+.md-desktop_windows:after {
   content: '\e1b0';
 }
 
-.md-desktop-windows:before {
+.md-desktop_windows:before {
   content: '\e1b1';
 }
 
@@ -1819,27 +1819,27 @@
   content: '\e1b3';
 }
 
-.md-developer-board:after {
+.md-developer_board:after {
   content: '\e1b4';
 }
 
-.md-developer-board:before {
+.md-developer_board:before {
   content: '\e1b5';
 }
 
-.md-developer-mode:after {
+.md-developer_mode:after {
   content: '\e1b6';
 }
 
-.md-device-hub:after {
+.md-device_hub:after {
   content: '\e1b7';
 }
 
-.md-device-unknown:after {
+.md-device_unknown:after {
   content: '\e1b8';
 }
 
-.md-device-unknown:before {
+.md-device_unknown:before {
   content: '\e1b9';
 }
 
@@ -1851,19 +1851,19 @@
   content: '\e1bb';
 }
 
-.md-devices-other:after {
+.md-devices_other:after {
   content: '\e1bc';
 }
 
-.md-devices-other:before {
+.md-devices_other:before {
   content: '\e1bd';
 }
 
-.md-dialer-sip:after {
+.md-dialer_sip:after {
   content: '\e1be';
 }
 
-.md-dialer-sip:before {
+.md-dialer_sip:before {
   content: '\e1bf';
 }
 
@@ -1879,71 +1879,71 @@
   content: '\e1c2';
 }
 
-.md-directions-bike:after {
+.md-directions_bike:after {
   content: '\e1c3';
 }
 
-.md-directions-boat:after {
+.md-directions_boat:after {
   content: '\e1c4';
 }
 
-.md-directions-boat:before {
+.md-directions_boat:before {
   content: '\e1c5';
 }
 
-.md-directions-bus:after {
+.md-directions_bus:after {
   content: '\e1c6';
 }
 
-.md-directions-bus:before {
+.md-directions_bus:before {
   content: '\e1c7';
 }
 
-.md-directions-car:after {
+.md-directions_car:after {
   content: '\e1c8';
 }
 
-.md-directions-car:before {
+.md-directions_car:before {
   content: '\e1c9';
 }
 
-.md-directions-railway:after {
+.md-directions_railway:after {
   content: '\e1ca';
 }
 
-.md-directions-railway:before {
+.md-directions_railway:before {
   content: '\e1cb';
 }
 
-.md-directions-run:after {
+.md-directions_run:after {
   content: '\e1cc';
 }
 
-.md-directions-subway:after {
+.md-directions_subway:after {
   content: '\e1cd';
 }
 
-.md-directions-subway:before {
+.md-directions_subway:before {
   content: '\e1ce';
 }
 
-.md-directions-transit:after {
+.md-directions_transit:after {
   content: '\e1cf';
 }
 
-.md-directions-transit:before {
+.md-directions_transit:before {
   content: '\e1d0';
 }
 
-.md-directions-walk:after {
+.md-directions_walk:after {
   content: '\e1d1';
 }
 
-.md-disc-full:after {
+.md-disc_full:after {
   content: '\e1d2';
 }
 
-.md-disc-full:before {
+.md-disc_full:before {
   content: '\e1d3';
 }
 
@@ -1963,27 +1963,27 @@
   content: '\e1d7';
 }
 
-.md-do-not-disturb:after {
+.md-do_not_disturb:after {
   content: '\e1d8';
 }
 
-.md-do-not-disturb:before {
+.md-do_not_disturb:before {
   content: '\e1d9';
 }
 
-.md-do-not-disturb-alt:after {
+.md-do_not_disturb_alt:after {
   content: '\e1da';
 }
 
-.md-do-not-disturb-alt:before {
+.md-do_not_disturb_alt:before {
   content: '\e1db';
 }
 
-.md-do-not-disturb-off:after {
+.md-do_not_disturb_off:after {
   content: '\e1dc';
 }
 
-.md-do-not-disturb-off:before {
+.md-do_not_disturb_off:before {
   content: '\e1dd';
 }
 
@@ -2003,11 +2003,11 @@
   content: '\e1e1';
 }
 
-.md-domain-disabled:after {
+.md-domain_disabled:after {
   content: '\e1e2';
 }
 
-.md-domain-disabled:before {
+.md-domain_disabled:before {
   content: '\e1e3';
 }
 
@@ -2015,27 +2015,27 @@
   content: '\e1e4';
 }
 
-.md-done-all:after {
+.md-done_all:after {
   content: '\e1e5';
 }
 
-.md-done-outline:after {
+.md-done_outline:after {
   content: '\e1e6';
 }
 
-.md-donut-large:after {
+.md-donut_large:after {
   content: '\e1e7';
 }
 
-.md-donut-small:after {
+.md-donut_small:after {
   content: '\e1e8';
 }
 
-.md-donut-small:before {
+.md-donut_small:before {
   content: '\e1e9';
 }
 
-.md-double-arrow:after {
+.md-double_arrow:after {
   content: '\e1ea';
 }
 
@@ -2047,19 +2047,19 @@
   content: '\e1ec';
 }
 
-.md-drag-handle:after {
+.md-drag_handle:after {
   content: '\e1ed';
 }
 
-.md-drag-indicator:after {
+.md-drag_indicator:after {
   content: '\e1ee';
 }
 
-.md-drive-eta:after {
+.md-drive_eta:after {
   content: '\e1ef';
 }
 
-.md-drive-eta:before {
+.md-drive_eta:before {
   content: '\e1f0';
 }
 
@@ -2075,11 +2075,11 @@
   content: '\e1f3';
 }
 
-.md-dynamic-feed:after {
+.md-dynamic_feed:after {
   content: '\e1f4';
 }
 
-.md-dynamic-feed:before {
+.md-dynamic_feed:before {
   content: '\e1f5';
 }
 
@@ -2099,19 +2099,19 @@
   content: '\e1f9';
 }
 
-.md-edit-attributes:after {
+.md-edit_attributes:after {
   content: '\e1fa';
 }
 
-.md-edit-attributes:before {
+.md-edit_attributes:before {
   content: '\e1fb';
 }
 
-.md-edit-location:after {
+.md-edit_location:after {
   content: '\e1fc';
 }
 
-.md-edit-location:before {
+.md-edit_location:before {
   content: '\e1fd';
 }
 
@@ -2131,71 +2131,71 @@
   content: '\e201';
 }
 
-.md-emoji-emotions:after {
+.md-emoji_emotions:after {
   content: '\e202';
 }
 
-.md-emoji-emotions:before {
+.md-emoji_emotions:before {
   content: '\e203';
 }
 
-.md-emoji-events:after {
+.md-emoji_events:after {
   content: '\e204';
 }
 
-.md-emoji-events:before {
+.md-emoji_events:before {
   content: '\e205';
 }
 
-.md-emoji-flags:after {
+.md-emoji_flags:after {
   content: '\e206';
 }
 
-.md-emoji-flags:before {
+.md-emoji_flags:before {
   content: '\e207';
 }
 
-.md-emoji-food-beverage:after {
+.md-emoji_food_beverage:after {
   content: '\e208';
 }
 
-.md-emoji-food-beverage:before {
+.md-emoji_food_beverage:before {
   content: '\e209';
 }
 
-.md-emoji-nature:after {
+.md-emoji_nature:after {
   content: '\e20a';
 }
 
-.md-emoji-nature:before {
+.md-emoji_nature:before {
   content: '\e20b';
 }
 
-.md-emoji-objects:after {
+.md-emoji_objects:after {
   content: '\e20c';
 }
 
-.md-emoji-objects:before {
+.md-emoji_objects:before {
   content: '\e20d';
 }
 
-.md-emoji-people:after {
+.md-emoji_people:after {
   content: '\e20e';
 }
 
-.md-emoji-symbols:after {
+.md-emoji_symbols:after {
   content: '\e20f';
 }
 
-.md-emoji-transportation:after {
+.md-emoji_transportation:after {
   content: '\e210';
 }
 
-.md-enhanced-encryption:after {
+.md-enhanced_encryption:after {
   content: '\e211';
 }
 
-.md-enhanced-encryption:before {
+.md-enhanced_encryption:before {
   content: '\e212';
 }
 
@@ -2215,7 +2215,7 @@
   content: '\e216';
 }
 
-.md-error-outline:after {
+.md-error_outline:after {
   content: '\e217';
 }
 
@@ -2223,15 +2223,15 @@
   content: '\e218';
 }
 
-.md-euro-symbol:after {
+.md-euro_symbol:after {
   content: '\e219';
 }
 
-.md-ev-station:after {
+.md-ev_station:after {
   content: '\e21a';
 }
 
-.md-ev-station:before {
+.md-ev_station:before {
   content: '\e21b';
 }
 
@@ -2243,47 +2243,47 @@
   content: '\e21d';
 }
 
-.md-event-available:after {
+.md-event_available:after {
   content: '\e21e';
 }
 
-.md-event-available:before {
+.md-event_available:before {
   content: '\e21f';
 }
 
-.md-event-busy:after {
+.md-event_busy:after {
   content: '\e220';
 }
 
-.md-event-busy:before {
+.md-event_busy:before {
   content: '\e221';
 }
 
-.md-event-note:after {
+.md-event_note:after {
   content: '\e222';
 }
 
-.md-event-note:before {
+.md-event_note:before {
   content: '\e223';
 }
 
-.md-event-seat:after {
+.md-event_seat:after {
   content: '\e224';
 }
 
-.md-event-seat:before {
+.md-event_seat:before {
   content: '\e225';
 }
 
-.md-exit-to-app:after {
+.md-exit_to_app:after {
   content: '\e226';
 }
 
-.md-expand-less:after {
+.md-expand_less:after {
   content: '\e227';
 }
 
-.md-expand-more:after {
+.md-expand_more:after {
   content: '\e228';
 }
 
@@ -2303,11 +2303,11 @@
   content: '\e22c';
 }
 
-.md-explore-off:after {
+.md-explore_off:after {
   content: '\e22d';
 }
 
-.md-explore-off:before {
+.md-explore_off:before {
   content: '\e22e';
 }
 
@@ -2319,23 +2319,23 @@
   content: '\e230';
 }
 
-.md-exposure-neg-1:after {
+.md-exposure_neg_1:after {
   content: '\e231';
 }
 
-.md-exposure-neg-2:after {
+.md-exposure_neg_2:after {
   content: '\e232';
 }
 
-.md-exposure-plus-1:after {
+.md-exposure_plus_1:after {
   content: '\e233';
 }
 
-.md-exposure-plus-2:after {
+.md-exposure_plus_2:after {
   content: '\e234';
 }
 
-.md-exposure-zero:after {
+.md-exposure_zero:after {
   content: '\e235';
 }
 
@@ -2355,19 +2355,19 @@
   content: '\e239';
 }
 
-.md-fast-forward:after {
+.md-fast_forward:after {
   content: '\e23a';
 }
 
-.md-fast-forward:before {
+.md-fast_forward:before {
   content: '\e23b';
 }
 
-.md-fast-rewind:after {
+.md-fast_rewind:after {
   content: '\e23c';
 }
 
-.md-fast-rewind:before {
+.md-fast_rewind:before {
   content: '\e23d';
 }
 
@@ -2387,23 +2387,23 @@
   content: '\e241';
 }
 
-.md-favorite-border:after {
+.md-favorite_border:after {
   content: '\e242';
 }
 
-.md-featured-play-list:after {
+.md-featured_play_list:after {
   content: '\e243';
 }
 
-.md-featured-play-list:before {
+.md-featured_play_list:before {
   content: '\e244';
 }
 
-.md-featured-video:after {
+.md-featured_video:after {
   content: '\e245';
 }
 
-.md-featured-video:before {
+.md-featured_video:before {
   content: '\e246';
 }
 
@@ -2415,59 +2415,59 @@
   content: '\e248';
 }
 
-.md-fiber-dvr:after {
+.md-fiber_dvr:after {
   content: '\e249';
 }
 
-.md-fiber-dvr:before {
+.md-fiber_dvr:before {
   content: '\e24a';
 }
 
-.md-fiber-manual-record:after {
+.md-fiber_manual_record:after {
   content: '\e24b';
 }
 
-.md-fiber-manual-record:before {
+.md-fiber_manual_record:before {
   content: '\e24c';
 }
 
-.md-fiber-new:after {
+.md-fiber_new:after {
   content: '\e24d';
 }
 
-.md-fiber-new:before {
+.md-fiber_new:before {
   content: '\e24e';
 }
 
-.md-fiber-pin:after {
+.md-fiber_pin:after {
   content: '\e24f';
 }
 
-.md-fiber-pin:before {
+.md-fiber_pin:before {
   content: '\e250';
 }
 
-.md-fiber-smart-record:after {
+.md-fiber_smart_record:after {
   content: '\e251';
 }
 
-.md-fiber-smart-record:before {
+.md-fiber_smart_record:before {
   content: '\e252';
 }
 
-.md-file-copy:after {
+.md-file_copy:after {
   content: '\e253';
 }
 
-.md-file-copy:before {
+.md-file_copy:before {
   content: '\e254';
 }
 
-.md-file-upload:after {
+.md-file_upload:after {
   content: '\e255';
 }
 
-.md-file-upload:before {
+.md-file_upload:before {
   content: '\e256';
 }
 
@@ -2479,155 +2479,155 @@
   content: '\e258';
 }
 
-.md-filter-1:after {
+.md-filter_1:after {
   content: '\e259';
 }
 
-.md-filter-1:before {
+.md-filter_1:before {
   content: '\e25a';
 }
 
-.md-filter-2:after {
+.md-filter_2:after {
   content: '\e25b';
 }
 
-.md-filter-2:before {
+.md-filter_2:before {
   content: '\e25c';
 }
 
-.md-filter-3:after {
+.md-filter_3:after {
   content: '\e25d';
 }
 
-.md-filter-3:before {
+.md-filter_3:before {
   content: '\e25e';
 }
 
-.md-filter-4:after {
+.md-filter_4:after {
   content: '\e25f';
 }
 
-.md-filter-4:before {
+.md-filter_4:before {
   content: '\e260';
 }
 
-.md-filter-5:after {
+.md-filter_5:after {
   content: '\e261';
 }
 
-.md-filter-5:before {
+.md-filter_5:before {
   content: '\e262';
 }
 
-.md-filter-6:after {
+.md-filter_6:after {
   content: '\e263';
 }
 
-.md-filter-6:before {
+.md-filter_6:before {
   content: '\e264';
 }
 
-.md-filter-7:after {
+.md-filter_7:after {
   content: '\e265';
 }
 
-.md-filter-7:before {
+.md-filter_7:before {
   content: '\e266';
 }
 
-.md-filter-8:after {
+.md-filter_8:after {
   content: '\e267';
 }
 
-.md-filter-8:before {
+.md-filter_8:before {
   content: '\e268';
 }
 
-.md-filter-9:after {
+.md-filter_9:after {
   content: '\e269';
 }
 
-.md-filter-9:before {
+.md-filter_9:before {
   content: '\e26a';
 }
 
-.md-filter-9-plus:after {
+.md-filter_9_plus:after {
   content: '\e26b';
 }
 
-.md-filter-9-plus:before {
+.md-filter_9_plus:before {
   content: '\e26c';
 }
 
-.md-filter-b-and-w:after {
+.md-filter_b_and_w:after {
   content: '\e26d';
 }
 
-.md-filter-b-and-w:before {
+.md-filter_b_and_w:before {
   content: '\e26e';
 }
 
-.md-filter-center-focus:after {
+.md-filter_center_focus:after {
   content: '\e26f';
 }
 
-.md-filter-drama:after {
+.md-filter_drama:after {
   content: '\e270';
 }
 
-.md-filter-drama:before {
+.md-filter_drama:before {
   content: '\e271';
 }
 
-.md-filter-frames:after {
+.md-filter_frames:after {
   content: '\e272';
 }
 
-.md-filter-frames:before {
+.md-filter_frames:before {
   content: '\e273';
 }
 
-.md-filter-hdr:after {
+.md-filter_hdr:after {
   content: '\e274';
 }
 
-.md-filter-hdr:before {
+.md-filter_hdr:before {
   content: '\e275';
 }
 
-.md-filter-list:after {
+.md-filter_list:after {
   content: '\e276';
 }
 
-.md-filter-none:after {
+.md-filter_none:after {
   content: '\e277';
 }
 
-.md-filter-none:before {
+.md-filter_none:before {
   content: '\e278';
 }
 
-.md-filter-tilt-shift:after {
+.md-filter_tilt_shift:after {
   content: '\e279';
 }
 
-.md-filter-vintage:after {
+.md-filter_vintage:after {
   content: '\e27a';
 }
 
-.md-filter-vintage:before {
+.md-filter_vintage:before {
   content: '\e27b';
 }
 
-.md-find-in-page:after {
+.md-find_in_page:after {
   content: '\e27c';
 }
 
-.md-find-in-page:before {
+.md-find_in_page:before {
   content: '\e27d';
 }
 
-.md-find-replace:after {
+.md-find_replace:after {
   content: '\e27e';
 }
 
@@ -2643,11 +2643,11 @@
   content: '\e281';
 }
 
-.md-first-page:after {
+.md-first_page:after {
   content: '\e282';
 }
 
-.md-fitness-center:after {
+.md-fitness_center:after {
   content: '\e283';
 }
 
@@ -2663,15 +2663,15 @@
   content: '\e286';
 }
 
-.md-flash-auto:after {
+.md-flash_auto:after {
   content: '\e287';
 }
 
-.md-flash-off:after {
+.md-flash_off:after {
   content: '\e288';
 }
 
-.md-flash-on:after {
+.md-flash_on:after {
   content: '\e289';
 }
 
@@ -2679,11 +2679,11 @@
   content: '\e28a';
 }
 
-.md-flight-land:after {
+.md-flight_land:after {
   content: '\e28b';
 }
 
-.md-flight-takeoff:after {
+.md-flight_takeoff:after {
   content: '\e28c';
 }
 
@@ -2691,27 +2691,27 @@
   content: '\e28d';
 }
 
-.md-flip-camera-android:after {
+.md-flip_camera_android:after {
   content: '\e28e';
 }
 
-.md-flip-camera-android:before {
+.md-flip_camera_android:before {
   content: '\e28f';
 }
 
-.md-flip-camera-ios:after {
+.md-flip_camera_ios:after {
   content: '\e290';
 }
 
-.md-flip-camera-ios:before {
+.md-flip_camera_ios:before {
   content: '\e291';
 }
 
-.md-flip-to-back:after {
+.md-flip_to_back:after {
   content: '\e292';
 }
 
-.md-flip-to-front:after {
+.md-flip_to_front:after {
   content: '\e293';
 }
 
@@ -2723,163 +2723,163 @@
   content: '\e295';
 }
 
-.md-folder-open:after {
+.md-folder_open:after {
   content: '\e296';
 }
 
-.md-folder-open:before {
+.md-folder_open:before {
   content: '\e297';
 }
 
-.md-folder-shared:after {
+.md-folder_shared:after {
   content: '\e298';
 }
 
-.md-folder-shared:before {
+.md-folder_shared:before {
   content: '\e299';
 }
 
-.md-folder-special:after {
+.md-folder_special:after {
   content: '\e29a';
 }
 
-.md-folder-special:before {
+.md-folder_special:before {
   content: '\e29b';
 }
 
-.md-font-download:after {
+.md-font_download:after {
   content: '\e29c';
 }
 
-.md-font-download:before {
+.md-font_download:before {
   content: '\e29d';
 }
 
-.md-format-align-center:after {
+.md-format_align_center:after {
   content: '\e29e';
 }
 
-.md-format-align-justify:after {
+.md-format_align_justify:after {
   content: '\e29f';
 }
 
-.md-format-align-left:after {
+.md-format_align_left:after {
   content: '\e2a0';
 }
 
-.md-format-align-right:after {
+.md-format_align_right:after {
   content: '\e2a1';
 }
 
-.md-format-bold:after {
+.md-format_bold:after {
   content: '\e2a2';
 }
 
-.md-format-clear:after {
+.md-format_clear:after {
   content: '\e2a3';
 }
 
-.md-format-color-fill:after {
+.md-format_color_fill:after {
   content: '\e2a4';
 }
 
-.md-format-color-fill:before {
+.md-format_color_fill:before {
   content: '\e2a5';
 }
 
-.md-format-color-reset:after {
+.md-format_color_reset:after {
   content: '\e2a6';
 }
 
-.md-format-color-reset:before {
+.md-format_color_reset:before {
   content: '\e2a7';
 }
 
-.md-format-color-text:after {
+.md-format_color_text:after {
   content: '\e2a8';
 }
 
-.md-format-color-text:before {
+.md-format_color_text:before {
   content: '\e2a9';
 }
 
-.md-format-indent-decrease:after {
+.md-format_indent_decrease:after {
   content: '\e2aa';
 }
 
-.md-format-indent-increase:after {
+.md-format_indent_increase:after {
   content: '\e2ab';
 }
 
-.md-format-italic:after {
+.md-format_italic:after {
   content: '\e2ac';
 }
 
-.md-format-line-spacing:after {
+.md-format_line_spacing:after {
   content: '\e2ad';
 }
 
-.md-format-list-bulleted:after {
+.md-format_list_bulleted:after {
   content: '\e2ae';
 }
 
-.md-format-list-numbered:after {
+.md-format_list_numbered:after {
   content: '\e2af';
 }
 
-.md-format-list-numbered-rtl:after {
+.md-format_list_numbered_rtl:after {
   content: '\e2b0';
 }
 
-.md-format-paint:after {
+.md-format_paint:after {
   content: '\e2b1';
 }
 
-.md-format-paint:before {
+.md-format_paint:before {
   content: '\e2b2';
 }
 
-.md-format-quote:after {
+.md-format_quote:after {
   content: '\e2b3';
 }
 
-.md-format-quote:before {
+.md-format_quote:before {
   content: '\e2b4';
 }
 
-.md-format-shapes:after {
+.md-format_shapes:after {
   content: '\e2b5';
 }
 
-.md-format-shapes:before {
+.md-format_shapes:before {
   content: '\e2b6';
 }
 
-.md-format-size:after {
+.md-format_size:after {
   content: '\e2b7';
 }
 
-.md-format-strikethrough:after {
+.md-format_strikethrough:after {
   content: '\e2b8';
 }
 
-.md-format-textdirection-l-to-r:after {
+.md-format_textdirection_l_to_r:after {
   content: '\e2b9';
 }
 
-.md-format-textdirection-l-to-r:before {
+.md-format_textdirection_l_to_r:before {
   content: '\e2ba';
 }
 
-.md-format-textdirection-r-to-l:after {
+.md-format_textdirection_r_to_l:after {
   content: '\e2bb';
 }
 
-.md-format-textdirection-r-to-l:before {
+.md-format_textdirection_r_to_l:before {
   content: '\e2bc';
 }
 
-.md-format-underlined:after {
+.md-format_underlined:after {
   content: '\e2bd';
 }
 
@@ -2899,23 +2899,23 @@
   content: '\e2c1';
 }
 
-.md-forward-10:after {
+.md-forward_10:after {
   content: '\e2c2';
 }
 
-.md-forward-30:after {
+.md-forward_30:after {
   content: '\e2c3';
 }
 
-.md-forward-5:after {
+.md-forward_5:after {
   content: '\e2c4';
 }
 
-.md-free-breakfast:after {
+.md-free_breakfast:after {
   content: '\e2c5';
 }
 
-.md-free-breakfast:before {
+.md-free_breakfast:before {
   content: '\e2c6';
 }
 
@@ -2923,7 +2923,7 @@
   content: '\e2c7';
 }
 
-.md-fullscreen-exit:after {
+.md-fullscreen_exit:after {
   content: '\e2c8';
 }
 
@@ -2931,7 +2931,7 @@
   content: '\e2c9';
 }
 
-.md-g-translate:after {
+.md-g_translate:after {
   content: '\e2ca';
 }
 
@@ -2959,11 +2959,11 @@
   content: '\e2d0';
 }
 
-.md-get-app:after {
+.md-get_app:after {
   content: '\e2d1';
 }
 
-.md-get-app:before {
+.md-get_app:before {
   content: '\e2d2';
 }
 
@@ -2971,27 +2971,27 @@
   content: '\e2d3';
 }
 
-.md-golf-course:after {
+.md-golf_course:after {
   content: '\e2d5';
 }
 
-.md-golf-course:before {
+.md-golf_course:before {
   content: '\e2d6';
 }
 
-.md-gps-fixed:after {
+.md-gps_fixed:after {
   content: '\e2d7';
 }
 
-.md-gps-fixed:before {
+.md-gps_fixed:before {
   content: '\e2d8';
 }
 
-.md-gps-not-fixed:after {
+.md-gps_not_fixed:after {
   content: '\e2d9';
 }
 
-.md-gps-off:after {
+.md-gps_off:after {
   content: '\e2da';
 }
 
@@ -3011,31 +3011,31 @@
   content: '\e2de';
 }
 
-.md-graphic-eq:after {
+.md-graphic_eq:after {
   content: '\e2df';
 }
 
-.md-greater-than:after {
+.md-greater_than:after {
   content: '\e2e0';
 }
 
-.md-greater-than-equal:after {
+.md-greater_than_equal:after {
   content: '\e2e1';
 }
 
-.md-grid-off:after {
+.md-grid_off:after {
   content: '\e2e2';
 }
 
-.md-grid-off:before {
+.md-grid_off:before {
   content: '\e2e3';
 }
 
-.md-grid-on:after {
+.md-grid_on:after {
   content: '\e2e4';
 }
 
-.md-grid-on:before {
+.md-grid_on:before {
   content: '\e2e5';
 }
 
@@ -3047,19 +3047,19 @@
   content: '\e2e7';
 }
 
-.md-group-add:after {
+.md-group_add:after {
   content: '\e2e8';
 }
 
-.md-group-add:before {
+.md-group_add:before {
   content: '\e2e9';
 }
 
-.md-group-work:after {
+.md-group_work:after {
   content: '\e2ea';
 }
 
-.md-group-work:before {
+.md-group_work:before {
   content: '\e2eb';
 }
 
@@ -3071,27 +3071,27 @@
   content: '\e2ed';
 }
 
-.md-hdr-off:after {
+.md-hdr_off:after {
   content: '\e2ee';
 }
 
-.md-hdr-on:after {
+.md-hdr_on:after {
   content: '\e2ef';
 }
 
-.md-hdr-strong:after {
+.md-hdr_strong:after {
   content: '\e2f0';
 }
 
-.md-hdr-strong:before {
+.md-hdr_strong:before {
   content: '\e2f1';
 }
 
-.md-hdr-weak:after {
+.md-hdr_weak:after {
   content: '\e2f2';
 }
 
-.md-hdr-weak:before {
+.md-hdr_weak:before {
   content: '\e2f3';
 }
 
@@ -3103,11 +3103,11 @@
   content: '\e2f5';
 }
 
-.md-headset-mic:after {
+.md-headset_mic:after {
   content: '\e2f6';
 }
 
-.md-headset-mic:before {
+.md-headset_mic:before {
   content: '\e2f7';
 }
 
@@ -3135,15 +3135,15 @@
   content: '\e2fd';
 }
 
-.md-help-outline:after {
+.md-help_outline:after {
   content: '\e2fe';
 }
 
-.md-high-quality:after {
+.md-high_quality:after {
   content: '\e2ff';
 }
 
-.md-high-quality:before {
+.md-high_quality:before {
   content: '\e300';
 }
 
@@ -3155,11 +3155,11 @@
   content: '\e302';
 }
 
-.md-highlight-off:after {
+.md-highlight_off:after {
   content: '\e303';
 }
 
-.md-highlight-off:before {
+.md-highlight_off:before {
   content: '\e304';
 }
 
@@ -3175,23 +3175,23 @@
   content: '\e307';
 }
 
-.md-home-work:after {
+.md-home_work:after {
   content: '\e308';
 }
 
-.md-home-work:before {
+.md-home_work:before {
   content: '\e309';
 }
 
-.md-horizontal-split:after {
+.md-horizontal_split:after {
   content: '\e30a';
 }
 
-.md-horizontal-split:before {
+.md-horizontal_split:before {
   content: '\e30b';
 }
 
-.md-hot-tub:after {
+.md-hot_tub:after {
   content: '\e30c';
 }
 
@@ -3203,15 +3203,15 @@
   content: '\e30e';
 }
 
-.md-hourglass-empty:after {
+.md-hourglass_empty:after {
   content: '\e30f';
 }
 
-.md-hourglass-full:after {
+.md-hourglass_full:after {
   content: '\e310';
 }
 
-.md-hourglass-full:before {
+.md-hourglass_full:before {
   content: '\e311';
 }
 
@@ -3223,19 +3223,19 @@
   content: '\e313';
 }
 
-.md-how-to-reg:after {
+.md-how_to_reg:after {
   content: '\e314';
 }
 
-.md-how-to-reg:before {
+.md-how_to_reg:before {
   content: '\e315';
 }
 
-.md-how-to-vote:after {
+.md-how_to_vote:after {
   content: '\e316';
 }
 
-.md-how-to-vote:before {
+.md-how_to_vote:before {
   content: '\e317';
 }
 
@@ -3259,39 +3259,39 @@
   content: '\e31c';
 }
 
-.md-image-aspect-ratio:after {
+.md-image_aspect_ratio:after {
   content: '\e31d';
 }
 
-.md-image-aspect-ratio:before {
+.md-image_aspect_ratio:before {
   content: '\e31e';
 }
 
-.md-image-search:after {
+.md-image_search:after {
   content: '\e31f';
 }
 
-.md-image-search:before {
+.md-image_search:before {
   content: '\e320';
 }
 
-.md-import-contacts:after {
+.md-import_contacts:after {
   content: '\e321';
 }
 
-.md-import-contacts:before {
+.md-import_contacts:before {
   content: '\e322';
 }
 
-.md-import-export:after {
+.md-import_export:after {
   content: '\e323';
 }
 
-.md-important-devices:after {
+.md-important_devices:after {
   content: '\e324';
 }
 
-.md-important-devices:before {
+.md-important_devices:before {
   content: '\e325';
 }
 
@@ -3303,11 +3303,11 @@
   content: '\e327';
 }
 
-.md-indeterminate-check-box:after {
+.md-indeterminate_check_box:after {
   content: '\e328';
 }
 
-.md-indeterminate-check-box:before {
+.md-indeterminate_check_box:before {
   content: '\e329';
 }
 
@@ -3323,75 +3323,75 @@
   content: '\e32c';
 }
 
-.md-insert-chart:after {
+.md-insert_chart:after {
   content: '\e32d';
 }
 
-.md-insert-chart:before {
+.md-insert_chart:before {
   content: '\e32e';
 }
 
-.md-insert-chart-outlined:after {
+.md-insert_chart_outlined:after {
   content: '\e32f';
 }
 
-.md-insert-comment:after {
+.md-insert_comment:after {
   content: '\e330';
 }
 
-.md-insert-comment:before {
+.md-insert_comment:before {
   content: '\e331';
 }
 
-.md-insert-drive-file:after {
+.md-insert_drive_file:after {
   content: '\e332';
 }
 
-.md-insert-drive-file:before {
+.md-insert_drive_file:before {
   content: '\e333';
 }
 
-.md-insert-emoticon:after {
+.md-insert_emoticon:after {
   content: '\e334';
 }
 
-.md-insert-emoticon:before {
+.md-insert_emoticon:before {
   content: '\e335';
 }
 
-.md-insert-invitation:after {
+.md-insert_invitation:after {
   content: '\e336';
 }
 
-.md-insert-invitation:before {
+.md-insert_invitation:before {
   content: '\e337';
 }
 
-.md-insert-link:after {
+.md-insert_link:after {
   content: '\e338';
 }
 
-.md-insert-photo:after {
+.md-insert_photo:after {
   content: '\e339';
 }
 
-.md-insert-photo:before {
+.md-insert_photo:before {
   content: '\e33a';
 }
 
-.md-invert-colors:after {
+.md-invert_colors:after {
   content: '\e33b';
 }
 
-.md-invert-colors:before {
+.md-invert_colors:before {
   content: '\e33c';
 }
 
-.md-invert-colors-off:after {
+.md-invert_colors_off:after {
   content: '\e33d';
 }
 
-.md-invert-colors-off:before {
+.md-invert_colors_off:before {
   content: '\e33e';
 }
 
@@ -3411,59 +3411,59 @@
   content: '\e342';
 }
 
-.md-keyboard-arrow-down:after {
+.md-keyboard_arrow_down:after {
   content: '\e343';
 }
 
-.md-keyboard-arrow-left:after {
+.md-keyboard_arrow_left:after {
   content: '\e344';
 }
 
-.md-keyboard-arrow-right:after {
+.md-keyboard_arrow_right:after {
   content: '\e345';
 }
 
-.md-keyboard-arrow-up:after {
+.md-keyboard_arrow_up:after {
   content: '\e346';
 }
 
-.md-keyboard-backspace:after {
+.md-keyboard_backspace:after {
   content: '\e347';
 }
 
-.md-keyboard-capslock:after {
+.md-keyboard_capslock:after {
   content: '\e348';
 }
 
-.md-keyboard-hide:after {
+.md-keyboard_hide:after {
   content: '\e349';
 }
 
-.md-keyboard-hide:before {
+.md-keyboard_hide:before {
   content: '\e34a';
 }
 
-.md-keyboard-return:after {
+.md-keyboard_return:after {
   content: '\e34b';
 }
 
-.md-keyboard-tab:after {
+.md-keyboard_tab:after {
   content: '\e34c';
 }
 
-.md-keyboard-voice:after {
+.md-keyboard_voice:after {
   content: '\e34d';
 }
 
-.md-keyboard-voice:before {
+.md-keyboard_voice:before {
   content: '\e34e';
 }
 
-.md-king-bed:after {
+.md-king_bed:after {
   content: '\e34f';
 }
 
-.md-king-bed:before {
+.md-king_bed:before {
   content: '\e350';
 }
 
@@ -3483,19 +3483,19 @@
   content: '\e354';
 }
 
-.md-label-important:after {
+.md-label_important:after {
   content: '\e355';
 }
 
-.md-label-important:before {
+.md-label_important:before {
   content: '\e356';
 }
 
-.md-label-off:after {
+.md-label_off:after {
   content: '\e357';
 }
 
-.md-label-off:before {
+.md-label_off:before {
   content: '\e358';
 }
 
@@ -3523,31 +3523,31 @@
   content: '\e35e';
 }
 
-.md-laptop-chromebook:after {
+.md-laptop_chromebook:after {
   content: '\e35f';
 }
 
-.md-laptop-chromebook:before {
+.md-laptop_chromebook:before {
   content: '\e360';
 }
 
-.md-laptop-mac:after {
+.md-laptop_mac:after {
   content: '\e361';
 }
 
-.md-laptop-mac:before {
+.md-laptop_mac:before {
   content: '\e362';
 }
 
-.md-laptop-windows:after {
+.md-laptop_windows:after {
   content: '\e363';
 }
 
-.md-laptop-windows:before {
+.md-laptop_windows:before {
   content: '\e364';
 }
 
-.md-last-page:after {
+.md-last_page:after {
   content: '\e365';
 }
 
@@ -3563,19 +3563,19 @@
   content: '\e368';
 }
 
-.md-layers-clear:after {
+.md-layers_clear:after {
   content: '\e369';
 }
 
-.md-layers-clear:before {
+.md-layers_clear:before {
   content: '\e36a';
 }
 
-.md-leak-add:after {
+.md-leak_add:after {
   content: '\e36b';
 }
 
-.md-leak-remove:after {
+.md-leak_remove:after {
   content: '\e36c';
 }
 
@@ -3587,35 +3587,35 @@
   content: '\e36e';
 }
 
-.md-less-than:after {
+.md-less_than:after {
   content: '\e36f';
 }
 
-.md-less-than-equal:after {
+.md-less_than_equal:after {
   content: '\e370';
 }
 
-.md-library-add:after {
+.md-library_add:after {
   content: '\e371';
 }
 
-.md-library-add:before {
+.md-library_add:before {
   content: '\e372';
 }
 
-.md-library-books:after {
+.md-library_books:after {
   content: '\e373';
 }
 
-.md-library-books:before {
+.md-library_books:before {
   content: '\e374';
 }
 
-.md-library-music:after {
+.md-library_music:after {
   content: '\e375';
 }
 
-.md-library-music:before {
+.md-library_music:before {
   content: '\e376';
 }
 
@@ -3627,15 +3627,15 @@
   content: '\e378';
 }
 
-.md-line-style:after {
+.md-line_style:after {
   content: '\e379';
 }
 
-.md-line-weight:after {
+.md-line_weight:after {
   content: '\e37a';
 }
 
-.md-linear-scale:after {
+.md-linear_scale:after {
   content: '\e37b';
 }
 
@@ -3643,15 +3643,15 @@
   content: '\e37c';
 }
 
-.md-link-off:after {
+.md-link_off:after {
   content: '\e37e';
 }
 
-.md-linked-camera:after {
+.md-linked_camera:after {
   content: '\e37f';
 }
 
-.md-linked-camera:before {
+.md-linked_camera:before {
   content: '\e380';
 }
 
@@ -3659,271 +3659,271 @@
   content: '\e381';
 }
 
-.md-list-alt:after {
+.md-list_alt:after {
   content: '\e382';
 }
 
-.md-list-alt:before {
+.md-list_alt:before {
   content: '\e383';
 }
 
-.md-live-help:after {
+.md-live_help:after {
   content: '\e384';
 }
 
-.md-live-help:before {
+.md-live_help:before {
   content: '\e385';
 }
 
-.md-live-tv:after {
+.md-live_tv:after {
   content: '\e386';
 }
 
-.md-live-tv:before {
+.md-live_tv:before {
   content: '\e387';
 }
 
-.md-local-activity:after {
+.md-local_activity:after {
   content: '\e388';
 }
 
-.md-local-activity:before {
+.md-local_activity:before {
   content: '\e389';
 }
 
-.md-local-airport:after {
+.md-local_airport:after {
   content: '\e38a';
 }
 
-.md-local-atm:after {
+.md-local_atm:after {
   content: '\e38b';
 }
 
-.md-local-atm:before {
+.md-local_atm:before {
   content: '\e38c';
 }
 
-.md-local-bar:after {
+.md-local_bar:after {
   content: '\e38d';
 }
 
-.md-local-bar:before {
+.md-local_bar:before {
   content: '\e38e';
 }
 
-.md-local-cafe:after {
+.md-local_cafe:after {
   content: '\e38f';
 }
 
-.md-local-cafe:before {
+.md-local_cafe:before {
   content: '\e390';
 }
 
-.md-local-car-wash:after {
+.md-local_car_wash:after {
   content: '\e391';
 }
 
-.md-local-car-wash:before {
+.md-local_car_wash:before {
   content: '\e392';
 }
 
-.md-local-convenience-store:after {
+.md-local_convenience_store:after {
   content: '\e393';
 }
 
-.md-local-convenience-store:before {
+.md-local_convenience_store:before {
   content: '\e394';
 }
 
-.md-local-dining:after {
+.md-local_dining:after {
   content: '\e395';
 }
 
-.md-local-drink:after {
+.md-local_drink:after {
   content: '\e396';
 }
 
-.md-local-drink:before {
+.md-local_drink:before {
   content: '\e397';
 }
 
-.md-local-florist:after {
+.md-local_florist:after {
   content: '\e398';
 }
 
-.md-local-florist:before {
+.md-local_florist:before {
   content: '\e399';
 }
 
-.md-local-gas-station:after {
+.md-local_gas_station:after {
   content: '\e39a';
 }
 
-.md-local-gas-station:before {
+.md-local_gas_station:before {
   content: '\e39b';
 }
 
-.md-local-grocery-store:after {
+.md-local_grocery_store:after {
   content: '\e39c';
 }
 
-.md-local-grocery-store:before {
+.md-local_grocery_store:before {
   content: '\e39d';
 }
 
-.md-local-hospital:after {
+.md-local_hospital:after {
   content: '\e39e';
 }
 
-.md-local-hospital:before {
+.md-local_hospital:before {
   content: '\e39f';
 }
 
-.md-local-hotel:after {
+.md-local_hotel:after {
   content: '\e3a0';
 }
 
-.md-local-hotel:before {
+.md-local_hotel:before {
   content: '\e3a1';
 }
 
-.md-local-laundry-service:after {
+.md-local_laundry_service:after {
   content: '\e3a2';
 }
 
-.md-local-laundry-service:before {
+.md-local_laundry_service:before {
   content: '\e3a3';
 }
 
-.md-local-library:after {
+.md-local_library:after {
   content: '\e3a4';
 }
 
-.md-local-library:before {
+.md-local_library:before {
   content: '\e3a5';
 }
 
-.md-local-mall:after {
+.md-local_mall:after {
   content: '\e3a6';
 }
 
-.md-local-mall:before {
+.md-local_mall:before {
   content: '\e3a7';
 }
 
-.md-local-movies:after {
+.md-local_movies:after {
   content: '\e3a8';
 }
 
-.md-local-movies:before {
+.md-local_movies:before {
   content: '\e3a9';
 }
 
-.md-local-offer:after {
+.md-local_offer:after {
   content: '\e3aa';
 }
 
-.md-local-offer:before {
+.md-local_offer:before {
   content: '\e3ab';
 }
 
-.md-local-parking:after {
+.md-local_parking:after {
   content: '\e3ac';
 }
 
-.md-local-pharmacy:after {
+.md-local_pharmacy:after {
   content: '\e3ad';
 }
 
-.md-local-pharmacy:before {
+.md-local_pharmacy:before {
   content: '\e3ae';
 }
 
-.md-local-phone:after {
+.md-local_phone:after {
   content: '\e3af';
 }
 
-.md-local-phone:before {
+.md-local_phone:before {
   content: '\e3b0';
 }
 
-.md-local-pizza:after {
+.md-local_pizza:after {
   content: '\e3b1';
 }
 
-.md-local-pizza:before {
+.md-local_pizza:before {
   content: '\e3b2';
 }
 
-.md-local-play:after {
+.md-local_play:after {
   content: '\e3b3';
 }
 
-.md-local-play:before {
+.md-local_play:before {
   content: '\e3b4';
 }
 
-.md-local-post-office:after {
+.md-local_post_office:after {
   content: '\e3b5';
 }
 
-.md-local-post-office:before {
+.md-local_post_office:before {
   content: '\e3b6';
 }
 
-.md-local-printshop:after {
+.md-local_printshop:after {
   content: '\e3b7';
 }
 
-.md-local-printshop:before {
+.md-local_printshop:before {
   content: '\e3b8';
 }
 
-.md-local-see:after {
+.md-local_see:after {
   content: '\e3b9';
 }
 
-.md-local-see:before {
+.md-local_see:before {
   content: '\e3ba';
 }
 
-.md-local-shipping:after {
+.md-local_shipping:after {
   content: '\e3bb';
 }
 
-.md-local-shipping:before {
+.md-local_shipping:before {
   content: '\e3bc';
 }
 
-.md-local-taxi:after {
+.md-local_taxi:after {
   content: '\e3bd';
 }
 
-.md-local-taxi:before {
+.md-local_taxi:before {
   content: '\e3be';
 }
 
-.md-location-city:after {
+.md-location_city:after {
   content: '\e3bf';
 }
 
-.md-location-disabled:after {
+.md-location_disabled:after {
   content: '\e3c0';
 }
 
-.md-location-off:after {
+.md-location_off:after {
   content: '\e3c1';
 }
 
-.md-location-on:after {
+.md-location_on:after {
   content: '\e3c2';
 }
 
-.md-location-on:before {
+.md-location_on:before {
   content: '\e3c3';
 }
 
-.md-location-searching:after {
+.md-location_searching:after {
   content: '\e3c4';
 }
 
@@ -3935,19 +3935,19 @@
   content: '\e3c6';
 }
 
-.md-lock-open:after {
+.md-lock_open:after {
   content: '\e3c7';
 }
 
-.md-lock-open:before {
+.md-lock_open:before {
   content: '\e3c8';
 }
 
-.md-log-in:after {
+.md-log_in:after {
   content: '\e3c9';
 }
 
-.md-log-out:after {
+.md-log_out:after {
   content: '\e3ca';
 }
 
@@ -3955,51 +3955,51 @@
   content: '\e3cb';
 }
 
-.md-looks-3:after {
+.md-looks_3:after {
   content: '\e3cc';
 }
 
-.md-looks-3:before {
+.md-looks_3:before {
   content: '\e3cd';
 }
 
-.md-looks-4:after {
+.md-looks_4:after {
   content: '\e3ce';
 }
 
-.md-looks-4:before {
+.md-looks_4:before {
   content: '\e3cf';
 }
 
-.md-looks-5:after {
+.md-looks_5:after {
   content: '\e3d0';
 }
 
-.md-looks-5:before {
+.md-looks_5:before {
   content: '\e3d1';
 }
 
-.md-looks-6:after {
+.md-looks_6:after {
   content: '\e3d2';
 }
 
-.md-looks-6:before {
+.md-looks_6:before {
   content: '\e3d3';
 }
 
-.md-looks-one:after {
+.md-looks_one:after {
   content: '\e3d4';
 }
 
-.md-looks-one:before {
+.md-looks_one:before {
   content: '\e3d5';
 }
 
-.md-looks-two:after {
+.md-looks_two:after {
   content: '\e3d6';
 }
 
-.md-looks-two:before {
+.md-looks_two:before {
   content: '\e3d7';
 }
 
@@ -4015,7 +4015,7 @@
   content: '\e3da';
 }
 
-.md-low-priority:after {
+.md-low_priority:after {
   content: '\e3db';
 }
 
@@ -4035,7 +4035,7 @@
   content: '\e3df';
 }
 
-.md-mail-outline:after {
+.md-mail_outline:after {
   content: '\e3e0';
 }
 
@@ -4055,11 +4055,11 @@
   content: '\e3e4';
 }
 
-.md-markunread-mailbox:after {
+.md-markunread_mailbox:after {
   content: '\e3e5';
 }
 
-.md-markunread-mailbox:before {
+.md-markunread_mailbox:before {
   content: '\e3e6';
 }
 
@@ -4067,11 +4067,11 @@
   content: '\e3e7';
 }
 
-.md-meeting-room:after {
+.md-meeting_room:after {
   content: '\e3e8';
 }
 
-.md-meeting-room:before {
+.md-meeting_room:before {
   content: '\e3e9';
 }
 
@@ -4087,19 +4087,19 @@
   content: '\e3ec';
 }
 
-.md-menu-book:after {
+.md-menu_book:after {
   content: '\e3ed';
 }
 
-.md-menu-book:before {
+.md-menu_book:before {
   content: '\e3ee';
 }
 
-.md-menu-open:after {
+.md-menu_open:after {
   content: '\e3ef';
 }
 
-.md-merge-type:after {
+.md-merge_type:after {
   content: '\e3f0';
 }
 
@@ -4119,19 +4119,19 @@
   content: '\e3f4';
 }
 
-.md-mic-none:after {
+.md-mic_none:after {
   content: '\e3f5';
 }
 
-.md-mic-none:before {
+.md-mic_none:before {
   content: '\e3f6';
 }
 
-.md-mic-off:after {
+.md-mic_off:after {
   content: '\e3f7';
 }
 
-.md-mic-off:before {
+.md-mic_off:before {
   content: '\e3f8';
 }
 
@@ -4143,11 +4143,11 @@
   content: '\e3fa';
 }
 
-.md-missed-video-call:after {
+.md-missed_video_call:after {
   content: '\e3fb';
 }
 
-.md-missed-video-call:before {
+.md-missed_video_call:before {
   content: '\e3fc';
 }
 
@@ -4159,35 +4159,35 @@
   content: '\e3fe';
 }
 
-.md-mobile-friendly:after {
+.md-mobile_friendly:after {
   content: '\e3ff';
 }
 
-.md-mobile-off:after {
+.md-mobile_off:after {
   content: '\e400';
 }
 
-.md-mobile-screen-share:after {
+.md-mobile_screen_share:after {
   content: '\e401';
 }
 
-.md-mobile-screen-share:before {
+.md-mobile_screen_share:before {
   content: '\e402';
 }
 
-.md-mode-comment:after {
+.md-mode_comment:after {
   content: '\e403';
 }
 
-.md-mode-comment:before {
+.md-mode_comment:before {
   content: '\e404';
 }
 
-.md-monetization-on:after {
+.md-monetization_on:after {
   content: '\e405';
 }
 
-.md-monetization-on:before {
+.md-monetization_on:before {
   content: '\e406';
 }
 
@@ -4199,15 +4199,15 @@
   content: '\e408';
 }
 
-.md-money-off:after {
+.md-money_off:after {
   content: '\e409';
 }
 
-.md-monochrome-photos:after {
+.md-monochrome_photos:after {
   content: '\e40a';
 }
 
-.md-monochrome-photos:before {
+.md-monochrome_photos:before {
   content: '\e40b';
 }
 
@@ -4219,11 +4219,11 @@
   content: '\e40d';
 }
 
-.md-mood-bad:after {
+.md-mood_bad:after {
   content: '\e40e';
 }
 
-.md-mood-bad:before {
+.md-mood_bad:before {
   content: '\e40f';
 }
 
@@ -4235,11 +4235,11 @@
   content: '\e411';
 }
 
-.md-more-horiz:after {
+.md-more_horiz:after {
   content: '\e412';
 }
 
-.md-more-vert:after {
+.md-more_vert:after {
   content: '\e413';
 }
 
@@ -4259,11 +4259,11 @@
   content: '\e417';
 }
 
-.md-move-to-inbox:after {
+.md-move_to_inbox:after {
   content: '\e418';
 }
 
-.md-move-to-inbox:before {
+.md-move_to_inbox:before {
   content: '\e419';
 }
 
@@ -4275,23 +4275,23 @@
   content: '\e41b';
 }
 
-.md-movie-creation:after {
+.md-movie_creation:after {
   content: '\e41c';
 }
 
-.md-movie-creation:before {
+.md-movie_creation:before {
   content: '\e41d';
 }
 
-.md-movie-filter:after {
+.md-movie_filter:after {
   content: '\e41e';
 }
 
-.md-movie-filter:before {
+.md-movie_filter:before {
   content: '\e41f';
 }
 
-.md-multiline-chart:after {
+.md-multiline_chart:after {
   content: '\e420';
 }
 
@@ -4303,35 +4303,35 @@
   content: '\e422';
 }
 
-.md-music-note:after {
+.md-music_note:after {
   content: '\e423';
 }
 
-.md-music-note:before {
+.md-music_note:before {
   content: '\e424';
 }
 
-.md-music-off:after {
+.md-music_off:after {
   content: '\e425';
 }
 
-.md-music-off:before {
+.md-music_off:before {
   content: '\e426';
 }
 
-.md-music-video:after {
+.md-music_video:after {
   content: '\e427';
 }
 
-.md-music-video:before {
+.md-music_video:before {
   content: '\e428';
 }
 
-.md-my-location:after {
+.md-my_location:after {
   content: '\e429';
 }
 
-.md-my-location:before {
+.md-my_location:before {
   content: '\e42a';
 }
 
@@ -4343,19 +4343,19 @@
   content: '\e42c';
 }
 
-.md-nature-people:after {
+.md-nature_people:after {
   content: '\e42d';
 }
 
-.md-nature-people:before {
+.md-nature_people:before {
   content: '\e42e';
 }
 
-.md-navigate-before:after {
+.md-navigate_before:after {
   content: '\e42f';
 }
 
-.md-navigate-next:after {
+.md-navigate_next:after {
   content: '\e430';
 }
 
@@ -4367,51 +4367,51 @@
   content: '\e432';
 }
 
-.md-near-me:after {
+.md-near_me:after {
   content: '\e433';
 }
 
-.md-near-me:before {
+.md-near_me:before {
   content: '\e434';
 }
 
-.md-network-cell:after {
+.md-network_cell:after {
   content: '\e435';
 }
 
-.md-network-cell:before {
+.md-network_cell:before {
   content: '\e436';
 }
 
-.md-network-check:after {
+.md-network_check:after {
   content: '\e437';
 }
 
-.md-network-locked:after {
+.md-network_locked:after {
   content: '\e438';
 }
 
-.md-network-wifi:after {
+.md-network_wifi:after {
   content: '\e439';
 }
 
-.md-network-wifi:before {
+.md-network_wifi:before {
   content: '\e43a';
 }
 
-.md-new-releases:after {
+.md-new_releases:after {
   content: '\e43b';
 }
 
-.md-new-releases:before {
+.md-new_releases:before {
   content: '\e43c';
 }
 
-.md-next-week:after {
+.md-next_week:after {
   content: '\e43d';
 }
 
-.md-next-week:before {
+.md-next_week:before {
   content: '\e43e';
 }
 
@@ -4419,51 +4419,51 @@
   content: '\e43f';
 }
 
-.md-nights-stay:after {
+.md-nights_stay:after {
   content: '\e440';
 }
 
-.md-nights-stay:before {
+.md-nights_stay:before {
   content: '\e441';
 }
 
-.md-no-encryption:after {
+.md-no_encryption:after {
   content: '\e442';
 }
 
-.md-no-encryption:before {
+.md-no_encryption:before {
   content: '\e443';
 }
 
-.md-no-meeting-room:after {
+.md-no_meeting_room:after {
   content: '\e444';
 }
 
-.md-no-meeting-room:before {
+.md-no_meeting_room:before {
   content: '\e445';
 }
 
-.md-no-sim:after {
+.md-no_sim:after {
   content: '\e446';
 }
 
-.md-no-sim:before {
+.md-no_sim:before {
   content: '\e447';
 }
 
-.md-not-equal:after {
+.md-not_equal:after {
   content: '\e448';
 }
 
-.md-not-interested:after {
+.md-not_interested:after {
   content: '\e449';
 }
 
-.md-not-listed-location:after {
+.md-not_listed_location:after {
   content: '\e44a';
 }
 
-.md-not-listed-location:before {
+.md-not_listed_location:before {
   content: '\e44b';
 }
 
@@ -4475,11 +4475,11 @@
   content: '\e44d';
 }
 
-.md-note-add:after {
+.md-note_add:after {
   content: '\e44e';
 }
 
-.md-note-add:before {
+.md-note_add:before {
   content: '\e44f';
 }
 
@@ -4487,11 +4487,11 @@
   content: '\e450';
 }
 
-.md-notification-important:after {
+.md-notification_important:after {
   content: '\e451';
 }
 
-.md-notification-important:before {
+.md-notification_important:before {
   content: '\e452';
 }
 
@@ -4503,59 +4503,59 @@
   content: '\e454';
 }
 
-.md-notifications-active:after {
+.md-notifications_active:after {
   content: '\e455';
 }
 
-.md-notifications-active:before {
+.md-notifications_active:before {
   content: '\e456';
 }
 
-.md-notifications-none:after {
+.md-notifications_none:after {
   content: '\e457';
 }
 
-.md-notifications-none:before {
+.md-notifications_none:before {
   content: '\e458';
 }
 
-.md-notifications-off:after {
+.md-notifications_off:after {
   content: '\e459';
 }
 
-.md-notifications-off:before {
+.md-notifications_off:before {
   content: '\e45a';
 }
 
-.md-notifications-paused:after {
+.md-notifications_paused:after {
   content: '\e45b';
 }
 
-.md-notifications-paused:before {
+.md-notifications_paused:before {
   content: '\e45c';
 }
 
-.md-offline-bolt:after {
+.md-offline_bolt:after {
   content: '\e45d';
 }
 
-.md-offline-bolt:before {
+.md-offline_bolt:before {
   content: '\e45e';
 }
 
-.md-offline-pin:after {
+.md-offline_pin:after {
   content: '\e45f';
 }
 
-.md-offline-pin:before {
+.md-offline_pin:before {
   content: '\e460';
 }
 
-.md-ondemand-video:after {
+.md-ondemand_video:after {
   content: '\e461';
 }
 
-.md-ondemand-video:before {
+.md-ondemand_video:before {
   content: '\e462';
 }
 
@@ -4567,27 +4567,27 @@
   content: '\e464';
 }
 
-.md-open-in-browser:after {
+.md-open_in_browser:after {
   content: '\e465';
 }
 
-.md-open-in-new:after {
+.md-open_in_new:after {
   content: '\e466';
 }
 
-.md-open-with:after {
+.md-open_with:after {
   content: '\e467';
 }
 
-.md-outdoor-grill:after {
+.md-outdoor_grill:after {
   content: '\e468';
 }
 
-.md-outdoor-grill:before {
+.md-outdoor_grill:before {
   content: '\e469';
 }
 
-.md-outlined-flag:after {
+.md-outlined_flag:after {
   content: '\e46a';
 }
 
@@ -4615,11 +4615,11 @@
   content: '\e470';
 }
 
-.md-pan-tool:after {
+.md-pan_tool:after {
   content: '\e471';
 }
 
-.md-pan-tool:before {
+.md-pan_tool:before {
   content: '\e472';
 }
 
@@ -4631,43 +4631,43 @@
   content: '\e474';
 }
 
-.md-panorama-fish-eye:after {
+.md-panorama_fish_eye:after {
   content: '\e475';
 }
 
-.md-panorama-fish-eye:before {
+.md-panorama_fish_eye:before {
   content: '\e476';
 }
 
-.md-panorama-horizontal:after {
+.md-panorama_horizontal:after {
   content: '\e477';
 }
 
-.md-panorama-horizontal:before {
+.md-panorama_horizontal:before {
   content: '\e478';
 }
 
-.md-panorama-vertical:after {
+.md-panorama_vertical:after {
   content: '\e479';
 }
 
-.md-panorama-vertical:before {
+.md-panorama_vertical:before {
   content: '\e47a';
 }
 
-.md-panorama-wide-angle:after {
+.md-panorama_wide_angle:after {
   content: '\e47b';
 }
 
-.md-panorama-wide-angle:before {
+.md-panorama_wide_angle:before {
   content: '\e47c';
 }
 
-.md-party-mode:after {
+.md-party_mode:after {
   content: '\e47d';
 }
 
-.md-party-mode:before {
+.md-party_mode:before {
   content: '\e47e';
 }
 
@@ -4675,23 +4675,23 @@
   content: '\e47f';
 }
 
-.md-pause-circle-filled:after {
+.md-pause_circle_filled:after {
   content: '\e480';
 }
 
-.md-pause-circle-filled:before {
+.md-pause_circle_filled:before {
   content: '\e481';
 }
 
-.md-pause-circle-outline:after {
+.md-pause_circle_outline:after {
   content: '\e482';
 }
 
-.md-pause-presentation:after {
+.md-pause_presentation:after {
   content: '\e483';
 }
 
-.md-pause-presentation:before {
+.md-pause_presentation:before {
   content: '\e484';
 }
 
@@ -4711,19 +4711,19 @@
   content: '\e488';
 }
 
-.md-people-alt:after {
+.md-people_alt:after {
   content: '\e489';
 }
 
-.md-people-alt:before {
+.md-people_alt:before {
   content: '\e48a';
 }
 
-.md-people-outline:after {
+.md-people_outline:after {
   content: '\e48b';
 }
 
-.md-people-outline:before {
+.md-people_outline:before {
   content: '\e48c';
 }
 
@@ -4735,63 +4735,63 @@
   content: '\e48e';
 }
 
-.md-perm-camera-mic:after {
+.md-perm_camera_mic:after {
   content: '\e48f';
 }
 
-.md-perm-camera-mic:before {
+.md-perm_camera_mic:before {
   content: '\e490';
 }
 
-.md-perm-contact-calendar:after {
+.md-perm_contact_calendar:after {
   content: '\e491';
 }
 
-.md-perm-contact-calendar:before {
+.md-perm_contact_calendar:before {
   content: '\e492';
 }
 
-.md-perm-data-setting:after {
+.md-perm_data_setting:after {
   content: '\e493';
 }
 
-.md-perm-device-information:after {
+.md-perm_device_information:after {
   content: '\e494';
 }
 
-.md-perm-device-information:before {
+.md-perm_device_information:before {
   content: '\e495';
 }
 
-.md-perm-identity:after {
+.md-perm_identity:after {
   content: '\e496';
 }
 
-.md-perm-identity:before {
+.md-perm_identity:before {
   content: '\e497';
 }
 
-.md-perm-media:after {
+.md-perm_media:after {
   content: '\e498';
 }
 
-.md-perm-media:before {
+.md-perm_media:before {
   content: '\e499';
 }
 
-.md-perm-phone-msg:after {
+.md-perm_phone_msg:after {
   content: '\e49a';
 }
 
-.md-perm-phone-msg:before {
+.md-perm_phone_msg:before {
   content: '\e49b';
 }
 
-.md-perm-scan-wifi:after {
+.md-perm_scan_wifi:after {
   content: '\e49c';
 }
 
-.md-perm-scan-wifi:before {
+.md-perm_scan_wifi:before {
   content: '\e49d';
 }
 
@@ -4803,51 +4803,51 @@
   content: '\e49f';
 }
 
-.md-person-add:after {
+.md-person_add:after {
   content: '\e4a0';
 }
 
-.md-person-add:before {
+.md-person_add:before {
   content: '\e4a1';
 }
 
-.md-person-add-disabled:after {
+.md-person_add_disabled:after {
   content: '\e4a2';
 }
 
-.md-person-add-disabled:before {
+.md-person_add_disabled:before {
   content: '\e4a3';
 }
 
-.md-person-outline:after {
+.md-person_outline:after {
   content: '\e4a4';
 }
 
-.md-person-outline:before {
+.md-person_outline:before {
   content: '\e4a5';
 }
 
-.md-person-pin:after {
+.md-person_pin:after {
   content: '\e4a6';
 }
 
-.md-person-pin:before {
+.md-person_pin:before {
   content: '\e4a7';
 }
 
-.md-person-pin-circle:after {
+.md-person_pin_circle:after {
   content: '\e4a8';
 }
 
-.md-person-pin-circle:before {
+.md-person_pin_circle:before {
   content: '\e4a9';
 }
 
-.md-personal-video:after {
+.md-personal_video:after {
   content: '\e4aa';
 }
 
-.md-personal-video:before {
+.md-personal_video:before {
   content: '\e4ab';
 }
 
@@ -4863,83 +4863,83 @@
   content: '\e4ae';
 }
 
-.md-phone-android:after {
+.md-phone_android:after {
   content: '\e4af';
 }
 
-.md-phone-android:before {
+.md-phone_android:before {
   content: '\e4b0';
 }
 
-.md-phone-bluetooth-speaker:after {
+.md-phone_bluetooth_speaker:after {
   content: '\e4b1';
 }
 
-.md-phone-bluetooth-speaker:before {
+.md-phone_bluetooth_speaker:before {
   content: '\e4b2';
 }
 
-.md-phone-callback:after {
+.md-phone_callback:after {
   content: '\e4b3';
 }
 
-.md-phone-callback:before {
+.md-phone_callback:before {
   content: '\e4b4';
 }
 
-.md-phone-disabled:after {
+.md-phone_disabled:after {
   content: '\e4b5';
 }
 
-.md-phone-enabled:after {
+.md-phone_enabled:after {
   content: '\e4b6';
 }
 
-.md-phone-forwarded:after {
+.md-phone_forwarded:after {
   content: '\e4b7';
 }
 
-.md-phone-forwarded:before {
+.md-phone_forwarded:before {
   content: '\e4b8';
 }
 
-.md-phone-in-talk:after {
+.md-phone_in_talk:after {
   content: '\e4b9';
 }
 
-.md-phone-in-talk:before {
+.md-phone_in_talk:before {
   content: '\e4ba';
 }
 
-.md-phone-iphone:after {
+.md-phone_iphone:after {
   content: '\e4bb';
 }
 
-.md-phone-iphone:before {
+.md-phone_iphone:before {
   content: '\e4bc';
 }
 
-.md-phone-locked:after {
+.md-phone_locked:after {
   content: '\e4bd';
 }
 
-.md-phone-locked:before {
+.md-phone_locked:before {
   content: '\e4be';
 }
 
-.md-phone-missed:after {
+.md-phone_missed:after {
   content: '\e4bf';
 }
 
-.md-phone-missed:before {
+.md-phone_missed:before {
   content: '\e4c0';
 }
 
-.md-phone-paused:after {
+.md-phone_paused:after {
   content: '\e4c1';
 }
 
-.md-phone-paused:before {
+.md-phone_paused:before {
   content: '\e4c2';
 }
 
@@ -4951,31 +4951,31 @@
   content: '\e4c4';
 }
 
-.md-phonelink-erase:after {
+.md-phonelink_erase:after {
   content: '\e4c5';
 }
 
-.md-phonelink-lock:after {
+.md-phonelink_lock:after {
   content: '\e4c6';
 }
 
-.md-phonelink-off:after {
+.md-phonelink_off:after {
   content: '\e4c7';
 }
 
-.md-phonelink-off:before {
+.md-phonelink_off:before {
   content: '\e4c8';
 }
 
-.md-phonelink-ring:after {
+.md-phonelink_ring:after {
   content: '\e4c9';
 }
 
-.md-phonelink-ring:before {
+.md-phonelink_ring:before {
   content: '\e4ca';
 }
 
-.md-phonelink-setup:after {
+.md-phonelink_setup:after {
   content: '\e4cb';
 }
 
@@ -4987,79 +4987,79 @@
   content: '\e4cd';
 }
 
-.md-photo-album:after {
+.md-photo_album:after {
   content: '\e4ce';
 }
 
-.md-photo-album:before {
+.md-photo_album:before {
   content: '\e4cf';
 }
 
-.md-photo-camera:after {
+.md-photo_camera:after {
   content: '\e4d0';
 }
 
-.md-photo-camera:before {
+.md-photo_camera:before {
   content: '\e4d1';
 }
 
-.md-photo-filter:after {
+.md-photo_filter:after {
   content: '\e4d2';
 }
 
-.md-photo-library:after {
+.md-photo_library:after {
   content: '\e4d3';
 }
 
-.md-photo-library:before {
+.md-photo_library:before {
   content: '\e4d4';
 }
 
-.md-photo-size-select-actual:after {
+.md-photo_size_select_actual:after {
   content: '\e4d5';
 }
 
-.md-photo-size-select-actual:before {
+.md-photo_size_select_actual:before {
   content: '\e4d6';
 }
 
-.md-photo-size-select-large:after {
+.md-photo_size_select_large:after {
   content: '\e4d7';
 }
 
-.md-photo-size-select-small:after {
+.md-photo_size_select_small:after {
   content: '\e4d8';
 }
 
-.md-picture-as-pdf:after {
+.md-picture_as_pdf:after {
   content: '\e4d9';
 }
 
-.md-picture-as-pdf:before {
+.md-picture_as_pdf:before {
   content: '\e4da';
 }
 
-.md-picture-in-picture:after {
+.md-picture_in_picture:after {
   content: '\e4db';
 }
 
-.md-picture-in-picture:before {
+.md-picture_in_picture:before {
   content: '\e4dc';
 }
 
-.md-picture-in-picture-alt:after {
+.md-picture_in_picture_alt:after {
   content: '\e4dd';
 }
 
-.md-picture-in-picture-alt:before {
+.md-picture_in_picture_alt:before {
   content: '\e4de';
 }
 
-.md-pie-chart:after {
+.md-pie_chart:after {
   content: '\e4df';
 }
 
-.md-pie-chart:before {
+.md-pie_chart:before {
   content: '\e4e0';
 }
 
@@ -5071,19 +5071,19 @@
   content: '\e4e2';
 }
 
-.md-pin-drop:after {
+.md-pin_drop:after {
   content: '\e4e3';
 }
 
-.md-pin-drop:before {
+.md-pin_drop:before {
   content: '\e4e4';
 }
 
-.md-pin-off:after {
+.md-pin_off:after {
   content: '\e4e5';
 }
 
-.md-pin-off:before {
+.md-pin_off:before {
   content: '\e4e6';
 }
 
@@ -5095,47 +5095,47 @@
   content: '\e4e8';
 }
 
-.md-play-arrow:after {
+.md-play_arrow:after {
   content: '\e4e9';
 }
 
-.md-play-arrow:before {
+.md-play_arrow:before {
   content: '\e4ea';
 }
 
-.md-play-circle-filled:after {
+.md-play_circle_filled:after {
   content: '\e4eb';
 }
 
-.md-play-circle-filled:before {
+.md-play_circle_filled:before {
   content: '\e4ec';
 }
 
-.md-play-circle-filled-white:after {
+.md-play_circle_filled_white:after {
   content: '\e4ed';
 }
 
-.md-play-circle-filled-white:before {
+.md-play_circle_filled_white:before {
   content: '\e4ee';
 }
 
-.md-play-circle-outline:after {
+.md-play_circle_outline:after {
   content: '\e4ef';
 }
 
-.md-play-for-work:after {
+.md-play_for_work:after {
   content: '\e4f0';
 }
 
-.md-playlist-add:after {
+.md-playlist_add:after {
   content: '\e4f1';
 }
 
-.md-playlist-add-check:after {
+.md-playlist_add_check:after {
   content: '\e4f2';
 }
 
-.md-playlist-play:after {
+.md-playlist_play:after {
   content: '\e4f3';
 }
 
@@ -5143,15 +5143,15 @@
   content: '\e4f4';
 }
 
-.md-plus-minus:after {
+.md-plus_minus:after {
   content: '\e4f5';
 }
 
-.md-plus-minus-alt:after {
+.md-plus_minus_alt:after {
   content: '\e4f6';
 }
 
-.md-plus-one:after {
+.md-plus_one:after {
   content: '\e4f7';
 }
 
@@ -5183,7 +5183,7 @@
   content: '\e4fe';
 }
 
-.md-portable-wifi-off:after {
+.md-portable_wifi_off:after {
   content: '\e4ff';
 }
 
@@ -5195,7 +5195,7 @@
   content: '\e501';
 }
 
-.md-post-add:after {
+.md-post_add:after {
   content: '\e502';
 }
 
@@ -5207,31 +5207,31 @@
   content: '\e504';
 }
 
-.md-power-input:after {
+.md-power_input:after {
   content: '\e505';
 }
 
-.md-power-off:after {
+.md-power_off:after {
   content: '\e506';
 }
 
-.md-power-off:before {
+.md-power_off:before {
   content: '\e507';
 }
 
-.md-power-settings-new:after {
+.md-power_settings_new:after {
   content: '\e508';
 }
 
-.md-pregnant-woman:after {
+.md-pregnant_woman:after {
   content: '\e509';
 }
 
-.md-present-to-all:after {
+.md-present_to_all:after {
   content: '\e50a';
 }
 
-.md-present-to-all:before {
+.md-present_to_all:before {
   content: '\e50b';
 }
 
@@ -5243,15 +5243,15 @@
   content: '\e50d';
 }
 
-.md-print-disabled:after {
+.md-print_disabled:after {
   content: '\e50e';
 }
 
-.md-print-disabled:before {
+.md-print_disabled:before {
   content: '\e50f';
 }
 
-.md-priority-high:after {
+.md-priority_high:after {
   content: '\e510';
 }
 
@@ -5279,19 +5279,19 @@
   content: '\e516';
 }
 
-.md-query-builder:after {
+.md-query_builder:after {
   content: '\e517';
 }
 
-.md-query-builder:before {
+.md-query_builder:before {
   content: '\e518';
 }
 
-.md-question-answer:after {
+.md-question_answer:after {
   content: '\e519';
 }
 
-.md-question-answer:before {
+.md-question_answer:before {
   content: '\e51a';
 }
 
@@ -5303,15 +5303,15 @@
   content: '\e51c';
 }
 
-.md-queue-music:after {
+.md-queue_music:after {
   content: '\e51d';
 }
 
-.md-queue-music:before {
+.md-queue_music:before {
   content: '\e51e';
 }
 
-.md-queue-play-next:after {
+.md-queue_play_next:after {
   content: '\e51f';
 }
 
@@ -5323,19 +5323,19 @@
   content: '\e521';
 }
 
-.md-radio-button-checked:after {
+.md-radio_button_checked:after {
   content: '\e522';
 }
 
-.md-radio-button-unchecked:after {
+.md-radio_button_unchecked:after {
   content: '\e523';
 }
 
-.md-rate-review:after {
+.md-rate_review:after {
   content: '\e524';
 }
 
-.md-rate-review:before {
+.md-rate_review:before {
   content: '\e525';
 }
 
@@ -5347,19 +5347,19 @@
   content: '\e527';
 }
 
-.md-recent-actors:after {
+.md-recent_actors:after {
   content: '\e528';
 }
 
-.md-recent-actors:before {
+.md-recent_actors:before {
   content: '\e529';
 }
 
-.md-record-voice-over:after {
+.md-record_voice_over:after {
   content: '\e52a';
 }
 
-.md-record-voice-over:before {
+.md-record_voice_over:before {
   content: '\e52b';
 }
 
@@ -5383,39 +5383,39 @@
   content: '\e530';
 }
 
-.md-remove-circle:after {
+.md-remove_circle:after {
   content: '\e531';
 }
 
-.md-remove-circle:before {
+.md-remove_circle:before {
   content: '\e532';
 }
 
-.md-remove-circle-outline:after {
+.md-remove_circle_outline:after {
   content: '\e533';
 }
 
-.md-remove-from-queue:after {
+.md-remove_from_queue:after {
   content: '\e534';
 }
 
-.md-remove-from-queue:before {
+.md-remove_from_queue:before {
   content: '\e535';
 }
 
-.md-remove-red-eye:after {
+.md-remove_red_eye:after {
   content: '\e536';
 }
 
-.md-remove-red-eye:before {
+.md-remove_red_eye:before {
   content: '\e537';
 }
 
-.md-remove-shopping-cart:after {
+.md-remove_shopping_cart:after {
   content: '\e538';
 }
 
-.md-remove-shopping-cart:before {
+.md-remove_shopping_cart:before {
   content: '\e539';
 }
 
@@ -5427,7 +5427,7 @@
   content: '\e53b';
 }
 
-.md-repeat-one:after {
+.md-repeat_one:after {
   content: '\e53c';
 }
 
@@ -5435,15 +5435,15 @@
   content: '\e53d';
 }
 
-.md-replay-10:after {
+.md-replay_10:after {
   content: '\e53e';
 }
 
-.md-replay-30:after {
+.md-replay_30:after {
   content: '\e53f';
 }
 
-.md-replay-5:after {
+.md-replay_5:after {
   content: '\e540';
 }
 
@@ -5451,7 +5451,7 @@
   content: '\e541';
 }
 
-.md-reply-all:after {
+.md-reply_all:after {
   content: '\e542';
 }
 
@@ -5463,19 +5463,19 @@
   content: '\e544';
 }
 
-.md-report-off:after {
+.md-report_off:after {
   content: '\e545';
 }
 
-.md-report-off:before {
+.md-report_off:before {
   content: '\e546';
 }
 
-.md-report-problem:after {
+.md-report_problem:after {
   content: '\e547';
 }
 
-.md-report-problem:before {
+.md-report_problem:before {
   content: '\e548';
 }
 
@@ -5483,7 +5483,7 @@
   content: '\e549';
 }
 
-.md-restaurant-menu:after {
+.md-restaurant_menu:after {
   content: '\e54a';
 }
 
@@ -5491,27 +5491,27 @@
   content: '\e54b';
 }
 
-.md-restore-from-trash:after {
+.md-restore_from_trash:after {
   content: '\e54c';
 }
 
-.md-restore-from-trash:before {
+.md-restore_from_trash:before {
   content: '\e54d';
 }
 
-.md-restore-page:after {
+.md-restore_page:after {
   content: '\e54e';
 }
 
-.md-restore-page:before {
+.md-restore_page:before {
   content: '\e54f';
 }
 
-.md-ring-volume:after {
+.md-ring_volume:after {
   content: '\e550';
 }
 
-.md-ring-volume:before {
+.md-ring_volume:before {
   content: '\e551';
 }
 
@@ -5531,31 +5531,31 @@
   content: '\e555';
 }
 
-.md-room-service:after {
+.md-room_service:after {
   content: '\e556';
 }
 
-.md-room-service:before {
+.md-room_service:before {
   content: '\e557';
 }
 
-.md-rotate-90-degrees-ccw:after {
+.md-rotate_90_degrees_ccw:after {
   content: '\e558';
 }
 
-.md-rotate-90-degrees-ccw:before {
+.md-rotate_90_degrees_ccw:before {
   content: '\e559';
 }
 
-.md-rotate-left:after {
+.md-rotate_left:after {
   content: '\e55a';
 }
 
-.md-rotate-right:after {
+.md-rotate_right:after {
   content: '\e55b';
 }
 
-.md-rounded-corner:after {
+.md-rounded_corner:after {
   content: '\e55c';
 }
 
@@ -5571,15 +5571,15 @@
   content: '\e55f';
 }
 
-.md-rss-feed:after {
+.md-rss_feed:after {
   content: '\e560';
 }
 
-.md-rv-hookup:after {
+.md-rv_hookup:after {
   content: '\e561';
 }
 
-.md-rv-hookup:before {
+.md-rv_hookup:before {
   content: '\e562';
 }
 
@@ -5599,7 +5599,7 @@
   content: '\e566';
 }
 
-.md-save-alt:after {
+.md-save_alt:after {
   content: '\e567';
 }
 
@@ -5611,11 +5611,11 @@
   content: '\e569';
 }
 
-.md-scatter-plot:after {
+.md-scatter_plot:after {
   content: '\e56a';
 }
 
-.md-scatter-plot:before {
+.md-scatter_plot:before {
   content: '\e56b';
 }
 
@@ -5643,55 +5643,55 @@
   content: '\e571';
 }
 
-.md-screen-lock-landscape:after {
+.md-screen_lock_landscape:after {
   content: '\e572';
 }
 
-.md-screen-lock-landscape:before {
+.md-screen_lock_landscape:before {
   content: '\e573';
 }
 
-.md-screen-lock-portrait:after {
+.md-screen_lock_portrait:after {
   content: '\e574';
 }
 
-.md-screen-lock-portrait:before {
+.md-screen_lock_portrait:before {
   content: '\e575';
 }
 
-.md-screen-lock-rotation:after {
+.md-screen_lock_rotation:after {
   content: '\e576';
 }
 
-.md-screen-rotation:after {
+.md-screen_rotation:after {
   content: '\e577';
 }
 
-.md-screen-rotation:before {
+.md-screen_rotation:before {
   content: '\e578';
 }
 
-.md-screen-share:after {
+.md-screen_share:after {
   content: '\e579';
 }
 
-.md-screen-share:before {
+.md-screen_share:before {
   content: '\e57a';
 }
 
-.md-sd-card:after {
+.md-sd_card:after {
   content: '\e57b';
 }
 
-.md-sd-card:before {
+.md-sd_card:before {
   content: '\e57c';
 }
 
-.md-sd-storage:after {
+.md-sd_storage:after {
   content: '\e57d';
 }
 
-.md-sd-storage:before {
+.md-sd_storage:before {
   content: '\e57e';
 }
 
@@ -5707,7 +5707,7 @@
   content: '\e581';
 }
 
-.md-select-all:after {
+.md-select_all:after {
   content: '\e582';
 }
 
@@ -5719,59 +5719,59 @@
   content: '\e584';
 }
 
-.md-sentiment-dissatisfied:after {
+.md-sentiment_dissatisfied:after {
   content: '\e585';
 }
 
-.md-sentiment-dissatisfied:before {
+.md-sentiment_dissatisfied:before {
   content: '\e586';
 }
 
-.md-sentiment-neutral:after {
+.md-sentiment_neutral:after {
   content: '\e587';
 }
 
-.md-sentiment-neutral:before {
+.md-sentiment_neutral:before {
   content: '\e588';
 }
 
-.md-sentiment-satisfied:after {
+.md-sentiment_satisfied:after {
   content: '\e589';
 }
 
-.md-sentiment-satisfied:before {
+.md-sentiment_satisfied:before {
   content: '\e58a';
 }
 
-.md-sentiment-satisfied-alt:after {
+.md-sentiment_satisfied_alt:after {
   content: '\e58b';
 }
 
-.md-sentiment-satisfied-alt:before {
+.md-sentiment_satisfied_alt:before {
   content: '\e58c';
 }
 
-.md-sentiment-slightly-dissatisfied:after {
+.md-sentiment_slightly_dissatisfied:after {
   content: '\e58d';
 }
 
-.md-sentiment-slightly-dissatisfied:before {
+.md-sentiment_slightly_dissatisfied:before {
   content: '\e58e';
 }
 
-.md-sentiment-very-dissatisfied:after {
+.md-sentiment_very_dissatisfied:after {
   content: '\e58f';
 }
 
-.md-sentiment-very-dissatisfied:before {
+.md-sentiment_very_dissatisfied:before {
   content: '\e590';
 }
 
-.md-sentiment-very-satisfied:after {
+.md-sentiment_very_satisfied:after {
   content: '\e591';
 }
 
-.md-sentiment-very-satisfied:before {
+.md-sentiment_very_satisfied:before {
   content: '\e592';
 }
 
@@ -5783,119 +5783,119 @@
   content: '\e594';
 }
 
-.md-settings-applications:after {
+.md-settings_applications:after {
   content: '\e595';
 }
 
-.md-settings-applications:before {
+.md-settings_applications:before {
   content: '\e596';
 }
 
-.md-settings-backup-restore:after {
+.md-settings_backup_restore:after {
   content: '\e597';
 }
 
-.md-settings-bluetooth:after {
+.md-settings_bluetooth:after {
   content: '\e598';
 }
 
-.md-settings-brightness:after {
+.md-settings_brightness:after {
   content: '\e599';
 }
 
-.md-settings-brightness:before {
+.md-settings_brightness:before {
   content: '\e59a';
 }
 
-.md-settings-cell:after {
+.md-settings_cell:after {
   content: '\e59b';
 }
 
-.md-settings-cell:before {
+.md-settings_cell:before {
   content: '\e59c';
 }
 
-.md-settings-ethernet:after {
+.md-settings_ethernet:after {
   content: '\e59d';
 }
 
-.md-settings-input-antenna:after {
+.md-settings_input_antenna:after {
   content: '\e59e';
 }
 
-.md-settings-input-component:after {
+.md-settings_input_component:after {
   content: '\e59f';
 }
 
-.md-settings-input-component:before {
+.md-settings_input_component:before {
   content: '\e5a0';
 }
 
-.md-settings-input-composite:after {
+.md-settings_input_composite:after {
   content: '\e5a1';
 }
 
-.md-settings-input-composite:before {
+.md-settings_input_composite:before {
   content: '\e5a2';
 }
 
-.md-settings-input-hdmi:after {
+.md-settings_input_hdmi:after {
   content: '\e5a3';
 }
 
-.md-settings-input-hdmi:before {
+.md-settings_input_hdmi:before {
   content: '\e5a4';
 }
 
-.md-settings-input-svideo:after {
+.md-settings_input_svideo:after {
   content: '\e5a5';
 }
 
-.md-settings-input-svideo:before {
+.md-settings_input_svideo:before {
   content: '\e5a6';
 }
 
-.md-settings-overscan:after {
+.md-settings_overscan:after {
   content: '\e5a7';
 }
 
-.md-settings-overscan:before {
+.md-settings_overscan:before {
   content: '\e5a8';
 }
 
-.md-settings-phone:after {
+.md-settings_phone:after {
   content: '\e5a9';
 }
 
-.md-settings-phone:before {
+.md-settings_phone:before {
   content: '\e5aa';
 }
 
-.md-settings-power:after {
+.md-settings_power:after {
   content: '\e5ab';
 }
 
-.md-settings-remote:after {
+.md-settings_remote:after {
   content: '\e5ac';
 }
 
-.md-settings-remote:before {
+.md-settings_remote:before {
   content: '\e5ad';
 }
 
-.md-settings-system-daydream:after {
+.md-settings_system_daydream:after {
   content: '\e5ae';
 }
 
-.md-settings-system-daydream:before {
+.md-settings_system_daydream:before {
   content: '\e5af';
 }
 
-.md-settings-voice:after {
+.md-settings_voice:after {
   content: '\e5b0';
 }
 
-.md-settings-voice:before {
+.md-settings_voice:before {
   content: '\e5b1';
 }
 
@@ -5915,35 +5915,35 @@
   content: '\e5b5';
 }
 
-.md-shop-two:after {
+.md-shop_two:after {
   content: '\e5b6';
 }
 
-.md-shop-two:before {
+.md-shop_two:before {
   content: '\e5b7';
 }
 
-.md-shopping-basket:after {
+.md-shopping_basket:after {
   content: '\e5b8';
 }
 
-.md-shopping-basket:before {
+.md-shopping_basket:before {
   content: '\e5b9';
 }
 
-.md-shopping-cart:after {
+.md-shopping_cart:after {
   content: '\e5ba';
 }
 
-.md-shopping-cart:before {
+.md-shopping_cart:before {
   content: '\e5bb';
 }
 
-.md-short-text:after {
+.md-short_text:after {
   content: '\e5bc';
 }
 
-.md-show-chart:after {
+.md-show_chart:after {
   content: '\e5bd';
 }
 
@@ -5951,211 +5951,211 @@
   content: '\e5be';
 }
 
-.md-shutter-speed:after {
+.md-shutter_speed:after {
   content: '\e5bf';
 }
 
-.md-shutter-speed:before {
+.md-shutter_speed:before {
   content: '\e5c0';
 }
 
-.md-signal-cellular-0-bar:after {
+.md-signal_cellular_0_bar:after {
   content: '\e5c1';
 }
 
-.md-signal-cellular-0-bar:before {
+.md-signal_cellular_0_bar:before {
   content: '\e5c2';
 }
 
-.md-signal-cellular-1-bar:after {
+.md-signal_cellular_1_bar:after {
   content: '\e5c3';
 }
 
-.md-signal-cellular-1-bar:before {
+.md-signal_cellular_1_bar:before {
   content: '\e5c4';
 }
 
-.md-signal-cellular-2-bar:after {
+.md-signal_cellular_2_bar:after {
   content: '\e5c5';
 }
 
-.md-signal-cellular-2-bar:before {
+.md-signal_cellular_2_bar:before {
   content: '\e5c6';
 }
 
-.md-signal-cellular-3-bar:after {
+.md-signal_cellular_3_bar:after {
   content: '\e5c7';
 }
 
-.md-signal-cellular-3-bar:before {
+.md-signal_cellular_3_bar:before {
   content: '\e5c8';
 }
 
-.md-signal-cellular-4-bar:after {
+.md-signal_cellular_4_bar:after {
   content: '\e5c9';
 }
 
-.md-signal-cellular-alt:after {
+.md-signal_cellular_alt:after {
   content: '\e5ca';
 }
 
-.md-signal-cellular-connected-no-internet-0-bar:after {
+.md-signal_cellular_connected_no_internet_0_bar:after {
   content: '\e5cb';
 }
 
-.md-signal-cellular-connected-no-internet-0-bar:before {
+.md-signal_cellular_connected_no_internet_0_bar:before {
   content: '\e5cc';
 }
 
-.md-signal-cellular-connected-no-internet-1-bar:after {
+.md-signal_cellular_connected_no_internet_1_bar:after {
   content: '\e5cd';
 }
 
-.md-signal-cellular-connected-no-internet-1-bar:before {
+.md-signal_cellular_connected_no_internet_1_bar:before {
   content: '\e5ce';
 }
 
-.md-signal-cellular-connected-no-internet-2-bar:after {
+.md-signal_cellular_connected_no_internet_2_bar:after {
   content: '\e5cf';
 }
 
-.md-signal-cellular-connected-no-internet-2-bar:before {
+.md-signal_cellular_connected_no_internet_2_bar:before {
   content: '\e5d0';
 }
 
-.md-signal-cellular-connected-no-internet-3-bar:after {
+.md-signal_cellular_connected_no_internet_3_bar:after {
   content: '\e5d1';
 }
 
-.md-signal-cellular-connected-no-internet-3-bar:before {
+.md-signal_cellular_connected_no_internet_3_bar:before {
   content: '\e5d2';
 }
 
-.md-signal-cellular-connected-no-internet-4-bar:after {
+.md-signal_cellular_connected_no_internet_4_bar:after {
   content: '\e5d3';
 }
 
-.md-signal-cellular-no-sim:after {
+.md-signal_cellular_no_sim:after {
   content: '\e5d4';
 }
 
-.md-signal-cellular-no-sim:before {
+.md-signal_cellular_no_sim:before {
   content: '\e5d5';
 }
 
-.md-signal-cellular-null:after {
+.md-signal_cellular_null:after {
   content: '\e5d6';
 }
 
-.md-signal-cellular-off:after {
+.md-signal_cellular_off:after {
   content: '\e5d7';
 }
 
-.md-signal-wifi-0-bar:after {
+.md-signal_wifi_0_bar:after {
   content: '\e5d8';
 }
 
-.md-signal-wifi-0-bar:before {
+.md-signal_wifi_0_bar:before {
   content: '\e5d9';
 }
 
-.md-signal-wifi-1-bar:after {
+.md-signal_wifi_1_bar:after {
   content: '\e5da';
 }
 
-.md-signal-wifi-1-bar:before {
+.md-signal_wifi_1_bar:before {
   content: '\e5db';
 }
 
-.md-signal-wifi-1-bar-lock:after {
+.md-signal_wifi_1_bar_lock:after {
   content: '\e5dc';
 }
 
-.md-signal-wifi-1-bar-lock:before {
+.md-signal_wifi_1_bar_lock:before {
   content: '\e5dd';
 }
 
-.md-signal-wifi-2-bar:after {
+.md-signal_wifi_2_bar:after {
   content: '\e5de';
 }
 
-.md-signal-wifi-2-bar:before {
+.md-signal_wifi_2_bar:before {
   content: '\e5df';
 }
 
-.md-signal-wifi-2-bar-lock:after {
+.md-signal_wifi_2_bar_lock:after {
   content: '\e5e0';
 }
 
-.md-signal-wifi-2-bar-lock:before {
+.md-signal_wifi_2_bar_lock:before {
   content: '\e5e1';
 }
 
-.md-signal-wifi-3-bar:after {
+.md-signal_wifi_3_bar:after {
   content: '\e5e2';
 }
 
-.md-signal-wifi-3-bar:before {
+.md-signal_wifi_3_bar:before {
   content: '\e5e3';
 }
 
-.md-signal-wifi-3-bar-lock:after {
+.md-signal_wifi_3_bar_lock:after {
   content: '\e5e4';
 }
 
-.md-signal-wifi-3-bar-lock:before {
+.md-signal_wifi_3_bar_lock:before {
   content: '\e5e5';
 }
 
-.md-signal-wifi-4-bar:after {
+.md-signal_wifi_4_bar:after {
   content: '\e5e6';
 }
 
-.md-signal-wifi-4-bar-lock:after {
+.md-signal_wifi_4_bar_lock:after {
   content: '\e5e7';
 }
 
-.md-signal-wifi-off:after {
+.md-signal_wifi_off:after {
   content: '\e5e8';
 }
 
-.md-sim-card:after {
+.md-sim_card:after {
   content: '\e5e9';
 }
 
-.md-sim-card:before {
+.md-sim_card:before {
   content: '\e5ea';
 }
 
-.md-sim-card-alert:after {
+.md-sim_card_alert:after {
   content: '\e5eb';
 }
 
-.md-sim-card-alert:before {
+.md-sim_card_alert:before {
   content: '\e5ec';
 }
 
-.md-single-bed:after {
+.md-single_bed:after {
   content: '\e5ed';
 }
 
-.md-single-bed:before {
+.md-single_bed:before {
   content: '\e5ee';
 }
 
-.md-skip-next:after {
+.md-skip_next:after {
   content: '\e5ef';
 }
 
-.md-skip-next:before {
+.md-skip_next:before {
   content: '\e5f0';
 }
 
-.md-skip-previous:after {
+.md-skip_previous:after {
   content: '\e5f1';
 }
 
-.md-skip-previous:before {
+.md-skip_previous:before {
   content: '\e5f2';
 }
 
@@ -6167,7 +6167,7 @@
   content: '\e5f4';
 }
 
-.md-slow-motion-video:after {
+.md-slow_motion_video:after {
   content: '\e5f5';
 }
 
@@ -6179,15 +6179,15 @@
   content: '\e5f7';
 }
 
-.md-smoke-free:after {
+.md-smoke_free:after {
   content: '\e5f8';
 }
 
-.md-smoking-rooms:after {
+.md-smoking_rooms:after {
   content: '\e5f9';
 }
 
-.md-smoking-rooms:before {
+.md-smoking_rooms:before {
   content: '\e5fa';
 }
 
@@ -6199,11 +6199,11 @@
   content: '\e5fc';
 }
 
-.md-sms-failed:after {
+.md-sms_failed:after {
   content: '\e5fd';
 }
 
-.md-sms-failed:before {
+.md-sms_failed:before {
   content: '\e5fe';
 }
 
@@ -6215,7 +6215,7 @@
   content: '\e600';
 }
 
-.md-sort-by-alpha:after {
+.md-sort_by_alpha:after {
   content: '\e601';
 }
 
@@ -6227,7 +6227,7 @@
   content: '\e603';
 }
 
-.md-space-bar:after {
+.md-space_bar:after {
   content: '\e604';
 }
 
@@ -6239,35 +6239,35 @@
   content: '\e606';
 }
 
-.md-speaker-group:after {
+.md-speaker_group:after {
   content: '\e607';
 }
 
-.md-speaker-group:before {
+.md-speaker_group:before {
   content: '\e608';
 }
 
-.md-speaker-notes:after {
+.md-speaker_notes:after {
   content: '\e609';
 }
 
-.md-speaker-notes:before {
+.md-speaker_notes:before {
   content: '\e60a';
 }
 
-.md-speaker-notes-off:after {
+.md-speaker_notes_off:after {
   content: '\e60b';
 }
 
-.md-speaker-notes-off:before {
+.md-speaker_notes_off:before {
   content: '\e60c';
 }
 
-.md-speaker-phone:after {
+.md-speaker_phone:after {
   content: '\e60d';
 }
 
-.md-speaker-phone:before {
+.md-speaker_phone:before {
   content: '\e60e';
 }
 
@@ -6283,115 +6283,115 @@
   content: '\e611';
 }
 
-.md-sports-baseball:after {
+.md-sports_baseball:after {
   content: '\e612';
 }
 
-.md-sports-baseball:before {
+.md-sports_baseball:before {
   content: '\e613';
 }
 
-.md-sports-basketball:after {
+.md-sports_basketball:after {
   content: '\e614';
 }
 
-.md-sports-basketball:before {
+.md-sports_basketball:before {
   content: '\e615';
 }
 
-.md-sports-cricket:after {
+.md-sports_cricket:after {
   content: '\e616';
 }
 
-.md-sports-cricket:before {
+.md-sports_cricket:before {
   content: '\e617';
 }
 
-.md-sports-esports:after {
+.md-sports_esports:after {
   content: '\e618';
 }
 
-.md-sports-esports:before {
+.md-sports_esports:before {
   content: '\e619';
 }
 
-.md-sports-football:after {
+.md-sports_football:after {
   content: '\e61a';
 }
 
-.md-sports-football:before {
+.md-sports_football:before {
   content: '\e61b';
 }
 
-.md-sports-golf:after {
+.md-sports_golf:after {
   content: '\e61c';
 }
 
-.md-sports-golf:before {
+.md-sports_golf:before {
   content: '\e61d';
 }
 
-.md-sports-handball:after {
+.md-sports_handball:after {
   content: '\e61e';
 }
 
-.md-sports-hockey:after {
+.md-sports_hockey:after {
   content: '\e61f';
 }
 
-.md-sports-kabaddi:after {
+.md-sports_kabaddi:after {
   content: '\e620';
 }
 
-.md-sports-mma:after {
+.md-sports_mma:after {
   content: '\e621';
 }
 
-.md-sports-mma:before {
+.md-sports_mma:before {
   content: '\e622';
 }
 
-.md-sports-motorsports:after {
+.md-sports_motorsports:after {
   content: '\e623';
 }
 
-.md-sports-motorsports:before {
+.md-sports_motorsports:before {
   content: '\e624';
 }
 
-.md-sports-rugby:after {
+.md-sports_rugby:after {
   content: '\e625';
 }
 
-.md-sports-rugby:before {
+.md-sports_rugby:before {
   content: '\e626';
 }
 
-.md-sports-soccer:after {
+.md-sports_soccer:after {
   content: '\e627';
 }
 
-.md-sports-soccer:before {
+.md-sports_soccer:before {
   content: '\e628';
 }
 
-.md-sports-tennis:after {
+.md-sports_tennis:after {
   content: '\e629';
 }
 
-.md-sports-volleyball:after {
+.md-sports_volleyball:after {
   content: '\e62a';
 }
 
-.md-sports-volleyball:before {
+.md-sports_volleyball:before {
   content: '\e62b';
 }
 
-.md-square-foot:after {
+.md-square_foot:after {
   content: '\e62c';
 }
 
-.md-square-foot:before {
+.md-square_foot:before {
   content: '\e62d';
 }
 
@@ -6403,15 +6403,15 @@
   content: '\e62f';
 }
 
-.md-star-border:after {
+.md-star_border:after {
   content: '\e630';
 }
 
-.md-star-half:after {
+.md-star_half:after {
   content: '\e631';
 }
 
-.md-star-rate:after {
+.md-star_rate:after {
   content: '\e632';
 }
 
@@ -6423,35 +6423,35 @@
   content: '\e634';
 }
 
-.md-stay-current-landscape:after {
+.md-stay_current_landscape:after {
   content: '\e635';
 }
 
-.md-stay-current-landscape:before {
+.md-stay_current_landscape:before {
   content: '\e636';
 }
 
-.md-stay-current-portrait:after {
+.md-stay_current_portrait:after {
   content: '\e637';
 }
 
-.md-stay-current-portrait:before {
+.md-stay_current_portrait:before {
   content: '\e638';
 }
 
-.md-stay-primary-landscape:after {
+.md-stay_primary_landscape:after {
   content: '\e639';
 }
 
-.md-stay-primary-landscape:before {
+.md-stay_primary_landscape:before {
   content: '\e63a';
 }
 
-.md-stay-primary-portrait:after {
+.md-stay_primary_portrait:after {
   content: '\e63b';
 }
 
-.md-stay-primary-portrait:before {
+.md-stay_primary_portrait:before {
   content: '\e63c';
 }
 
@@ -6463,19 +6463,19 @@
   content: '\e63e';
 }
 
-.md-stop-circle:after {
+.md-stop_circle:after {
   content: '\e63f';
 }
 
-.md-stop-circle:before {
+.md-stop_circle:before {
   content: '\e640';
 }
 
-.md-stop-screen-share:after {
+.md-stop_screen_share:after {
   content: '\e641';
 }
 
-.md-stop-screen-share:before {
+.md-stop_screen_share:before {
   content: '\e642';
 }
 
@@ -6491,11 +6491,11 @@
   content: '\e645';
 }
 
-.md-store-mall-directory:after {
+.md-store_mall_directory:after {
   content: '\e646';
 }
 
-.md-store-mall-directory:before {
+.md-store_mall_directory:before {
   content: '\e647';
 }
 
@@ -6519,7 +6519,7 @@
   content: '\e64c';
 }
 
-.md-strikethrough-s:after {
+.md-strikethrough_s:after {
   content: '\e64d';
 }
 
@@ -6531,11 +6531,11 @@
   content: '\e64f';
 }
 
-.md-subdirectory-arrow-left:after {
+.md-subdirectory_arrow_left:after {
   content: '\e650';
 }
 
-.md-subdirectory-arrow-right:after {
+.md-subdirectory_arrow_right:after {
   content: '\e651';
 }
 
@@ -6567,71 +6567,71 @@
   content: '\e658';
 }
 
-.md-supervised-user-circle:after {
+.md-supervised_user_circle:after {
   content: '\e659';
 }
 
-.md-supervised-user-circle:before {
+.md-supervised_user_circle:before {
   content: '\e65a';
 }
 
-.md-supervisor-account:after {
+.md-supervisor_account:after {
   content: '\e65b';
 }
 
-.md-supervisor-account:before {
+.md-supervisor_account:before {
   content: '\e65c';
 }
 
-.md-surround-sound:after {
+.md-surround_sound:after {
   content: '\e65d';
 }
 
-.md-surround-sound:before {
+.md-surround_sound:before {
   content: '\e65e';
 }
 
-.md-swap-calls:after {
+.md-swap_calls:after {
   content: '\e65f';
 }
 
-.md-swap-horiz:after {
+.md-swap_horiz:after {
   content: '\e660';
 }
 
-.md-swap-horizontal-circle:after {
+.md-swap_horizontal_circle:after {
   content: '\e661';
 }
 
-.md-swap-horizontal-circle:before {
+.md-swap_horizontal_circle:before {
   content: '\e662';
 }
 
-.md-swap-vert:after {
+.md-swap_vert:after {
   content: '\e663';
 }
 
-.md-swap-vertical-circle:after {
+.md-swap_vertical_circle:after {
   content: '\e664';
 }
 
-.md-swap-vertical-circle:before {
+.md-swap_vertical_circle:before {
   content: '\e665';
 }
 
-.md-switch-camera:after {
+.md-switch_camera:after {
   content: '\e666';
 }
 
-.md-switch-camera:before {
+.md-switch_camera:before {
   content: '\e667';
 }
 
-.md-switch-video:after {
+.md-switch_video:after {
   content: '\e668';
 }
 
-.md-switch-video:before {
+.md-switch_video:before {
   content: '\e669';
 }
 
@@ -6639,27 +6639,27 @@
   content: '\e66a';
 }
 
-.md-sync-alt:after {
+.md-sync_alt:after {
   content: '\e66b';
 }
 
-.md-sync-disabled:after {
+.md-sync_disabled:after {
   content: '\e66c';
 }
 
-.md-sync-problem:after {
+.md-sync_problem:after {
   content: '\e66d';
 }
 
-.md-system-update:after {
+.md-system_update:after {
   content: '\e66e';
 }
 
-.md-system-update:before {
+.md-system_update:before {
   content: '\e66f';
 }
 
-.md-system-update-alt:after {
+.md-system_update_alt:after {
   content: '\e670';
 }
 
@@ -6667,15 +6667,15 @@
   content: '\e671';
 }
 
-.md-tab-unselected:after {
+.md-tab_unselected:after {
   content: '\e672';
 }
 
-.md-table-chart:after {
+.md-table_chart:after {
   content: '\e673';
 }
 
-.md-table-chart:before {
+.md-table_chart:before {
   content: '\e674';
 }
 
@@ -6687,31 +6687,31 @@
   content: '\e676';
 }
 
-.md-tablet-android:after {
+.md-tablet_android:after {
   content: '\e677';
 }
 
-.md-tablet-android:before {
+.md-tablet_android:before {
   content: '\e678';
 }
 
-.md-tablet-mac:after {
+.md-tablet_mac:after {
   content: '\e679';
 }
 
-.md-tablet-mac:before {
+.md-tablet_mac:before {
   content: '\e67a';
 }
 
-.md-tag-faces:after {
+.md-tag_faces:after {
   content: '\e67b';
 }
 
-.md-tag-faces:before {
+.md-tag_faces:before {
   content: '\e67c';
 }
 
-.md-tap-and-play:after {
+.md-tap_and_play:after {
   content: '\e67d';
 }
 
@@ -6723,35 +6723,35 @@
   content: '\e67f';
 }
 
-.md-text-fields:after {
+.md-text_fields:after {
   content: '\e680';
 }
 
-.md-text-format:after {
+.md-text_format:after {
   content: '\e681';
 }
 
-.md-text-rotate-up:after {
+.md-text_rotate_up:after {
   content: '\e682';
 }
 
-.md-text-rotate-vertical:after {
+.md-text_rotate_vertical:after {
   content: '\e683';
 }
 
-.md-text-rotation-angledown:after {
+.md-text_rotation_angledown:after {
   content: '\e684';
 }
 
-.md-text-rotation-angleup:after {
+.md-text_rotation_angleup:after {
   content: '\e685';
 }
 
-.md-text-rotation-down:after {
+.md-text_rotation_down:after {
   content: '\e686';
 }
 
-.md-text-rotation-none:after {
+.md-text_rotation_none:after {
   content: '\e687';
 }
 
@@ -6775,51 +6775,51 @@
   content: '\e68c';
 }
 
-.md-thumb-down:after {
+.md-thumb_down:after {
   content: '\e68d';
 }
 
-.md-thumb-down:before {
+.md-thumb_down:before {
   content: '\e68e';
 }
 
-.md-thumb-down-alt:after {
+.md-thumb_down_alt:after {
   content: '\e68f';
 }
 
-.md-thumb-down-alt:before {
+.md-thumb_down_alt:before {
   content: '\e690';
 }
 
-.md-thumb-up:after {
+.md-thumb_up:after {
   content: '\e691';
 }
 
-.md-thumb-up:before {
+.md-thumb_up:before {
   content: '\e692';
 }
 
-.md-thumb-up-alt:after {
+.md-thumb_up_alt:after {
   content: '\e693';
 }
 
-.md-thumb-up-alt:before {
+.md-thumb_up_alt:before {
   content: '\e694';
 }
 
-.md-thumbs-up-down:after {
+.md-thumbs_up_down:after {
   content: '\e695';
 }
 
-.md-thumbs-up-down:before {
+.md-thumbs_up_down:before {
   content: '\e696';
 }
 
-.md-time-to-leave:after {
+.md-time_to_leave:after {
   content: '\e697';
 }
 
-.md-time-to-leave:before {
+.md-time_to_leave:before {
   content: '\e698';
 }
 
@@ -6843,19 +6843,19 @@
   content: '\e69d';
 }
 
-.md-timer-10:after {
+.md-timer_10:after {
   content: '\e69e';
 }
 
-.md-timer-3:after {
+.md-timer_3:after {
   content: '\e69f';
 }
 
-.md-timer-off:after {
+.md-timer_off:after {
   content: '\e6a0';
 }
 
-.md-timer-off:before {
+.md-timer_off:before {
   content: '\e6a1';
 }
 
@@ -6875,19 +6875,19 @@
   content: '\e6a5';
 }
 
-.md-toggle-off:after {
+.md-toggle_off:after {
   content: '\e6a6';
 }
 
-.md-toggle-off:before {
+.md-toggle_off:before {
   content: '\e6a7';
 }
 
-.md-toggle-on:after {
+.md-toggle_on:after {
   content: '\e6a8';
 }
 
-.md-toggle-on:before {
+.md-toggle_on:before {
   content: '\e6a9';
 }
 
@@ -6907,11 +6907,11 @@
   content: '\e6ad';
 }
 
-.md-touch-app:after {
+.md-touch_app:after {
   content: '\e6ae';
 }
 
-.md-touch-app:before {
+.md-touch_app:before {
   content: '\e6af';
 }
 
@@ -6923,7 +6923,7 @@
   content: '\e6b1';
 }
 
-.md-track-changes:after {
+.md-track_changes:after {
   content: '\e6b2';
 }
 
@@ -6951,7 +6951,7 @@
   content: '\e6b8';
 }
 
-.md-transfer-within-a-station:after {
+.md-transfer_within_a_station:after {
   content: '\e6b9';
 }
 
@@ -6959,7 +6959,7 @@
   content: '\e6ba';
 }
 
-.md-transit-enterexit:after {
+.md-transit_enterexit:after {
   content: '\e6bb';
 }
 
@@ -6967,19 +6967,19 @@
   content: '\e6bc';
 }
 
-.md-trending-down:after {
+.md-trending_down:after {
   content: '\e6bd';
 }
 
-.md-trending-flat:after {
+.md-trending_flat:after {
   content: '\e6be';
 }
 
-.md-trending-up:after {
+.md-trending_up:after {
   content: '\e6bf';
 }
 
-.md-trip-origin:after {
+.md-trip_origin:after {
   content: '\e6c0';
 }
 
@@ -6987,15 +6987,15 @@
   content: '\e6c1';
 }
 
-.md-turned-in:after {
+.md-turned_in:after {
   content: '\e6c2';
 }
 
-.md-turned-in:before {
+.md-turned_in:before {
   content: '\e6c3';
 }
 
-.md-turned-in-not:after {
+.md-turned_in_not:after {
   content: '\e6c4';
 }
 
@@ -7007,11 +7007,11 @@
   content: '\e6c6';
 }
 
-.md-tv-off:after {
+.md-tv_off:after {
   content: '\e6c7';
 }
 
-.md-tv-off:before {
+.md-tv_off:before {
   content: '\e6c8';
 }
 
@@ -7027,11 +7027,11 @@
   content: '\e6cb';
 }
 
-.md-unfold-less:after {
+.md-unfold_less:after {
   content: '\e6cc';
 }
 
-.md-unfold-more:after {
+.md-unfold_more:after {
   content: '\e6cd';
 }
 
@@ -7051,31 +7051,31 @@
   content: '\e6d1';
 }
 
-.md-verified-user:after {
+.md-verified_user:after {
   content: '\e6d2';
 }
 
-.md-verified-user:before {
+.md-verified_user:before {
   content: '\e6d3';
 }
 
-.md-vertical-align-bottom:after {
+.md-vertical_align_bottom:after {
   content: '\e6d4';
 }
 
-.md-vertical-align-center:after {
+.md-vertical_align_center:after {
   content: '\e6d5';
 }
 
-.md-vertical-align-top:after {
+.md-vertical_align_top:after {
   content: '\e6d6';
 }
 
-.md-vertical-split:after {
+.md-vertical_split:after {
   content: '\e6d7';
 }
 
-.md-vertical-split:before {
+.md-vertical_split:before {
   content: '\e6d8';
 }
 
@@ -7087,27 +7087,27 @@
   content: '\e6da';
 }
 
-.md-video-call:after {
+.md-video_call:after {
   content: '\e6db';
 }
 
-.md-video-call:before {
+.md-video_call:before {
   content: '\e6dc';
 }
 
-.md-video-label:after {
+.md-video_label:after {
   content: '\e6dd';
 }
 
-.md-video-label:before {
+.md-video_label:before {
   content: '\e6de';
 }
 
-.md-video-library:after {
+.md-video_library:after {
   content: '\e6df';
 }
 
-.md-video-library:before {
+.md-video_library:before {
   content: '\e6e0';
 }
 
@@ -7119,119 +7119,119 @@
   content: '\e6e2';
 }
 
-.md-videocam-off:after {
+.md-videocam_off:after {
   content: '\e6e3';
 }
 
-.md-videocam-off:before {
+.md-videocam_off:before {
   content: '\e6e4';
 }
 
-.md-videogame-asset:after {
+.md-videogame_asset:after {
   content: '\e6e5';
 }
 
-.md-videogame-asset:before {
+.md-videogame_asset:before {
   content: '\e6e6';
 }
 
-.md-view-agenda:after {
+.md-view_agenda:after {
   content: '\e6e7';
 }
 
-.md-view-agenda:before {
+.md-view_agenda:before {
   content: '\e6e8';
 }
 
-.md-view-array:after {
+.md-view_array:after {
   content: '\e6e9';
 }
 
-.md-view-array:before {
+.md-view_array:before {
   content: '\e6ea';
 }
 
-.md-view-carousel:after {
+.md-view_carousel:after {
   content: '\e6eb';
 }
 
-.md-view-carousel:before {
+.md-view_carousel:before {
   content: '\e6ec';
 }
 
-.md-view-column:after {
+.md-view_column:after {
   content: '\e6ed';
 }
 
-.md-view-column:before {
+.md-view_column:before {
   content: '\e6ee';
 }
 
-.md-view-comfy:after {
+.md-view_comfy:after {
   content: '\e6ef';
 }
 
-.md-view-comfy:before {
+.md-view_comfy:before {
   content: '\e6f0';
 }
 
-.md-view-compact:after {
+.md-view_compact:after {
   content: '\e6f1';
 }
 
-.md-view-compact:before {
+.md-view_compact:before {
   content: '\e6f2';
 }
 
-.md-view-day:after {
+.md-view_day:after {
   content: '\e6f3';
 }
 
-.md-view-day:before {
+.md-view_day:before {
   content: '\e6f4';
 }
 
-.md-view-headline:after {
+.md-view_headline:after {
   content: '\e6f5';
 }
 
-.md-view-list:after {
+.md-view_list:after {
   content: '\e6f6';
 }
 
-.md-view-list:before {
+.md-view_list:before {
   content: '\e6f7';
 }
 
-.md-view-module:after {
+.md-view_module:after {
   content: '\e6f8';
 }
 
-.md-view-module:before {
+.md-view_module:before {
   content: '\e6f9';
 }
 
-.md-view-quilt:after {
+.md-view_quilt:after {
   content: '\e6fa';
 }
 
-.md-view-quilt:before {
+.md-view_quilt:before {
   content: '\e6fb';
 }
 
-.md-view-stream:after {
+.md-view_stream:after {
   content: '\e6fc';
 }
 
-.md-view-stream:before {
+.md-view_stream:before {
   content: '\e6fd';
 }
 
-.md-view-week:after {
+.md-view_week:after {
   content: '\e6fe';
 }
 
-.md-view-week:before {
+.md-view_week:before {
   content: '\e6ff';
 }
 
@@ -7251,27 +7251,27 @@
   content: '\e703';
 }
 
-.md-visibility-off:after {
+.md-visibility_off:after {
   content: '\e704';
 }
 
-.md-visibility-off:before {
+.md-visibility_off:before {
   content: '\e705';
 }
 
-.md-voice-chat:after {
+.md-voice_chat:after {
   content: '\e706';
 }
 
-.md-voice-chat:before {
+.md-voice_chat:before {
   content: '\e707';
 }
 
-.md-voice-over-off:after {
+.md-voice_over_off:after {
   content: '\e708';
 }
 
-.md-voice-over-off:before {
+.md-voice_over_off:before {
   content: '\e709';
 }
 
@@ -7279,51 +7279,51 @@
   content: '\e70a';
 }
 
-.md-volume-down:after {
+.md-volume_down:after {
   content: '\e70b';
 }
 
-.md-volume-down:before {
+.md-volume_down:before {
   content: '\e70c';
 }
 
-.md-volume-mute:after {
+.md-volume_mute:after {
   content: '\e70d';
 }
 
-.md-volume-mute:before {
+.md-volume_mute:before {
   content: '\e70e';
 }
 
-.md-volume-off:after {
+.md-volume_off:after {
   content: '\e70f';
 }
 
-.md-volume-off:before {
+.md-volume_off:before {
   content: '\e710';
 }
 
-.md-volume-up:after {
+.md-volume_up:after {
   content: '\e711';
 }
 
-.md-volume-up:before {
+.md-volume_up:before {
   content: '\e712';
 }
 
-.md-vpn-key:after {
+.md-vpn_key:after {
   content: '\e713';
 }
 
-.md-vpn-key:before {
+.md-vpn_key:before {
   content: '\e714';
 }
 
-.md-vpn-lock:after {
+.md-vpn_lock:after {
   content: '\e715';
 }
 
-.md-vpn-lock:before {
+.md-vpn_lock:before {
   content: '\e716';
 }
 
@@ -7347,11 +7347,11 @@
   content: '\e71b';
 }
 
-.md-watch-later:after {
+.md-watch_later:after {
   content: '\e71c';
 }
 
-.md-watch-later:before {
+.md-watch_later:before {
   content: '\e71d';
 }
 
@@ -7359,43 +7359,43 @@
   content: '\e71e';
 }
 
-.md-wb-auto:after {
+.md-wb_auto:after {
   content: '\e71f';
 }
 
-.md-wb-auto:before {
+.md-wb_auto:before {
   content: '\e720';
 }
 
-.md-wb-cloudy:after {
+.md-wb_cloudy:after {
   content: '\e721';
 }
 
-.md-wb-cloudy:before {
+.md-wb_cloudy:before {
   content: '\e722';
 }
 
-.md-wb-incandescent:after {
+.md-wb_incandescent:after {
   content: '\e723';
 }
 
-.md-wb-incandescent:before {
+.md-wb_incandescent:before {
   content: '\e724';
 }
 
-.md-wb-iridescent:after {
+.md-wb_iridescent:after {
   content: '\e725';
 }
 
-.md-wb-iridescent:before {
+.md-wb_iridescent:before {
   content: '\e726';
 }
 
-.md-wb-sunny:after {
+.md-wb_sunny:after {
   content: '\e727';
 }
 
-.md-wb-sunny:before {
+.md-wb_sunny:before {
   content: '\e728';
 }
 
@@ -7411,11 +7411,11 @@
   content: '\e72b';
 }
 
-.md-web-asset:after {
+.md-web_asset:after {
   content: '\e72c';
 }
 
-.md-web-asset:before {
+.md-web_asset:before {
   content: '\e72d';
 }
 
@@ -7435,11 +7435,11 @@
   content: '\e731';
 }
 
-.md-where-to-vote:after {
+.md-where_to_vote:after {
   content: '\e732';
 }
 
-.md-where-to-vote:before {
+.md-where_to_vote:before {
   content: '\e733';
 }
 
@@ -7455,15 +7455,15 @@
   content: '\e736';
 }
 
-.md-wifi-lock:after {
+.md-wifi_lock:after {
   content: '\e737';
 }
 
-.md-wifi-off:after {
+.md-wifi_off:after {
   content: '\e738';
 }
 
-.md-wifi-tethering:after {
+.md-wifi_tethering:after {
   content: '\e739';
 }
 
@@ -7475,34 +7475,34 @@
   content: '\e73b';
 }
 
-.md-work-off:after {
+.md-work_off:after {
   content: '\e73c';
 }
 
-.md-work-off:before {
+.md-work_off:before {
   content: '\e73d';
 }
 
-.md-work-outline:after {
+.md-work_outline:after {
   content: '\e73e';
 }
 
-.md-wrap-text:after {
+.md-wrap_text:after {
   content: '\e73f';
 }
 
-.md-youtube-searched-for:after {
+.md-youtube_searched_for:after {
   content: '\e740';
 }
 
-.md-zoom-in:after {
+.md-zoom_in:after {
   content: '\e741';
 }
 
-.md-zoom-out:after {
+.md-zoom_out:after {
   content: '\e742';
 }
 
-.md-zoom-out-map:after {
+.md-zoom_out_map:after {
   content: '\e743';
 }

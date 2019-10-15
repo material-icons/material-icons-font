@@ -50,10 +50,11 @@ const config = {
     themeKeys: Object.keys(themes),
 
     // CSS
-    css: {
+    prefix: {
         font: 'material-icons',
-        icon: 'md'
-    }
+        icon: 'md',
+        extra: 'md'
+    },
 };
 
 module.exports = config;

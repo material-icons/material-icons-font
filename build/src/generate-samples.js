@@ -66,7 +66,7 @@ module.exports = fontData => new Promise((fulfill, reject) => {
     };
 
     fontData.icons.forEach(icon => {
-        let name = icon.name.replace(/_/g, '-');
+        let name = icon.name;
         let rows = {
             html: '',
             debug: ''
@@ -74,18 +74,18 @@ module.exports = fontData => new Promise((fulfill, reject) => {
 
         config.themeKeys.forEach(theme => {
             rows.html += replaceAllItems({
-                '{font-class}': config.css.font,
-                '{icon-prefix}': config.css.icon,
-                '{theme-class}': (theme === config.themeKeys[0] ? '' : config.css.icon + '-' + theme),
+                '{font-prefix}': config.prefix.font,
+                '{icon-prefix}': config.prefix.icon,
+                '{theme-class}': (theme === config.themeKeys[0] ? config.prefix.font : config.prefix.font + '-' + theme),
                 '{icon-name}': name
-            }, '<i class="{font-class} {theme-class} {icon-prefix}-{icon-name}"></i>');
+            }, '<i class="{theme-class} {icon-prefix}-{icon-name}"></i>');
 
             rows.debug += replaceAllItems({
-                '{font-class}': config.css.font,
-                '{icon-prefix}': config.css.icon,
-                '{theme-class}': (theme === config.themeKeys[0] ? '' : config.css.icon + '-' + theme),
+                '{font-prefix}': config.prefix.font,
+                '{icon-prefix}': config.prefix.icon,
+                '{theme-class}': (theme === config.themeKeys[0] ? config.prefix.font : config.prefix.font + '-' + theme),
                 '{icon-name}': name
-            }, '<i class="{font-class} {theme-class} {icon-prefix}-{icon-name}"></i>');
+            }, '<i class="{theme-class} {icon-prefix}-{icon-name}"></i>');
             rows.debug += '<img src="../../material-icons/svg/' + icon.name + '/' + theme + '.svg" /> ' + theme + '-' + icon.name + '<br />';
         });
 
