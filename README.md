@@ -79,7 +79,7 @@ To change font size you can use css or add one of predefined classes:
 * md-48 for 48px height
 
 ```html
-<i class="material-icons md-48 md-signal-wifi-3-bar"></i>
+<i class="material-icons md-48 md-signal_wifi_3_bar"></i>
 ```
 
 To change color change font color. There are also several predefined colors:
@@ -89,21 +89,33 @@ To change color change font color. There are also several predefined colors:
 Additionally to those colors you can set md-inactive for grey inactive color:
 
 ```html
-<i class="material-icons md-dark md-turned-in"></i>
-<i class="material-icons md-dark md-inactive md-turned-in-not"></i>
+<i class="material-icons md-dark md-turned_in"></i>
+<i class="material-icons md-dark md-inactive md-turned_in_not"></i>
 ```
 
 
-If you are using all.css, to use different icon font add class name for that icon font:
-* md-outline for "MaterialIcons Outline" font
-* md-round for "MaterialIcons Round" font
-* md-sharp for "MaterialIcons Sharp" font
-* md-twotone for "MaterialIcons TwoTone" font
+If you are using all.css, to use different icon font use class name for that icon font instead of material-icons:
+* material-icons-outline for "MaterialIcons Outline" font
+* material-icons-round for "MaterialIcons Round" font
+* material-icons-sharp for "MaterialIcons Sharp" font
+* material-icons-twotone for "MaterialIcons TwoTone" font
 
 ```html
-<i class="material-icons md-sharp md-shuffle"></i>
-<i class="material-icons md-twotone md-videocam-off"></i>
+<i class="material-icons-sharp md-shuffle"></i>
+<i class="material-icons-twotone md-videocam_off"></i>
 ```
+
+### Icon names
+
+Icon name is same as old ligature, but with "md-" prefix.
+
+Why "md-" prefix? Because some icon names start with numbers, such as "3d_rotation". "3d_rotation" is not a valid class name, so prefix had to be added. After prefix icon name is the same as in ligature in official font.
+
+Examples:
+* md-poll
+* md-print_disabled
+* md-signal_cellular_connected_no_internet_3_bar
+
 
 ### Two tone icons
 
@@ -126,7 +138,7 @@ To change color for opaque part, change color of :after pseudo element:
 /* for all icons */
 .md:after { color: red; }
 /* for specific icon */
-.md-view-carousel:after { color: purple; }
+.md-view_carousel:after { color: purple; }
 /* or custom class added to specific icon */
 .icon-green-red:after { color: green; }
 ```
@@ -137,7 +149,7 @@ To change color for transparent part, change color (and opacity) of :before pseu
 /* for all icons */
 .md:before { color: blue; opacity: 1; }
 /* for specific icon */
-.md-view-carousel:after { color: lightblue; opacity: 1; }
+.md-view_carousel:after { color: lightblue; opacity: 1; }
 /* or custom class added to specific icon */
 .icon-green-red:after { color: red; opacity: 1; }
 ```
