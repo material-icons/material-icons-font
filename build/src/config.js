@@ -24,9 +24,12 @@ Object.keys(themes).forEach(theme => {
 });
 
 const config = {
-    // Change this directory to location of material-icons package's root directory
-    // Default location of material-icons is ../material-icons
-    sourceDir: path.dirname(root) + '/material-icons',
+    // Repository for SVG
+    repo: 'git@github.com:material-icons/material-icons.git',
+
+    // Directories
+    rootDir: root,
+    sourceDir: root + '/material-icons',
     outputDir: root,
     fontDir: root + '/font',
     styleDir: root + '/css',

@@ -5,17 +5,6 @@ const fs = require('fs');
 // Get configuration
 const config = require('./config');
 
-// Get SVG data
-const iconData = JSON.parse(fs.readFileSync(config.sourceDir + '/data.json', 'utf8'));
-
-// Get font data
-let fontData = require('./load-font-data');
-
-// Functions
-const nextCharacter = require('./characters')(fontData);
-const parseIcon = require('./parse-icon');
-const saveFontData = require('./save-font-data');
-
 /**
  * Get font data
  *
@@ -23,6 +12,17 @@ const saveFontData = require('./save-font-data');
  * @returns {object} Font data
  */
 module.exports = force => {
+    // Get SVG data
+    const iconData = JSON.parse(fs.readFileSync(config.sourceDir + '/data.json', 'utf8'));
+
+    // Get font data
+    let fontData = require('./load-font-data');
+
+    // Functions
+    const nextCharacter = require('./characters')(fontData);
+    const parseIcon = require('./parse-icon');
+    const saveFontData = require('./save-font-data');
+
     // Find all new and updated icons
     let newIcons = [],
         updatedIcons = [],
@@ -54,8 +54,7 @@ module.exports = force => {
     console.log('Updated icons:', updatedCount);
 
     if (!newIcons.length && !updatedIcons.length) {
-        console.log('Nothing to update. Use --overwrite parameter to rebuild font data');
-        return null;
+        return 'Nothing to update. Use --overwrite parameter to rebuild font data';
     }
 
     // Parse new icons
