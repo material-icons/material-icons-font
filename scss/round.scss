@@ -1198,9 +1198,6 @@ $sizes: (
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  -moz-font-feature-settings: 'liga';
-  -webkit-font-feature-settings: 'liga';
-  font-feature-settings: 'liga';
   position: relative;
 
   &:before {
