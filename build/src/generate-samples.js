@@ -86,7 +86,7 @@ module.exports = fontData => new Promise((fulfill, reject) => {
                 '{theme-class}': (theme === config.themeKeys[0] ? config.prefix.font : config.prefix.font + '-' + theme),
                 '{icon-name}': name
             }, '<i class="{theme-class} {icon-prefix}-{icon-name}"></i>');
-            rows.debug += '<img src="../../material-icons/svg/' + icon.name + '/' + theme + '.svg" /> ' + theme + '-' + icon.name + '<br />';
+            rows.debug += '<img src="../material-icons/svg/' + icon.name + '/' + theme + '.svg" /> ' + theme + '-' + icon.name + '<br />';
         });
 
         iconsHTML.html += rows.html + ' ' + name + '<br />';

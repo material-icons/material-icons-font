@@ -5,6 +5,12 @@ const fsHelper = require('./files');
 const config = require('./config');
 
 module.exports = () => new Promise((fulfill, reject) => {
+    let ignore = process.argv.slice(2).indexOf('--no-clone') !== -1;
+    if (ignore && fsHelper.exists(config.sourceDir + '/package.json')) {
+        fulfill();
+        return;
+    }
+
     let cmd = 'git clone "' + config.repo + '" --branch master --depth 1 --no-tags "' + config.sourceDir + '"';
 
     // Remove old files

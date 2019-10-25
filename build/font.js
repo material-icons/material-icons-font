@@ -10,15 +10,13 @@ const buildStyles = require('./src/build-styles');
 const generateSamples = require('./src/generate-samples');
 const child_process = require('child_process');
 
-// Check if --overwrite flag is set
-let overwrite = process.argv.slice(2).indexOf('--overwrite') !== -1;
-
 let fontData;
 
 // Build stuff
 clone().then(() => {
     // Get font data
     return new Promise((fulfill, reject) => {
+        let overwrite = process.argv.slice(2).indexOf('--overwrite') !== -1;
         fontData = getFontData(overwrite);
         if (!fontData) {
             reject('Missing data.json');
