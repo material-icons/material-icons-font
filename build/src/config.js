@@ -58,6 +58,9 @@ const config = {
         icon: 'md',
         extra: 'md'
     },
+
+    // Tests
+    testBatch: 20
 };
 
 module.exports = config;
