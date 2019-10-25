@@ -17,9 +17,15 @@ if (typeof data !== 'object' || !data.icons) {
     phantom.exit();
 }
 
+// Scale icons
+data.size *= 8;
+
 // Get template
 template = fs.read(system.args[1]);
-template = template.replace('{css}', 'file://' + data.css);
+template = template
+    .replace('{css}', 'file://' + data.css)
+    .replace(/24px/g, data.size + 'px');
+console.log(template);
 
 // Parse next icon
 next = function() {
