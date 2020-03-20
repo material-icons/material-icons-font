@@ -100,7 +100,7 @@ module.exports = fontData =>
 					'<i class="{theme-class} {icon-prefix}-{icon-name}"></i>'
 				);
 				rows.debug +=
-					'<img src="../material-icons/svg/' +
+					'<img src="../../material-icons/svg/' +
 					icon.name +
 					'/' +
 					theme +
