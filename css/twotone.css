@@ -7505,25 +7505,25 @@
 }
 
 .md-add_ic_call:after {
-  content: '\e73e';
+  content: '\e744';
 }
 
 .md-add_ic_call:before {
-  content: '\e73f';
+  content: '\e745';
 }
 
 .md-library_add_check:after {
-  content: '\e740';
+  content: '\e746';
 }
 
 .md-library_add_check:before {
-  content: '\e741';
+  content: '\e747';
 }
 
 .md-star_outline:after {
-  content: '\e742';
+  content: '\e748';
 }
 
 .md-two_wheeler:after {
-  content: '\e743';
+  content: '\e749';
 }

@@ -7,7 +7,7 @@ let lastCharacter = 0;
 module.exports = data => {
 	// Find last used character
 	data.icons.forEach(icon => {
-		['full', 'transparent'].forEach(attr => {
+		Object.keys(icon.char).forEach(attr => {
 			if (icon.char[attr]) {
 				lastCharacter = Math.max(lastCharacter, icon.char[attr]);
 			}
@@ -18,10 +18,12 @@ module.exports = data => {
 	return () => {
 		for (let i = 0; i < config.characterRanges.length; i++) {
 			if (lastCharacter < config.characterRanges[i].max) {
-				return (lastCharacter = Math.max(
+				lastCharacter = Math.max(
 					lastCharacter + 1,
 					config.characterRanges[i].min
-				));
+				);
+				// console.log(`Returning character: ${lastCharacter}`);
+				return lastCharacter;
 			}
 		}
 

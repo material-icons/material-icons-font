@@ -28972,8 +28972,8 @@
 			"version": 4,
 			"twotone": true,
 			"char": {
-				"opaque": 59198,
-				"transparent": 59199
+				"opaque": 59204,
+				"transparent": 59205
 			},
 			"code": {
 				"baseline": {
@@ -28999,8 +28999,8 @@
 			"version": 8,
 			"twotone": true,
 			"char": {
-				"opaque": 59200,
-				"transparent": 59201
+				"opaque": 59206,
+				"transparent": 59207
 			},
 			"code": {
 				"baseline": {
@@ -29031,7 +29031,7 @@
 				"twotone"
 			],
 			"char": {
-				"opaque": 59202
+				"opaque": 59208
 			},
 			"code": {
 				"baseline": {
@@ -29047,7 +29047,7 @@
 			"version": 7,
 			"twotone": false,
 			"char": {
-				"opaque": 59203
+				"opaque": 59209
 			},
 			"code": {
 				"baseline": {
