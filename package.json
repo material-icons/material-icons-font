@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "svg2ttf": "^4.3.0",
     "svgicons2svgfont": "^9.1.1",
     "ttf2woff": "^2.0.1",
