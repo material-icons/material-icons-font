@@ -102,6 +102,7 @@ module.exports = fontData =>
 			replacements['scss_' + theme] = {
 				'{default-theme}': theme,
 				'{default-family}': config.themes[theme],
+				'{default-filename}': config.fontFilenames[theme],
 			};
 		});
 

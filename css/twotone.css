@@ -3,9 +3,9 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("../font/MaterialIcons.ttf");
+  src: url("../font/MaterialIcons-TwoTone.ttf");
   /* For IE6-8 */
-  src: url("../font/MaterialIcons.woff2") format("woff2"), url("../font/MaterialIcons.woff") format("woff"), url("../font/MaterialIcons.ttf") format("truetype");
+  src: url("../font/MaterialIcons-TwoTone.woff2") format("woff2"), url("../font/MaterialIcons-TwoTone.woff") format("woff"), url("../font/MaterialIcons-TwoTone.ttf") format("truetype");
 }
 
 .material-icons {
