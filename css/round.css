@@ -4767,3 +4767,671 @@
 .md-two_wheeler:after {
   content: '\e749';
 }
+
+.md-5g:after {
+  content: '\e74a';
+}
+
+.md-ad_units:after {
+  content: '\e74b';
+}
+
+.md-add_business:after {
+  content: '\e74d';
+}
+
+.md-add_location_alt:after {
+  content: '\e74f';
+}
+
+.md-add_road:after {
+  content: '\e751';
+}
+
+.md-addchart:after {
+  content: '\e752';
+}
+
+.md-admin_panel_settings:after {
+  content: '\e753';
+}
+
+.md-agriculture:after {
+  content: '\e755';
+}
+
+.md-alt_route:after {
+  content: '\e757';
+}
+
+.md-analytics:after {
+  content: '\e758';
+}
+
+.md-anchor:after {
+  content: '\e75a';
+}
+
+.md-api:after {
+  content: '\e75b';
+}
+
+.md-app_blocking:after {
+  content: '\e75c';
+}
+
+.md-app_settings_alt:after {
+  content: '\e75e';
+}
+
+.md-architecture:after {
+  content: '\e760';
+}
+
+.md-arrow_circle_down:after {
+  content: '\e761';
+}
+
+.md-arrow_circle_up:after {
+  content: '\e763';
+}
+
+.md-article:after {
+  content: '\e765';
+}
+
+.md-attach_email:after {
+  content: '\e767';
+}
+
+.md-auto_delete:after {
+  content: '\e768';
+}
+
+.md-baby_changing_station:after {
+  content: '\e76a';
+}
+
+.md-backpack:after {
+  content: '\e76b';
+}
+
+.md-backup_table:after {
+  content: '\e76d';
+}
+
+.md-batch_prediction:after {
+  content: '\e76f';
+}
+
+.md-bedtime:after {
+  content: '\e771';
+}
+
+.md-bike_scooter:after {
+  content: '\e773';
+}
+
+.md-biotech:after {
+  content: '\e774';
+}
+
+.md-browser_not_supported:after {
+  content: '\e776';
+}
+
+.md-build_circle:after {
+  content: '\e777';
+}
+
+.md-calculate:after {
+  content: '\e779';
+}
+
+.md-campaign:after {
+  content: '\e77b';
+}
+
+.md-charging_station:after {
+  content: '\e77d';
+}
+
+.md-checkroom:after {
+  content: '\e77f';
+}
+
+.md-cleaning_services:after {
+  content: '\e780';
+}
+
+.md-close_fullscreen:after {
+  content: '\e782';
+}
+
+.md-comment_bank:after {
+  content: '\e783';
+}
+
+.md-construction:after {
+  content: '\e785';
+}
+
+.md-corporate_fare:after {
+  content: '\e786';
+}
+
+.md-design_services:after {
+  content: '\e788';
+}
+
+.md-directions_off:after {
+  content: '\e78a';
+}
+
+.md-do_not_step:after {
+  content: '\e78b';
+}
+
+.md-do_not_touch:after {
+  content: '\e78d';
+}
+
+.md-domain_verification:after {
+  content: '\e78f';
+}
+
+.md-dry:after {
+  content: '\e791';
+}
+
+.md-dynamic_form:after {
+  content: '\e793';
+}
+
+.md-edit_road:after {
+  content: '\e795';
+}
+
+.md-electric_bike:after {
+  content: '\e797';
+}
+
+.md-electric_car:after {
+  content: '\e798';
+}
+
+.md-electric_moped:after {
+  content: '\e79a';
+}
+
+.md-electric_scooter:after {
+  content: '\e79c';
+}
+
+.md-electrical_services:after {
+  content: '\e79d';
+}
+
+.md-elevator:after {
+  content: '\e79e';
+}
+
+.md-engineering:after {
+  content: '\e7a0';
+}
+
+.md-escalator:after {
+  content: '\e7a2';
+}
+
+.md-escalator_warning:after {
+  content: '\e7a4';
+}
+
+.md-fact_check:after {
+  content: '\e7a5';
+}
+
+.md-family_restroom:after {
+  content: '\e7a7';
+}
+
+.md-filter_alt:after {
+  content: '\e7a8';
+}
+
+.md-flaky:after {
+  content: '\e7aa';
+}
+
+.md-forward_to_inbox:after {
+  content: '\e7ab';
+}
+
+.md-grading:after {
+  content: '\e7ad';
+}
+
+.md-handyman:after {
+  content: '\e7ae';
+}
+
+.md-hearing_disabled:after {
+  content: '\e7b0';
+}
+
+.md-help_center:after {
+  content: '\e7b1';
+}
+
+.md-highlight_alt:after {
+  content: '\e7b3';
+}
+
+.md-history_edu:after {
+  content: '\e7b4';
+}
+
+.md-history_toggle_off:after {
+  content: '\e7b6';
+}
+
+.md-home_repair_service:after {
+  content: '\e7b7';
+}
+
+.md-horizontal_rule:after {
+  content: '\e7b9';
+}
+
+.md-hourglass_bottom:after {
+  content: '\e7ba';
+}
+
+.md-hourglass_disabled:after {
+  content: '\e7bc';
+}
+
+.md-hourglass_top:after {
+  content: '\e7bd';
+}
+
+.md-hvac:after {
+  content: '\e7bf';
+}
+
+.md-image_not_supported:after {
+  content: '\e7c1';
+}
+
+.md-insights:after {
+  content: '\e7c3';
+}
+
+.md-integration_instructions:after {
+  content: '\e7c4';
+}
+
+.md-legend_toggle:after {
+  content: '\e7c6';
+}
+
+.md-login:after {
+  content: '\e7c7';
+}
+
+.md-maps_ugc:after {
+  content: '\e7c8';
+}
+
+.md-mark_chat_read:after {
+  content: '\e7ca';
+}
+
+.md-mark_chat_unread:after {
+  content: '\e7cc';
+}
+
+.md-mark_email_read:after {
+  content: '\e7ce';
+}
+
+.md-mark_email_unread:after {
+  content: '\e7d0';
+}
+
+.md-mediation:after {
+  content: '\e7d2';
+}
+
+.md-medical_services:after {
+  content: '\e7d3';
+}
+
+.md-military_tech:after {
+  content: '\e7d5';
+}
+
+.md-miscellaneous_services:after {
+  content: '\e7d7';
+}
+
+.md-model_training:after {
+  content: '\e7d8';
+}
+
+.md-moped:after {
+  content: '\e7d9';
+}
+
+.md-more_time:after {
+  content: '\e7db';
+}
+
+.md-multiple_stop:after {
+  content: '\e7dc';
+}
+
+.md-nat:after {
+  content: '\e7dd';
+}
+
+.md-next_plan:after {
+  content: '\e7df';
+}
+
+.md-no_cell:after {
+  content: '\e7e1';
+}
+
+.md-no_drinks:after {
+  content: '\e7e3';
+}
+
+.md-no_flash:after {
+  content: '\e7e5';
+}
+
+.md-no_food:after {
+  content: '\e7e7';
+}
+
+.md-no_photography:after {
+  content: '\e7e9';
+}
+
+.md-no_stroller:after {
+  content: '\e7eb';
+}
+
+.md-not_accessible:after {
+  content: '\e7ed';
+}
+
+.md-not_started:after {
+  content: '\e7ee';
+}
+
+.md-online_prediction:after {
+  content: '\e7f0';
+}
+
+.md-open_in_full:after {
+  content: '\e7f1';
+}
+
+.md-outlet:after {
+  content: '\e7f2';
+}
+
+.md-payments:after {
+  content: '\e7f4';
+}
+
+.md-pedal_bike:after {
+  content: '\e7f6';
+}
+
+.md-pending:after {
+  content: '\e7f7';
+}
+
+.md-pending_actions:after {
+  content: '\e7f9';
+}
+
+.md-person_add_alt_1:after {
+  content: '\e7fb';
+}
+
+.md-person_remove:after {
+  content: '\e7fd';
+}
+
+.md-person_remove_alt_1:after {
+  content: '\e7ff';
+}
+
+.md-person_search:after {
+  content: '\e801';
+}
+
+.md-pest_control:after {
+  content: '\e803';
+}
+
+.md-pest_control_rodent:after {
+  content: '\e805';
+}
+
+.md-plagiarism:after {
+  content: '\e807';
+}
+
+.md-plumbing:after {
+  content: '\e809';
+}
+
+.md-point_of_sale:after {
+  content: '\e80a';
+}
+
+.md-preview:after {
+  content: '\e80c';
+}
+
+.md-privacy_tip:after {
+  content: '\e80e';
+}
+
+.md-psychology:after {
+  content: '\e810';
+}
+
+.md-public_off:after {
+  content: '\e812';
+}
+
+.md-push_pin:after {
+  content: '\e814';
+}
+
+.md-qr_code:after {
+  content: '\e816';
+}
+
+.md-quickreply:after {
+  content: '\e818';
+}
+
+.md-read_more:after {
+  content: '\e81a';
+}
+
+.md-receipt_long:after {
+  content: '\e81b';
+}
+
+.md-request_quote:after {
+  content: '\e81d';
+}
+
+.md-room_preferences:after {
+  content: '\e81f';
+}
+
+.md-rule:after {
+  content: '\e821';
+}
+
+.md-rule_folder:after {
+  content: '\e822';
+}
+
+.md-run_circle:after {
+  content: '\e824';
+}
+
+.md-science:after {
+  content: '\e826';
+}
+
+.md-search_off:after {
+  content: '\e828';
+}
+
+.md-self_improvement:after {
+  content: '\e829';
+}
+
+.md-sensor_door:after {
+  content: '\e82a';
+}
+
+.md-sensor_window:after {
+  content: '\e82c';
+}
+
+.md-shopping_bag:after {
+  content: '\e82e';
+}
+
+.md-smart_button:after {
+  content: '\e830';
+}
+
+.md-snippet_folder:after {
+  content: '\e831';
+}
+
+.md-soap:after {
+  content: '\e833';
+}
+
+.md-source:after {
+  content: '\e835';
+}
+
+.md-stairs:after {
+  content: '\e837';
+}
+
+.md-stroller:after {
+  content: '\e839';
+}
+
+.md-subscript:after {
+  content: '\e83b';
+}
+
+.md-subtitles_off:after {
+  content: '\e83c';
+}
+
+.md-superscript:after {
+  content: '\e83e';
+}
+
+.md-support:after {
+  content: '\e83f';
+}
+
+.md-support_agent:after {
+  content: '\e841';
+}
+
+.md-switch_left:after {
+  content: '\e842';
+}
+
+.md-switch_right:after {
+  content: '\e844';
+}
+
+.md-table_rows:after {
+  content: '\e846';
+}
+
+.md-table_view:after {
+  content: '\e848';
+}
+
+.md-text_snippet:after {
+  content: '\e84a';
+}
+
+.md-topic:after {
+  content: '\e84c';
+}
+
+.md-tour:after {
+  content: '\e84e';
+}
+
+.md-tty:after {
+  content: '\e850';
+}
+
+.md-umbrella:after {
+  content: '\e852';
+}
+
+.md-upgrade:after {
+  content: '\e854';
+}
+
+.md-verified:after {
+  content: '\e855';
+}
+
+.md-video_settings:after {
+  content: '\e857';
+}
+
+.md-view_sidebar:after {
+  content: '\e858';
+}
+
+.md-wash:after {
+  content: '\e85a';
+}
+
+.md-wheelchair_pickup:after {
+  content: '\e85c';
+}
+
+.md-wifi_calling:after {
+  content: '\e85d';
+}
+
+.md-wifi_protected_setup:after {
+  content: '\e85f';
+}
+
+.md-wrong_location:after {
+  content: '\e860';
+}
+
+.md-wysiwyg:after {
+  content: '\e861';
+}
