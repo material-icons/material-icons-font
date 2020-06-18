@@ -1652,10 +1652,6 @@
   content: '\e17c';
 }
 
-.md-content_cut:before {
-  content: '\e17d';
-}
-
 .md-content_paste:after {
   content: '\e17e';
 }
@@ -8710,4 +8706,220 @@
 
 .md-wysiwyg:before {
   content: '\e862';
+}
+
+.md-bento:after {
+  content: '\e864';
+}
+
+.md-bento:before {
+  content: '\e865';
+}
+
+.md-carpenter:after {
+  content: '\e866';
+}
+
+.md-carpenter:before {
+  content: '\e867';
+}
+
+.md-closed_caption_disabled:after {
+  content: '\e868';
+}
+
+.md-closed_caption_disabled:before {
+  content: '\e869';
+}
+
+.md-countertops:after {
+  content: '\e86a';
+}
+
+.md-countertops:before {
+  content: '\e86b';
+}
+
+.md-east:after {
+  content: '\e86c';
+}
+
+.md-fence:after {
+  content: '\e86d';
+}
+
+.md-fence:before {
+  content: '\e86e';
+}
+
+.md-fire_extinguisher:after {
+  content: '\e86f';
+}
+
+.md-food_bank:after {
+  content: '\e870';
+}
+
+.md-food_bank:before {
+  content: '\e871';
+}
+
+.md-foundation:after {
+  content: '\e872';
+}
+
+.md-foundation:before {
+  content: '\e873';
+}
+
+.md-grass:after {
+  content: '\e874';
+}
+
+.md-house_siding:after {
+  content: '\e875';
+}
+
+.md-house_siding:before {
+  content: '\e876';
+}
+
+.md-leaderboard:after {
+  content: '\e877';
+}
+
+.md-leaderboard:before {
+  content: '\e878';
+}
+
+.md-microwave:after {
+  content: '\e879';
+}
+
+.md-microwave:before {
+  content: '\e87a';
+}
+
+.md-near_me_disabled:after {
+  content: '\e87b';
+}
+
+.md-near_me_disabled:before {
+  content: '\e87c';
+}
+
+.md-night_shelter:after {
+  content: '\e87d';
+}
+
+.md-night_shelter:before {
+  content: '\e87e';
+}
+
+.md-no_meals:after {
+  content: '\e87f';
+}
+
+.md-no_transfer:after {
+  content: '\e880';
+}
+
+.md-no_transfer:before {
+  content: '\e881';
+}
+
+.md-north:after {
+  content: '\e882';
+}
+
+.md-north_east:after {
+  content: '\e883';
+}
+
+.md-north_west:after {
+  content: '\e884';
+}
+
+.md-qr_code_scanner:after {
+  content: '\e885';
+}
+
+.md-rice_bowl:after {
+  content: '\e886';
+}
+
+.md-rice_bowl:before {
+  content: '\e887';
+}
+
+.md-roofing:after {
+  content: '\e888';
+}
+
+.md-roofing:before {
+  content: '\e889';
+}
+
+.md-set_meal:after {
+  content: '\e88a';
+}
+
+.md-set_meal:before {
+  content: '\e88b';
+}
+
+.md-south:after {
+  content: '\e88c';
+}
+
+.md-south_east:after {
+  content: '\e88d';
+}
+
+.md-south_west:after {
+  content: '\e88e';
+}
+
+.md-sports_bar:after {
+  content: '\e88f';
+}
+
+.md-sports_bar:before {
+  content: '\e890';
+}
+
+.md-sticky_note_2:after {
+  content: '\e891';
+}
+
+.md-sticky_note_2:before {
+  content: '\e892';
+}
+
+.md-tapas:after {
+  content: '\e893';
+}
+
+.md-tapas:before {
+  content: '\e894';
+}
+
+.md-water_damage:after {
+  content: '\e895';
+}
+
+.md-water_damage:before {
+  content: '\e896';
+}
+
+.md-west:after {
+  content: '\e897';
+}
+
+.md-wine_bar:after {
+  content: '\e898';
+}
+
+.md-wine_bar:before {
+  content: '\e899';
 }

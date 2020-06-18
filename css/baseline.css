@@ -5435,3 +5435,135 @@
 .md-wysiwyg:after {
   content: '\e861';
 }
+
+.md-bento:after {
+  content: '\e864';
+}
+
+.md-carpenter:after {
+  content: '\e866';
+}
+
+.md-closed_caption_disabled:after {
+  content: '\e868';
+}
+
+.md-countertops:after {
+  content: '\e86a';
+}
+
+.md-east:after {
+  content: '\e86c';
+}
+
+.md-fence:after {
+  content: '\e86d';
+}
+
+.md-fire_extinguisher:after {
+  content: '\e86f';
+}
+
+.md-food_bank:after {
+  content: '\e870';
+}
+
+.md-foundation:after {
+  content: '\e872';
+}
+
+.md-grass:after {
+  content: '\e874';
+}
+
+.md-house_siding:after {
+  content: '\e875';
+}
+
+.md-leaderboard:after {
+  content: '\e877';
+}
+
+.md-microwave:after {
+  content: '\e879';
+}
+
+.md-near_me_disabled:after {
+  content: '\e87b';
+}
+
+.md-night_shelter:after {
+  content: '\e87d';
+}
+
+.md-no_meals:after {
+  content: '\e87f';
+}
+
+.md-no_transfer:after {
+  content: '\e880';
+}
+
+.md-north:after {
+  content: '\e882';
+}
+
+.md-north_east:after {
+  content: '\e883';
+}
+
+.md-north_west:after {
+  content: '\e884';
+}
+
+.md-qr_code_scanner:after {
+  content: '\e885';
+}
+
+.md-rice_bowl:after {
+  content: '\e886';
+}
+
+.md-roofing:after {
+  content: '\e888';
+}
+
+.md-set_meal:after {
+  content: '\e88a';
+}
+
+.md-south:after {
+  content: '\e88c';
+}
+
+.md-south_east:after {
+  content: '\e88d';
+}
+
+.md-south_west:after {
+  content: '\e88e';
+}
+
+.md-sports_bar:after {
+  content: '\e88f';
+}
+
+.md-sticky_note_2:after {
+  content: '\e891';
+}
+
+.md-tapas:after {
+  content: '\e893';
+}
+
+.md-water_damage:after {
+  content: '\e895';
+}
+
+.md-west:after {
+  content: '\e897';
+}
+
+.md-wine_bar:after {
+  content: '\e898';
+}
