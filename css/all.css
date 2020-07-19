@@ -8923,3 +8923,103 @@
 .md-wine_bar:before {
   content: '\e899';
 }
+
+.md-6_ft_apart:after {
+  content: '\e89a';
+}
+
+.md-book_online:after {
+  content: '\e89b';
+}
+
+.md-book_online:before {
+  content: '\e89c';
+}
+
+.md-clean_hands:after {
+  content: '\e89d';
+}
+
+.md-clean_hands:before {
+  content: '\e89e';
+}
+
+.md-connect_without_contact:after {
+  content: '\e89f';
+}
+
+.md-coronavirus:after {
+  content: '\e8a0';
+}
+
+.md-coronavirus:before {
+  content: '\e8a1';
+}
+
+.md-elderly:after {
+  content: '\e8a2';
+}
+
+.md-follow_the_signs:after {
+  content: '\e8a3';
+}
+
+.md-follow_the_signs:before {
+  content: '\e8a4';
+}
+
+.md-leave_bags_at_home:after {
+  content: '\e8a5';
+}
+
+.md-leave_bags_at_home:before {
+  content: '\e8a6';
+}
+
+.md-local_fire_department:after {
+  content: '\e8a7';
+}
+
+.md-local_fire_department:before {
+  content: '\e8a8';
+}
+
+.md-local_police:after {
+  content: '\e8a9';
+}
+
+.md-local_police:before {
+  content: '\e8aa';
+}
+
+.md-masks:after {
+  content: '\e8ab';
+}
+
+.md-masks:before {
+  content: '\e8ac';
+}
+
+.md-motion_photos_on:after {
+  content: '\e8ad';
+}
+
+.md-motion_photos_paused:after {
+  content: '\e8ae';
+}
+
+.md-reduce_capacity:after {
+  content: '\e8af';
+}
+
+.md-sanitizer:after {
+  content: '\e8b0';
+}
+
+.md-sanitizer:before {
+  content: '\e8b1';
+}
+
+.md-sick:after {
+  content: '\e8b2';
+}
