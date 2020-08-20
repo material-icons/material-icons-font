@@ -9059,3 +9059,43 @@
 .md-unpublished:before {
   content: '\e8c9';
 }
+
+.md-align_horizontal_center:after {
+  content: '\e8ca';
+}
+
+.md-align_horizontal_left:after {
+  content: '\e8cb';
+}
+
+.md-align_horizontal_right:after {
+  content: '\e8cc';
+}
+
+.md-align_vertical_bottom:after {
+  content: '\e8cd';
+}
+
+.md-align_vertical_center:after {
+  content: '\e8ce';
+}
+
+.md-align_vertical_top:after {
+  content: '\e8cf';
+}
+
+.md-horizontal_distribute:after {
+  content: '\e8d0';
+}
+
+.md-qr_code_2:after {
+  content: '\e8d1';
+}
+
+.md-update_disabled:after {
+  content: '\e8d2';
+}
+
+.md-vertical_distribute:after {
+  content: '\e8d3';
+}
