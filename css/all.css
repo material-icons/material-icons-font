@@ -9155,3 +9155,87 @@
 .md-vertical_distribute:after {
   content: '\e8d3';
 }
+
+.md-add_reaction:after {
+  content: '\e8d4';
+}
+
+.md-add_reaction:before {
+  content: '\e8d5';
+}
+
+.md-add_to_drive:after {
+  content: '\e8d6';
+}
+
+.md-arrow_back_ios_new:after {
+  content: '\e8d7';
+}
+
+.md-change_circle:after {
+  content: '\e8d8';
+}
+
+.md-change_circle:before {
+  content: '\e8d9';
+}
+
+.md-copy_all:after {
+  content: '\e8da';
+}
+
+.md-copy_all:before {
+  content: '\e8db';
+}
+
+.md-electric_rickshaw:after {
+  content: '\e8dc';
+}
+
+.md-electric_rickshaw:before {
+  content: '\e8dd';
+}
+
+.md-health_and_safety:after {
+  content: '\e8de';
+}
+
+.md-health_and_safety:before {
+  content: '\e8df';
+}
+
+.md-outbound:after {
+  content: '\e8e0';
+}
+
+.md-outbound:before {
+  content: '\e8e1';
+}
+
+.md-production_quantity_limits:after {
+  content: '\e8e2';
+}
+
+.md-safety_divider:after {
+  content: '\e8e3';
+}
+
+.md-savings:after {
+  content: '\e8e4';
+}
+
+.md-savings:before {
+  content: '\e8e5';
+}
+
+.md-social_distance:after {
+  content: '\e8e6';
+}
+
+.md-task_alt:after {
+  content: '\e8e7';
+}
+
+.md-travel_explore:after {
+  content: '\e8e8';
+}

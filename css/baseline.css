@@ -652,10 +652,6 @@
   content: '\e0c5';
 }
 
-.md-border_color:before {
-  content: '\e0c6';
-}
-
 .md-border_horizontal:after {
   content: '\e0c7';
 }
@@ -890,10 +886,6 @@
 
 .md-cell_wifi:after {
   content: '\e12a';
-}
-
-.md-cell_wifi:before {
-  content: '\e12b';
 }
 
 .md-center_focus_strong:after {
@@ -1816,20 +1808,12 @@
   content: '\e2a4';
 }
 
-.md-format_color_fill:before {
-  content: '\e2a5';
-}
-
 .md-format_color_reset:after {
   content: '\e2a6';
 }
 
 .md-format_color_text:after {
   content: '\e2a8';
-}
-
-.md-format_color_text:before {
-  content: '\e2a9';
 }
 
 .md-format_indent_decrease:after {
@@ -2796,10 +2780,6 @@
   content: '\e435';
 }
 
-.md-network_cell:before {
-  content: '\e436';
-}
-
 .md-network_check:after {
   content: '\e437';
 }
@@ -2810,10 +2790,6 @@
 
 .md-network_wifi:after {
   content: '\e439';
-}
-
-.md-network_wifi:before {
-  content: '\e43a';
 }
 
 .md-new_releases:after {
@@ -3744,10 +3720,6 @@
   content: '\e5c1';
 }
 
-.md-signal_cellular_0_bar:before {
-  content: '\e5c2';
-}
-
 .md-signal_cellular_1_bar:after {
   content: '\e5c3';
 }
@@ -3830,10 +3802,6 @@
 
 .md-signal_wifi_0_bar:after {
   content: '\e5d8';
-}
-
-.md-signal_wifi_0_bar:before {
-  content: '\e5d9';
 }
 
 .md-signal_wifi_1_bar:after {
@@ -5726,4 +5694,60 @@
 
 .md-vertical_distribute:after {
   content: '\e8d3';
+}
+
+.md-add_reaction:after {
+  content: '\e8d4';
+}
+
+.md-add_to_drive:after {
+  content: '\e8d6';
+}
+
+.md-arrow_back_ios_new:after {
+  content: '\e8d7';
+}
+
+.md-change_circle:after {
+  content: '\e8d8';
+}
+
+.md-copy_all:after {
+  content: '\e8da';
+}
+
+.md-electric_rickshaw:after {
+  content: '\e8dc';
+}
+
+.md-health_and_safety:after {
+  content: '\e8de';
+}
+
+.md-outbound:after {
+  content: '\e8e0';
+}
+
+.md-production_quantity_limits:after {
+  content: '\e8e2';
+}
+
+.md-safety_divider:after {
+  content: '\e8e3';
+}
+
+.md-savings:after {
+  content: '\e8e4';
+}
+
+.md-social_distance:after {
+  content: '\e8e6';
+}
+
+.md-task_alt:after {
+  content: '\e8e7';
+}
+
+.md-travel_explore:after {
+  content: '\e8e8';
 }
