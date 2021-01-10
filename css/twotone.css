@@ -9179,3 +9179,311 @@
 .md-travel_explore:after {
   content: '\e8e8';
 }
+
+.md-auto_graph:after {
+  content: '\e8e9';
+}
+
+.md-catching_pokemon:after {
+  content: '\e8ea';
+}
+
+.md-catching_pokemon:before {
+  content: '\e8eb';
+}
+
+.md-code_off:after {
+  content: '\e8ec';
+}
+
+.md-content_paste_off:after {
+  content: '\e8ed';
+}
+
+.md-content_paste_off:before {
+  content: '\e8ee';
+}
+
+.md-credit_card_off:after {
+  content: '\e8ef';
+}
+
+.md-credit_card_off:before {
+  content: '\e8f0';
+}
+
+.md-dark_mode:after {
+  content: '\e8f1';
+}
+
+.md-dark_mode:before {
+  content: '\e8f2';
+}
+
+.md-developer_board_off:after {
+  content: '\e8f3';
+}
+
+.md-developer_board_off:before {
+  content: '\e8f4';
+}
+
+.md-downhill_skiing:after {
+  content: '\e8f5';
+}
+
+.md-edit_location_alt:after {
+  content: '\e8f6';
+}
+
+.md-edit_location_alt:before {
+  content: '\e8f7';
+}
+
+.md-edit_notifications:after {
+  content: '\e8f8';
+}
+
+.md-edit_notifications:before {
+  content: '\e8f9';
+}
+
+.md-extension_off:after {
+  content: '\e8fa';
+}
+
+.md-extension_off:before {
+  content: '\e8fb';
+}
+
+.md-file_download_off:after {
+  content: '\e8fc';
+}
+
+.md-file_download_off:before {
+  content: '\e8fd';
+}
+
+.md-flutter_dash:after {
+  content: '\e8fe';
+}
+
+.md-flutter_dash:before {
+  content: '\e8ff';
+}
+
+.md-font_download_off:after {
+  content: '\e900';
+}
+
+.md-font_download_off:before {
+  content: '\e901';
+}
+
+.md-hiking:after {
+  content: '\e902';
+}
+
+.md-ice_skating:after {
+  content: '\e903';
+}
+
+.md-ice_skating:before {
+  content: '\e904';
+}
+
+.md-inventory_2:after {
+  content: '\e905';
+}
+
+.md-inventory_2:before {
+  content: '\e906';
+}
+
+.md-kayaking:after {
+  content: '\e907';
+}
+
+.md-kitesurfing:after {
+  content: '\e908';
+}
+
+.md-light_mode:after {
+  content: '\e909';
+}
+
+.md-light_mode:before {
+  content: '\e90a';
+}
+
+.md-moving:after {
+  content: '\e90b';
+}
+
+.md-nordic_walking:after {
+  content: '\e90c';
+}
+
+.md-notification_add:after {
+  content: '\e90d';
+}
+
+.md-open_in_new_off:after {
+  content: '\e90e';
+}
+
+.md-paragliding:after {
+  content: '\e90f';
+}
+
+.md-paragliding:before {
+  content: '\e910';
+}
+
+.md-pause_circle:after {
+  content: '\e911';
+}
+
+.md-pause_circle:before {
+  content: '\e912';
+}
+
+.md-person_off:after {
+  content: '\e913';
+}
+
+.md-person_off:before {
+  content: '\e914';
+}
+
+.md-piano:after {
+  content: '\e915';
+}
+
+.md-piano:before {
+  content: '\e916';
+}
+
+.md-piano_off:after {
+  content: '\e917';
+}
+
+.md-piano_off:before {
+  content: '\e918';
+}
+
+.md-play_circle:after {
+  content: '\e919';
+}
+
+.md-play_circle:before {
+  content: '\e91a';
+}
+
+.md-query_stats:after {
+  content: '\e91b';
+}
+
+.md-running_with_errors:after {
+  content: '\e91c';
+}
+
+.md-sailing:after {
+  content: '\e91d';
+}
+
+.md-sailing:before {
+  content: '\e91e';
+}
+
+.md-schema:after {
+  content: '\e91f';
+}
+
+.md-schema:before {
+  content: '\e920';
+}
+
+.md-sensors:after {
+  content: '\e921';
+}
+
+.md-sensors_off:after {
+  content: '\e922';
+}
+
+.md-share_arrival_time:after {
+  content: '\e923';
+}
+
+.md-share_arrival_time:before {
+  content: '\e924';
+}
+
+.md-shop_2:after {
+  content: '\e925';
+}
+
+.md-shop_2:before {
+  content: '\e926';
+}
+
+.md-skateboarding:after {
+  content: '\e927';
+}
+
+.md-sledding:after {
+  content: '\e928';
+}
+
+.md-snowboarding:after {
+  content: '\e929';
+}
+
+.md-snowmobile:after {
+  content: '\e92a';
+}
+
+.md-snowmobile:before {
+  content: '\e92b';
+}
+
+.md-snowshoeing:after {
+  content: '\e92c';
+}
+
+.md-surfing:after {
+  content: '\e92d';
+}
+
+.md-usb_off:after {
+  content: '\e92e';
+}
+
+.md-videogame_asset_off:after {
+  content: '\e92f';
+}
+
+.md-videogame_asset_off:before {
+  content: '\e930';
+}
+
+.md-wb_twilight:after {
+  content: '\e931';
+}
+
+.md-web_asset_off:after {
+  content: '\e932';
+}
+
+.md-web_asset_off:before {
+  content: '\e933';
+}
+
+.md-workspaces:after {
+  content: '\e934';
+}
+
+.md-workspaces:before {
+  content: '\e935';
+}
