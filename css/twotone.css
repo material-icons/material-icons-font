@@ -864,10 +864,6 @@
   content: '\e0c5';
 }
 
-.md-border_color:before {
-  content: '\e0c6';
-}
-
 .md-border_horizontal:after {
   content: '\e0c7';
 }
@@ -1266,10 +1262,6 @@
 
 .md-cell_wifi:after {
   content: '\e12a';
-}
-
-.md-cell_wifi:before {
-  content: '\e12b';
 }
 
 .md-center_focus_strong:after {
@@ -1960,24 +1952,12 @@
   content: '\e1d8';
 }
 
-.md-do_not_disturb:before {
-  content: '\e1d9';
-}
-
 .md-do_not_disturb_alt:after {
   content: '\e1da';
 }
 
-.md-do_not_disturb_alt:before {
-  content: '\e1db';
-}
-
 .md-do_not_disturb_off:after {
   content: '\e1dc';
-}
-
-.md-do_not_disturb_off:before {
-  content: '\e1dd';
 }
 
 .md-dock:after {
@@ -2776,10 +2756,6 @@
   content: '\e2a4';
 }
 
-.md-format_color_fill:before {
-  content: '\e2a5';
-}
-
 .md-format_color_reset:after {
   content: '\e2a6';
 }
@@ -2790,10 +2766,6 @@
 
 .md-format_color_text:after {
   content: '\e2a8';
-}
-
-.md-format_color_text:before {
-  content: '\e2a9';
 }
 
 .md-format_indent_decrease:after {
@@ -4372,10 +4344,6 @@
   content: '\e435';
 }
 
-.md-network_cell:before {
-  content: '\e436';
-}
-
 .md-network_check:after {
   content: '\e437';
 }
@@ -4386,10 +4354,6 @@
 
 .md-network_wifi:after {
   content: '\e439';
-}
-
-.md-network_wifi:before {
-  content: '\e43a';
 }
 
 .md-new_releases:after {
@@ -5956,10 +5920,6 @@
   content: '\e5c1';
 }
 
-.md-signal_cellular_0_bar:before {
-  content: '\e5c2';
-}
-
 .md-signal_cellular_1_bar:after {
   content: '\e5c3';
 }
@@ -5994,10 +5954,6 @@
 
 .md-signal_cellular_connected_no_internet_0_bar:after {
   content: '\e5cb';
-}
-
-.md-signal_cellular_connected_no_internet_0_bar:before {
-  content: '\e5cc';
 }
 
 .md-signal_cellular_connected_no_internet_1_bar:after {
@@ -6046,10 +6002,6 @@
 
 .md-signal_wifi_0_bar:after {
   content: '\e5d8';
-}
-
-.md-signal_wifi_0_bar:before {
-  content: '\e5d9';
 }
 
 .md-signal_wifi_1_bar:after {
@@ -9136,6 +9088,10 @@
   content: '\e8dc';
 }
 
+.md-electric_rickshaw:before {
+  content: '\e8dd';
+}
+
 .md-health_and_safety:after {
   content: '\e8de';
 }
@@ -9486,4 +9442,2484 @@
 
 .md-workspaces:before {
   content: '\e935';
+}
+
+.md-10k:after {
+  content: '\e936';
+}
+
+.md-10k:before {
+  content: '\e937';
+}
+
+.md-10mp:after {
+  content: '\e938';
+}
+
+.md-10mp:before {
+  content: '\e939';
+}
+
+.md-11mp:after {
+  content: '\e93a';
+}
+
+.md-11mp:before {
+  content: '\e93b';
+}
+
+.md-12mp:after {
+  content: '\e93c';
+}
+
+.md-12mp:before {
+  content: '\e93d';
+}
+
+.md-13mp:after {
+  content: '\e93e';
+}
+
+.md-13mp:before {
+  content: '\e93f';
+}
+
+.md-14mp:after {
+  content: '\e940';
+}
+
+.md-14mp:before {
+  content: '\e941';
+}
+
+.md-15mp:after {
+  content: '\e942';
+}
+
+.md-15mp:before {
+  content: '\e943';
+}
+
+.md-16mp:after {
+  content: '\e944';
+}
+
+.md-16mp:before {
+  content: '\e945';
+}
+
+.md-17mp:after {
+  content: '\e946';
+}
+
+.md-17mp:before {
+  content: '\e947';
+}
+
+.md-18mp:after {
+  content: '\e948';
+}
+
+.md-18mp:before {
+  content: '\e949';
+}
+
+.md-19mp:after {
+  content: '\e94a';
+}
+
+.md-19mp:before {
+  content: '\e94b';
+}
+
+.md-1k:after {
+  content: '\e94c';
+}
+
+.md-1k:before {
+  content: '\e94d';
+}
+
+.md-1k_plus:after {
+  content: '\e94e';
+}
+
+.md-1k_plus:before {
+  content: '\e94f';
+}
+
+.md-1x_mobiledata:after {
+  content: '\e950';
+}
+
+.md-20mp:after {
+  content: '\e951';
+}
+
+.md-20mp:before {
+  content: '\e952';
+}
+
+.md-21mp:after {
+  content: '\e953';
+}
+
+.md-21mp:before {
+  content: '\e954';
+}
+
+.md-22mp:after {
+  content: '\e955';
+}
+
+.md-22mp:before {
+  content: '\e956';
+}
+
+.md-23mp:after {
+  content: '\e957';
+}
+
+.md-23mp:before {
+  content: '\e958';
+}
+
+.md-24mp:after {
+  content: '\e959';
+}
+
+.md-24mp:before {
+  content: '\e95a';
+}
+
+.md-2k:after {
+  content: '\e95b';
+}
+
+.md-2k:before {
+  content: '\e95c';
+}
+
+.md-2k_plus:after {
+  content: '\e95d';
+}
+
+.md-2k_plus:before {
+  content: '\e95e';
+}
+
+.md-2mp:after {
+  content: '\e95f';
+}
+
+.md-2mp:before {
+  content: '\e960';
+}
+
+.md-30fps:after {
+  content: '\e961';
+}
+
+.md-30fps_select:after {
+  content: '\e962';
+}
+
+.md-3g_mobiledata:after {
+  content: '\e963';
+}
+
+.md-3k:after {
+  content: '\e964';
+}
+
+.md-3k:before {
+  content: '\e965';
+}
+
+.md-3k_plus:after {
+  content: '\e966';
+}
+
+.md-3k_plus:before {
+  content: '\e967';
+}
+
+.md-3mp:after {
+  content: '\e968';
+}
+
+.md-3mp:before {
+  content: '\e969';
+}
+
+.md-3p:after {
+  content: '\e96a';
+}
+
+.md-3p:before {
+  content: '\e96b';
+}
+
+.md-4g_mobiledata:after {
+  content: '\e96c';
+}
+
+.md-4g_plus_mobiledata:after {
+  content: '\e96d';
+}
+
+.md-4k_plus:after {
+  content: '\e96e';
+}
+
+.md-4k_plus:before {
+  content: '\e96f';
+}
+
+.md-4mp:after {
+  content: '\e970';
+}
+
+.md-4mp:before {
+  content: '\e971';
+}
+
+.md-5k:after {
+  content: '\e972';
+}
+
+.md-5k:before {
+  content: '\e973';
+}
+
+.md-5k_plus:after {
+  content: '\e974';
+}
+
+.md-5k_plus:before {
+  content: '\e975';
+}
+
+.md-5mp:after {
+  content: '\e976';
+}
+
+.md-5mp:before {
+  content: '\e977';
+}
+
+.md-60fps:after {
+  content: '\e978';
+}
+
+.md-60fps_select:after {
+  content: '\e979';
+}
+
+.md-6k:after {
+  content: '\e97a';
+}
+
+.md-6k:before {
+  content: '\e97b';
+}
+
+.md-6k_plus:after {
+  content: '\e97c';
+}
+
+.md-6k_plus:before {
+  content: '\e97d';
+}
+
+.md-6mp:after {
+  content: '\e97e';
+}
+
+.md-6mp:before {
+  content: '\e97f';
+}
+
+.md-7k:after {
+  content: '\e980';
+}
+
+.md-7k:before {
+  content: '\e981';
+}
+
+.md-7k_plus:after {
+  content: '\e982';
+}
+
+.md-7k_plus:before {
+  content: '\e983';
+}
+
+.md-7mp:after {
+  content: '\e984';
+}
+
+.md-7mp:before {
+  content: '\e985';
+}
+
+.md-8k:after {
+  content: '\e986';
+}
+
+.md-8k:before {
+  content: '\e987';
+}
+
+.md-8k_plus:after {
+  content: '\e988';
+}
+
+.md-8k_plus:before {
+  content: '\e989';
+}
+
+.md-8mp:after {
+  content: '\e98a';
+}
+
+.md-8mp:before {
+  content: '\e98b';
+}
+
+.md-9k:after {
+  content: '\e98c';
+}
+
+.md-9k:before {
+  content: '\e98d';
+}
+
+.md-9k_plus:after {
+  content: '\e98e';
+}
+
+.md-9k_plus:before {
+  content: '\e98f';
+}
+
+.md-9mp:after {
+  content: '\e990';
+}
+
+.md-9mp:before {
+  content: '\e991';
+}
+
+.md-access_time_filled:after {
+  content: '\e992';
+}
+
+.md-add_chart:after {
+  content: '\e993';
+}
+
+.md-add_link:after {
+  content: '\e994';
+}
+
+.md-add_moderator:after {
+  content: '\e995';
+}
+
+.md-add_moderator:before {
+  content: '\e996';
+}
+
+.md-air:after {
+  content: '\e997';
+}
+
+.md-airplane_ticket:after {
+  content: '\e998';
+}
+
+.md-airplane_ticket:before {
+  content: '\e999';
+}
+
+.md-animation:after {
+  content: '\e99a';
+}
+
+.md-animation:before {
+  content: '\e99b';
+}
+
+.md-aod:after {
+  content: '\e99c';
+}
+
+.md-aod:before {
+  content: '\e99d';
+}
+
+.md-app_registration:after {
+  content: '\e99e';
+}
+
+.md-approval:after {
+  content: '\e99f';
+}
+
+.md-approval:before {
+  content: '\e9a0';
+}
+
+.md-assistant_direction:after {
+  content: '\e9a1';
+}
+
+.md-assistant_direction:before {
+  content: '\e9a2';
+}
+
+.md-attractions:after {
+  content: '\e9a3';
+}
+
+.md-attractions:before {
+  content: '\e9a4';
+}
+
+.md-attribution:after {
+  content: '\e9a5';
+}
+
+.md-attribution:before {
+  content: '\e9a6';
+}
+
+.md-auto_awesome:after {
+  content: '\e9a7';
+}
+
+.md-auto_awesome:before {
+  content: '\e9a8';
+}
+
+.md-auto_awesome_mosaic:after {
+  content: '\e9a9';
+}
+
+.md-auto_awesome_mosaic:before {
+  content: '\e9aa';
+}
+
+.md-auto_awesome_motion:after {
+  content: '\e9ab';
+}
+
+.md-auto_awesome_motion:before {
+  content: '\e9ac';
+}
+
+.md-auto_fix_high:after {
+  content: '\e9ad';
+}
+
+.md-auto_fix_high:before {
+  content: '\e9ae';
+}
+
+.md-auto_fix_normal:after {
+  content: '\e9af';
+}
+
+.md-auto_fix_normal:before {
+  content: '\e9b0';
+}
+
+.md-auto_fix_off:after {
+  content: '\e9b1';
+}
+
+.md-auto_fix_off:before {
+  content: '\e9b2';
+}
+
+.md-auto_stories:after {
+  content: '\e9b3';
+}
+
+.md-auto_stories:before {
+  content: '\e9b4';
+}
+
+.md-autofps_select:after {
+  content: '\e9b5';
+}
+
+.md-badge:after {
+  content: '\e9b6';
+}
+
+.md-badge:before {
+  content: '\e9b7';
+}
+
+.md-bakery_dining:after {
+  content: '\e9b8';
+}
+
+.md-bakery_dining:before {
+  content: '\e9b9';
+}
+
+.md-balcony:after {
+  content: '\e9ba';
+}
+
+.md-balcony:before {
+  content: '\e9bb';
+}
+
+.md-bathroom:after {
+  content: '\e9bc';
+}
+
+.md-bathroom:before {
+  content: '\e9bd';
+}
+
+.md-battery_saver:after {
+  content: '\e9be';
+}
+
+.md-bed:after {
+  content: '\e9bf';
+}
+
+.md-bed:before {
+  content: '\e9c0';
+}
+
+.md-bedroom_baby:after {
+  content: '\e9c1';
+}
+
+.md-bedroom_baby:before {
+  content: '\e9c2';
+}
+
+.md-bedroom_child:after {
+  content: '\e9c3';
+}
+
+.md-bedroom_child:before {
+  content: '\e9c4';
+}
+
+.md-bedroom_parent:after {
+  content: '\e9c5';
+}
+
+.md-bedroom_parent:before {
+  content: '\e9c6';
+}
+
+.md-blender:after {
+  content: '\e9c7';
+}
+
+.md-blender:before {
+  content: '\e9c8';
+}
+
+.md-bloodtype:after {
+  content: '\e9c9';
+}
+
+.md-bloodtype:before {
+  content: '\e9ca';
+}
+
+.md-bluetooth_drive:after {
+  content: '\e9cb';
+}
+
+.md-bluetooth_drive:before {
+  content: '\e9cc';
+}
+
+.md-bolt:after {
+  content: '\e9cd';
+}
+
+.md-bookmark_add:after {
+  content: '\e9ce';
+}
+
+.md-bookmark_add:before {
+  content: '\e9cf';
+}
+
+.md-bookmark_added:after {
+  content: '\e9d0';
+}
+
+.md-bookmark_added:before {
+  content: '\e9d1';
+}
+
+.md-bookmark_remove:after {
+  content: '\e9d2';
+}
+
+.md-bookmark_remove:before {
+  content: '\e9d3';
+}
+
+.md-breakfast_dining:after {
+  content: '\e9d4';
+}
+
+.md-breakfast_dining:before {
+  content: '\e9d5';
+}
+
+.md-brunch_dining:after {
+  content: '\e9d6';
+}
+
+.md-brunch_dining:before {
+  content: '\e9d7';
+}
+
+.md-bungalow:after {
+  content: '\e9d8';
+}
+
+.md-bungalow:before {
+  content: '\e9d9';
+}
+
+.md-bus_alert:after {
+  content: '\e9da';
+}
+
+.md-bus_alert:before {
+  content: '\e9db';
+}
+
+.md-cabin:after {
+  content: '\e9dc';
+}
+
+.md-cabin:before {
+  content: '\e9dd';
+}
+
+.md-cable:after {
+  content: '\e9de';
+}
+
+.md-calendar_view_month:after {
+  content: '\e9df';
+}
+
+.md-calendar_view_month:before {
+  content: '\e9e0';
+}
+
+.md-calendar_view_week:after {
+  content: '\e9e1';
+}
+
+.md-calendar_view_week:before {
+  content: '\e9e2';
+}
+
+.md-camera_indoor:after {
+  content: '\e9e3';
+}
+
+.md-camera_indoor:before {
+  content: '\e9e4';
+}
+
+.md-camera_outdoor:after {
+  content: '\e9e5';
+}
+
+.md-cameraswitch:after {
+  content: '\e9e6';
+}
+
+.md-cameraswitch:before {
+  content: '\e9e7';
+}
+
+.md-car_rental:after {
+  content: '\e9e8';
+}
+
+.md-car_rental:before {
+  content: '\e9e9';
+}
+
+.md-car_repair:after {
+  content: '\e9ea';
+}
+
+.md-car_repair:before {
+  content: '\e9eb';
+}
+
+.md-cases:after {
+  content: '\e9ec';
+}
+
+.md-cases:before {
+  content: '\e9ed';
+}
+
+.md-celebration:after {
+  content: '\e9ee';
+}
+
+.md-celebration:before {
+  content: '\e9ef';
+}
+
+.md-chair:after {
+  content: '\e9f0';
+}
+
+.md-chair:before {
+  content: '\e9f1';
+}
+
+.md-chair_alt:after {
+  content: '\e9f2';
+}
+
+.md-chair_alt:before {
+  content: '\e9f3';
+}
+
+.md-chalet:after {
+  content: '\e9f4';
+}
+
+.md-chalet:before {
+  content: '\e9f5';
+}
+
+.md-circle:after {
+  content: '\e9f6';
+}
+
+.md-circle:before {
+  content: '\e9f7';
+}
+
+.md-circle_notifications:after {
+  content: '\e9f8';
+}
+
+.md-circle_notifications:before {
+  content: '\e9f9';
+}
+
+.md-closed_caption_off:after {
+  content: '\e9fa';
+}
+
+.md-closed_caption_off:before {
+  content: '\e9fb';
+}
+
+.md-coffee:after {
+  content: '\e9fc';
+}
+
+.md-coffee:before {
+  content: '\e9fd';
+}
+
+.md-coffee_maker:after {
+  content: '\e9fe';
+}
+
+.md-coffee_maker:before {
+  content: '\e9ff';
+}
+
+.md-compress:after {
+  content: '\ea00';
+}
+
+.md-connected_tv:after {
+  content: '\ea01';
+}
+
+.md-connected_tv:before {
+  content: '\ea02';
+}
+
+.md-cottage:after {
+  content: '\ea03';
+}
+
+.md-cottage:before {
+  content: '\ea04';
+}
+
+.md-credit_score:after {
+  content: '\ea05';
+}
+
+.md-crib:after {
+  content: '\ea06';
+}
+
+.md-crib:before {
+  content: '\ea07';
+}
+
+.md-dangerous:after {
+  content: '\ea08';
+}
+
+.md-dangerous:before {
+  content: '\ea09';
+}
+
+.md-dashboard_customize:after {
+  content: '\ea0a';
+}
+
+.md-dashboard_customize:before {
+  content: '\ea0b';
+}
+
+.md-data_saver_off:after {
+  content: '\ea0c';
+}
+
+.md-data_saver_on:after {
+  content: '\ea0d';
+}
+
+.md-delivery_dining:after {
+  content: '\ea0e';
+}
+
+.md-delivery_dining:before {
+  content: '\ea0f';
+}
+
+.md-device_thermostat:after {
+  content: '\ea10';
+}
+
+.md-dining:after {
+  content: '\ea11';
+}
+
+.md-dining:before {
+  content: '\ea12';
+}
+
+.md-dinner_dining:after {
+  content: '\ea13';
+}
+
+.md-dinner_dining:before {
+  content: '\ea14';
+}
+
+.md-directions_boat_filled:after {
+  content: '\ea15';
+}
+
+.md-directions_boat_filled:before {
+  content: '\ea16';
+}
+
+.md-directions_bus_filled:after {
+  content: '\ea17';
+}
+
+.md-directions_bus_filled:before {
+  content: '\ea18';
+}
+
+.md-directions_car_filled:after {
+  content: '\ea19';
+}
+
+.md-directions_car_filled:before {
+  content: '\ea1a';
+}
+
+.md-directions_railway_filled:after {
+  content: '\ea1b';
+}
+
+.md-directions_railway_filled:before {
+  content: '\ea1c';
+}
+
+.md-directions_subway_filled:after {
+  content: '\ea1d';
+}
+
+.md-directions_subway_filled:before {
+  content: '\ea1e';
+}
+
+.md-directions_transit_filled:after {
+  content: '\ea1f';
+}
+
+.md-directions_transit_filled:before {
+  content: '\ea20';
+}
+
+.md-dirty_lens:after {
+  content: '\ea21';
+}
+
+.md-dirty_lens:before {
+  content: '\ea22';
+}
+
+.md-do_disturb:after {
+  content: '\ea23';
+}
+
+.md-do_disturb_alt:after {
+  content: '\ea24';
+}
+
+.md-do_disturb_off:after {
+  content: '\ea25';
+}
+
+.md-do_disturb_off:before {
+  content: '\ea26';
+}
+
+.md-do_disturb_on:after {
+  content: '\ea27';
+}
+
+.md-do_disturb_on:before {
+  content: '\ea28';
+}
+
+.md-do_not_disturb_on:after {
+  content: '\ea29';
+}
+
+.md-do_not_disturb_on:before {
+  content: '\ea2a';
+}
+
+.md-do_not_disturb_on_total_silence:after {
+  content: '\ea2b';
+}
+
+.md-door_back:after {
+  content: '\ea2c';
+}
+
+.md-door_back:before {
+  content: '\ea2d';
+}
+
+.md-door_front:after {
+  content: '\ea2e';
+}
+
+.md-door_front:before {
+  content: '\ea2f';
+}
+
+.md-door_sliding:after {
+  content: '\ea30';
+}
+
+.md-door_sliding:before {
+  content: '\ea31';
+}
+
+.md-doorbell:after {
+  content: '\ea32';
+}
+
+.md-doorbell:before {
+  content: '\ea33';
+}
+
+.md-download:after {
+  content: '\ea34';
+}
+
+.md-download:before {
+  content: '\ea35';
+}
+
+.md-download_done:after {
+  content: '\ea36';
+}
+
+.md-download_for_offline:after {
+  content: '\ea37';
+}
+
+.md-download_for_offline:before {
+  content: '\ea38';
+}
+
+.md-downloading:after {
+  content: '\ea39';
+}
+
+.md-drive_file_move:after {
+  content: '\ea3a';
+}
+
+.md-drive_file_move:before {
+  content: '\ea3b';
+}
+
+.md-drive_file_rename_outline:after {
+  content: '\ea3c';
+}
+
+.md-drive_file_rename_outline:before {
+  content: '\ea3d';
+}
+
+.md-drive_folder_upload:after {
+  content: '\ea3e';
+}
+
+.md-drive_folder_upload:before {
+  content: '\ea3f';
+}
+
+.md-dry_cleaning:after {
+  content: '\ea40';
+}
+
+.md-dry_cleaning:before {
+  content: '\ea41';
+}
+
+.md-e_mobiledata:after {
+  content: '\ea42';
+}
+
+.md-earbuds:after {
+  content: '\ea43';
+}
+
+.md-earbuds:before {
+  content: '\ea44';
+}
+
+.md-earbuds_battery:after {
+  content: '\ea45';
+}
+
+.md-earbuds_battery:before {
+  content: '\ea46';
+}
+
+.md-edgesensor_high:after {
+  content: '\ea47';
+}
+
+.md-edgesensor_high:before {
+  content: '\ea48';
+}
+
+.md-edgesensor_low:after {
+  content: '\ea49';
+}
+
+.md-edgesensor_low:before {
+  content: '\ea4a';
+}
+
+.md-edit_off:after {
+  content: '\ea4b';
+}
+
+.md-edit_off:before {
+  content: '\ea4c';
+}
+
+.md-expand:after {
+  content: '\ea4d';
+}
+
+.md-face_retouching_natural:after {
+  content: '\ea4e';
+}
+
+.md-face_retouching_natural:before {
+  content: '\ea4f';
+}
+
+.md-face_retouching_off:after {
+  content: '\ea50';
+}
+
+.md-face_retouching_off:before {
+  content: '\ea51';
+}
+
+.md-feed:after {
+  content: '\ea52';
+}
+
+.md-feed:before {
+  content: '\ea53';
+}
+
+.md-female:after {
+  content: '\ea54';
+}
+
+.md-festival:after {
+  content: '\ea55';
+}
+
+.md-festival:before {
+  content: '\ea56';
+}
+
+.md-file_download:after {
+  content: '\ea57';
+}
+
+.md-file_download:before {
+  content: '\ea58';
+}
+
+.md-file_download_done:after {
+  content: '\ea59';
+}
+
+.md-file_present:after {
+  content: '\ea5a';
+}
+
+.md-file_present:before {
+  content: '\ea5b';
+}
+
+.md-fit_screen:after {
+  content: '\ea5c';
+}
+
+.md-fit_screen:before {
+  content: '\ea5d';
+}
+
+.md-flashlight_off:after {
+  content: '\ea5e';
+}
+
+.md-flashlight_off:before {
+  content: '\ea5f';
+}
+
+.md-flashlight_on:after {
+  content: '\ea60';
+}
+
+.md-flashlight_on:before {
+  content: '\ea61';
+}
+
+.md-flatware:after {
+  content: '\ea62';
+}
+
+.md-flourescent:after {
+  content: '\ea63';
+}
+
+.md-flourescent:before {
+  content: '\ea64';
+}
+
+.md-fmd_bad:after {
+  content: '\ea65';
+}
+
+.md-fmd_bad:before {
+  content: '\ea66';
+}
+
+.md-fmd_good:after {
+  content: '\ea67';
+}
+
+.md-fmd_good:before {
+  content: '\ea68';
+}
+
+.md-g_mobiledata:after {
+  content: '\ea69';
+}
+
+.md-garage:after {
+  content: '\ea6a';
+}
+
+.md-garage:before {
+  content: '\ea6b';
+}
+
+.md-gite:after {
+  content: '\ea6c';
+}
+
+.md-gite:before {
+  content: '\ea6d';
+}
+
+.md-gpp_bad:after {
+  content: '\ea6e';
+}
+
+.md-gpp_bad:before {
+  content: '\ea6f';
+}
+
+.md-gpp_good:after {
+  content: '\ea70';
+}
+
+.md-gpp_good:before {
+  content: '\ea71';
+}
+
+.md-gpp_maybe:after {
+  content: '\ea72';
+}
+
+.md-gpp_maybe:before {
+  content: '\ea73';
+}
+
+.md-grid_3x3:after {
+  content: '\ea74';
+}
+
+.md-grid_4x4:after {
+  content: '\ea75';
+}
+
+.md-grid_goldenratio:after {
+  content: '\ea76';
+}
+
+.md-grid_view:after {
+  content: '\ea77';
+}
+
+.md-grid_view:before {
+  content: '\ea78';
+}
+
+.md-h_mobiledata:after {
+  content: '\ea79';
+}
+
+.md-h_plus_mobiledata:after {
+  content: '\ea7a';
+}
+
+.md-hail:after {
+  content: '\ea7b';
+}
+
+.md-hardware:after {
+  content: '\ea7c';
+}
+
+.md-hardware:before {
+  content: '\ea7d';
+}
+
+.md-hdr_auto:after {
+  content: '\ea7e';
+}
+
+.md-hdr_auto:before {
+  content: '\ea7f';
+}
+
+.md-hdr_auto_select:after {
+  content: '\ea80';
+}
+
+.md-hdr_enhanced_select:after {
+  content: '\ea81';
+}
+
+.md-hdr_enhanced_select:before {
+  content: '\ea82';
+}
+
+.md-hdr_off_select:after {
+  content: '\ea83';
+}
+
+.md-hdr_on_select:after {
+  content: '\ea84';
+}
+
+.md-hdr_plus:after {
+  content: '\ea85';
+}
+
+.md-hdr_plus:before {
+  content: '\ea86';
+}
+
+.md-headphones:after {
+  content: '\ea87';
+}
+
+.md-headphones:before {
+  content: '\ea88';
+}
+
+.md-headphones_battery:after {
+  content: '\ea89';
+}
+
+.md-headphones_battery:before {
+  content: '\ea8a';
+}
+
+.md-headset_off:after {
+  content: '\ea8b';
+}
+
+.md-headset_off:before {
+  content: '\ea8c';
+}
+
+.md-hevc:after {
+  content: '\ea8d';
+}
+
+.md-hide_image:after {
+  content: '\ea8e';
+}
+
+.md-hide_image:before {
+  content: '\ea8f';
+}
+
+.md-hide_source:after {
+  content: '\ea90';
+}
+
+.md-holiday_village:after {
+  content: '\ea91';
+}
+
+.md-holiday_village:before {
+  content: '\ea92';
+}
+
+.md-home_max:after {
+  content: '\ea93';
+}
+
+.md-home_max:before {
+  content: '\ea94';
+}
+
+.md-home_mini:after {
+  content: '\ea95';
+}
+
+.md-home_mini:before {
+  content: '\ea96';
+}
+
+.md-houseboat:after {
+  content: '\ea97';
+}
+
+.md-houseboat:before {
+  content: '\ea98';
+}
+
+.md-icecream:after {
+  content: '\ea99';
+}
+
+.md-icecream:before {
+  content: '\ea9a';
+}
+
+.md-imagesearch_roller:after {
+  content: '\ea9b';
+}
+
+.md-imagesearch_roller:before {
+  content: '\ea9c';
+}
+
+.md-inventory:after {
+  content: '\ea9d';
+}
+
+.md-inventory:before {
+  content: '\ea9e';
+}
+
+.md-ios_share:after {
+  content: '\ea9f';
+}
+
+.md-iron:after {
+  content: '\eaa0';
+}
+
+.md-iron:before {
+  content: '\eaa1';
+}
+
+.md-keyboard_alt:after {
+  content: '\eaa2';
+}
+
+.md-keyboard_alt:before {
+  content: '\eaa3';
+}
+
+.md-lens_blur:after {
+  content: '\eaa4';
+}
+
+.md-light:after {
+  content: '\eaa5';
+}
+
+.md-light:before {
+  content: '\eaa6';
+}
+
+.md-liquor:after {
+  content: '\eaa7';
+}
+
+.md-liquor:before {
+  content: '\eaa8';
+}
+
+.md-living:after {
+  content: '\eaa9';
+}
+
+.md-living:before {
+  content: '\eaaa';
+}
+
+.md-lock_clock:after {
+  content: '\eaab';
+}
+
+.md-lock_clock:before {
+  content: '\eaac';
+}
+
+.md-logout:after {
+  content: '\eaad';
+}
+
+.md-lte_mobiledata:after {
+  content: '\eaae';
+}
+
+.md-lte_plus_mobiledata:after {
+  content: '\eaaf';
+}
+
+.md-lunch_dining:after {
+  content: '\eab0';
+}
+
+.md-lunch_dining:before {
+  content: '\eab1';
+}
+
+.md-male:after {
+  content: '\eab2';
+}
+
+.md-manage_accounts:after {
+  content: '\eab3';
+}
+
+.md-manage_accounts:before {
+  content: '\eab4';
+}
+
+.md-manage_search:after {
+  content: '\eab5';
+}
+
+.md-maps_home_work:after {
+  content: '\eab6';
+}
+
+.md-maps_home_work:before {
+  content: '\eab7';
+}
+
+.md-margin:after {
+  content: '\eab8';
+}
+
+.md-margin:before {
+  content: '\eab9';
+}
+
+.md-mark_as_unread:after {
+  content: '\eaba';
+}
+
+.md-mark_as_unread:before {
+  content: '\eabb';
+}
+
+.md-media_bluetooth_off:after {
+  content: '\eabc';
+}
+
+.md-media_bluetooth_on:after {
+  content: '\eabd';
+}
+
+.md-medication:after {
+  content: '\eabe';
+}
+
+.md-medication:before {
+  content: '\eabf';
+}
+
+.md-mic_external_off:after {
+  content: '\eac0';
+}
+
+.md-mic_external_off:before {
+  content: '\eac1';
+}
+
+.md-mic_external_on:after {
+  content: '\eac2';
+}
+
+.md-mic_external_on:before {
+  content: '\eac3';
+}
+
+.md-mobiledata_off:after {
+  content: '\eac4';
+}
+
+.md-mode:after {
+  content: '\eac5';
+}
+
+.md-mode:before {
+  content: '\eac6';
+}
+
+.md-mode_edit:after {
+  content: '\eac7';
+}
+
+.md-mode_edit:before {
+  content: '\eac8';
+}
+
+.md-mode_edit_outline:after {
+  content: '\eac9';
+}
+
+.md-mode_edit_outline:before {
+  content: '\eaca';
+}
+
+.md-mode_night:after {
+  content: '\eacb';
+}
+
+.md-mode_night:before {
+  content: '\eacc';
+}
+
+.md-mode_standby:after {
+  content: '\eacd';
+}
+
+.md-money_off_csred:after {
+  content: '\eace';
+}
+
+.md-monitor:after {
+  content: '\eacf';
+}
+
+.md-monitor:before {
+  content: '\ead0';
+}
+
+.md-monitor_weight:after {
+  content: '\ead1';
+}
+
+.md-monitor_weight:before {
+  content: '\ead2';
+}
+
+.md-motion_photos_auto:after {
+  content: '\ead3';
+}
+
+.md-motion_photos_off:after {
+  content: '\ead4';
+}
+
+.md-mp:after {
+  content: '\ead5';
+}
+
+.md-mp:before {
+  content: '\ead6';
+}
+
+.md-nearby_error:after {
+  content: '\ead7';
+}
+
+.md-nearby_off:after {
+  content: '\ead8';
+}
+
+.md-nightlife:after {
+  content: '\ead9';
+}
+
+.md-nightlight:after {
+  content: '\eada';
+}
+
+.md-nightlight:before {
+  content: '\eadb';
+}
+
+.md-nightlight_round:after {
+  content: '\eadc';
+}
+
+.md-no_accounts:after {
+  content: '\eadd';
+}
+
+.md-no_accounts:before {
+  content: '\eade';
+}
+
+.md-no_encryption_gmailerrorred:after {
+  content: '\eadf';
+}
+
+.md-no_encryption_gmailerrorred:before {
+  content: '\eae0';
+}
+
+.md-note_alt:after {
+  content: '\eae1';
+}
+
+.md-note_alt:before {
+  content: '\eae2';
+}
+
+.md-offline_share:after {
+  content: '\eae3';
+}
+
+.md-other_houses:after {
+  content: '\eae4';
+}
+
+.md-other_houses:before {
+  content: '\eae5';
+}
+
+.md-outbox:after {
+  content: '\eae6';
+}
+
+.md-outbox:before {
+  content: '\eae7';
+}
+
+.md-padding:after {
+  content: '\eae8';
+}
+
+.md-padding:before {
+  content: '\eae9';
+}
+
+.md-paid:after {
+  content: '\eaea';
+}
+
+.md-paid:before {
+  content: '\eaeb';
+}
+
+.md-panorama_horizontal_select:after {
+  content: '\eaec';
+}
+
+.md-panorama_horizontal_select:before {
+  content: '\eaed';
+}
+
+.md-panorama_photosphere:after {
+  content: '\eaee';
+}
+
+.md-panorama_photosphere:before {
+  content: '\eaef';
+}
+
+.md-panorama_photosphere_select:after {
+  content: '\eaf0';
+}
+
+.md-panorama_vertical_select:after {
+  content: '\eaf1';
+}
+
+.md-panorama_wide_angle_select:after {
+  content: '\eaf2';
+}
+
+.md-park:after {
+  content: '\eaf3';
+}
+
+.md-park:before {
+  content: '\eaf4';
+}
+
+.md-password:after {
+  content: '\eaf5';
+}
+
+.md-pattern:after {
+  content: '\eaf6';
+}
+
+.md-person_add_alt:after {
+  content: '\eaf7';
+}
+
+.md-person_add_alt:before {
+  content: '\eaf8';
+}
+
+.md-photo_camera_back:after {
+  content: '\eaf9';
+}
+
+.md-photo_camera_back:before {
+  content: '\eafa';
+}
+
+.md-photo_camera_front:after {
+  content: '\eafb';
+}
+
+.md-photo_camera_front:before {
+  content: '\eafc';
+}
+
+.md-pie_chart_outline:after {
+  content: '\eafd';
+}
+
+.md-pivot_table_chart:after {
+  content: '\eafe';
+}
+
+.md-play_disabled:after {
+  content: '\eaff';
+}
+
+.md-play_disabled:before {
+  content: '\eb00';
+}
+
+.md-play_lesson:after {
+  content: '\eb01';
+}
+
+.md-play_lesson:before {
+  content: '\eb02';
+}
+
+.md-podcasts:after {
+  content: '\eb03';
+}
+
+.md-precision_manufacturing:after {
+  content: '\eb04';
+}
+
+.md-precision_manufacturing:before {
+  content: '\eb05';
+}
+
+.md-price_change:after {
+  content: '\eb06';
+}
+
+.md-price_change:before {
+  content: '\eb07';
+}
+
+.md-price_check:after {
+  content: '\eb08';
+}
+
+.md-quiz:after {
+  content: '\eb09';
+}
+
+.md-quiz:before {
+  content: '\eb0a';
+}
+
+.md-r_mobiledata:after {
+  content: '\eb0b';
+}
+
+.md-radar:after {
+  content: '\eb0c';
+}
+
+.md-railway_alert:after {
+  content: '\eb0d';
+}
+
+.md-railway_alert:before {
+  content: '\eb0e';
+}
+
+.md-ramen_dining:after {
+  content: '\eb0f';
+}
+
+.md-ramen_dining:before {
+  content: '\eb10';
+}
+
+.md-raw_off:after {
+  content: '\eb11';
+}
+
+.md-raw_on:after {
+  content: '\eb12';
+}
+
+.md-recommend:after {
+  content: '\eb13';
+}
+
+.md-recommend:before {
+  content: '\eb14';
+}
+
+.md-remember_me:after {
+  content: '\eb15';
+}
+
+.md-remember_me:before {
+  content: '\eb16';
+}
+
+.md-remove_done:after {
+  content: '\eb17';
+}
+
+.md-remove_moderator:after {
+  content: '\eb18';
+}
+
+.md-remove_moderator:before {
+  content: '\eb19';
+}
+
+.md-repeat_on:after {
+  content: '\eb1a';
+}
+
+.md-repeat_one_on:after {
+  content: '\eb1b';
+}
+
+.md-replay_circle_filled:after {
+  content: '\eb1c';
+}
+
+.md-report_gmailerrorred:after {
+  content: '\eb1d';
+}
+
+.md-reset_tv:after {
+  content: '\eb1e';
+}
+
+.md-restart_alt:after {
+  content: '\eb1f';
+}
+
+.md-reviews:after {
+  content: '\eb20';
+}
+
+.md-reviews:before {
+  content: '\eb21';
+}
+
+.md-rsvp:after {
+  content: '\eb22';
+}
+
+.md-rtt:after {
+  content: '\eb23';
+}
+
+.md-saved_search:after {
+  content: '\eb24';
+}
+
+.md-schedule_send:after {
+  content: '\eb25';
+}
+
+.md-schedule_send:before {
+  content: '\eb26';
+}
+
+.md-screen_search_desktop:after {
+  content: '\eb27';
+}
+
+.md-screen_search_desktop:before {
+  content: '\eb28';
+}
+
+.md-screenshot:after {
+  content: '\eb29';
+}
+
+.md-screenshot:before {
+  content: '\eb2a';
+}
+
+.md-sd:after {
+  content: '\eb2b';
+}
+
+.md-sd:before {
+  content: '\eb2c';
+}
+
+.md-sd_card_alert:after {
+  content: '\eb2d';
+}
+
+.md-sd_card_alert:before {
+  content: '\eb2e';
+}
+
+.md-security_update:after {
+  content: '\eb2f';
+}
+
+.md-security_update:before {
+  content: '\eb30';
+}
+
+.md-security_update_good:after {
+  content: '\eb31';
+}
+
+.md-security_update_good:before {
+  content: '\eb32';
+}
+
+.md-security_update_warning:after {
+  content: '\eb33';
+}
+
+.md-security_update_warning:before {
+  content: '\eb34';
+}
+
+.md-segment:after {
+  content: '\eb35';
+}
+
+.md-sell:after {
+  content: '\eb36';
+}
+
+.md-sell:before {
+  content: '\eb37';
+}
+
+.md-send_and_archive:after {
+  content: '\eb38';
+}
+
+.md-send_and_archive:before {
+  content: '\eb39';
+}
+
+.md-send_to_mobile:after {
+  content: '\eb3a';
+}
+
+.md-send_to_mobile:before {
+  content: '\eb3b';
+}
+
+.md-settings_accessibility:after {
+  content: '\eb3c';
+}
+
+.md-settings_suggest:after {
+  content: '\eb3d';
+}
+
+.md-settings_suggest:before {
+  content: '\eb3e';
+}
+
+.md-share_location:after {
+  content: '\eb3f';
+}
+
+.md-shield:after {
+  content: '\eb40';
+}
+
+.md-shield:before {
+  content: '\eb41';
+}
+
+.md-shortcut:after {
+  content: '\eb42';
+}
+
+.md-shower:after {
+  content: '\eb43';
+}
+
+.md-shower:before {
+  content: '\eb44';
+}
+
+.md-shuffle_on:after {
+  content: '\eb45';
+}
+
+.md-signal_cellular_nodata:after {
+  content: '\eb46';
+}
+
+.md-signal_wifi_bad:after {
+  content: '\eb47';
+}
+
+.md-signal_wifi_connected_no_internet_4:after {
+  content: '\eb48';
+}
+
+.md-signal_wifi_statusbar_4_bar:after {
+  content: '\eb49';
+}
+
+.md-signal_wifi_statusbar_connected_no_internet_4:after {
+  content: '\eb4a';
+}
+
+.md-signal_wifi_statusbar_null:after {
+  content: '\eb4b';
+}
+
+.md-sim_card_download:after {
+  content: '\eb4c';
+}
+
+.md-sim_card_download:before {
+  content: '\eb4d';
+}
+
+.md-sip:after {
+  content: '\eb4e';
+}
+
+.md-sip:before {
+  content: '\eb4f';
+}
+
+.md-smart_display:after {
+  content: '\eb50';
+}
+
+.md-smart_display:before {
+  content: '\eb51';
+}
+
+.md-smart_screen:after {
+  content: '\eb52';
+}
+
+.md-smart_screen:before {
+  content: '\eb53';
+}
+
+.md-smart_toy:after {
+  content: '\eb54';
+}
+
+.md-smart_toy:before {
+  content: '\eb55';
+}
+
+.md-splitscreen:after {
+  content: '\eb56';
+}
+
+.md-splitscreen:before {
+  content: '\eb57';
+}
+
+.md-sports_score:after {
+  content: '\eb58';
+}
+
+.md-stacked_bar_chart:after {
+  content: '\eb59';
+}
+
+.md-star_border_purple500:after {
+  content: '\eb5a';
+}
+
+.md-star_purple500:after {
+  content: '\eb5b';
+}
+
+.md-storm:after {
+  content: '\eb5c';
+}
+
+.md-storm:before {
+  content: '\eb5d';
+}
+
+.md-stream:after {
+  content: '\eb5e';
+}
+
+.md-summarize:after {
+  content: '\eb5f';
+}
+
+.md-summarize:before {
+  content: '\eb60';
+}
+
+.md-swipe:after {
+  content: '\eb61';
+}
+
+.md-swipe:before {
+  content: '\eb62';
+}
+
+.md-switch_account:after {
+  content: '\eb63';
+}
+
+.md-switch_account:before {
+  content: '\eb64';
+}
+
+.md-system_security_update:after {
+  content: '\eb65';
+}
+
+.md-system_security_update:before {
+  content: '\eb66';
+}
+
+.md-system_security_update_good:after {
+  content: '\eb67';
+}
+
+.md-system_security_update_good:before {
+  content: '\eb68';
+}
+
+.md-system_security_update_warning:after {
+  content: '\eb69';
+}
+
+.md-system_security_update_warning:before {
+  content: '\eb6a';
+}
+
+.md-tag:after {
+  content: '\eb6b';
+}
+
+.md-takeout_dining:after {
+  content: '\eb6c';
+}
+
+.md-takeout_dining:before {
+  content: '\eb6d';
+}
+
+.md-task:after {
+  content: '\eb6e';
+}
+
+.md-task:before {
+  content: '\eb6f';
+}
+
+.md-taxi_alert:after {
+  content: '\eb70';
+}
+
+.md-taxi_alert:before {
+  content: '\eb71';
+}
+
+.md-theater_comedy:after {
+  content: '\eb72';
+}
+
+.md-theater_comedy:before {
+  content: '\eb73';
+}
+
+.md-thermostat:after {
+  content: '\eb74';
+}
+
+.md-thermostat_auto:after {
+  content: '\eb75';
+}
+
+.md-thermostat_auto:before {
+  content: '\eb76';
+}
+
+.md-thumb_down_off_alt:after {
+  content: '\eb77';
+}
+
+.md-thumb_down_off_alt:before {
+  content: '\eb78';
+}
+
+.md-thumb_up_off_alt:after {
+  content: '\eb79';
+}
+
+.md-thumb_up_off_alt:before {
+  content: '\eb7a';
+}
+
+.md-timer_10_select:after {
+  content: '\eb7b';
+}
+
+.md-timer_3_select:after {
+  content: '\eb7c';
+}
+
+.md-transgender:after {
+  content: '\eb7d';
+}
+
+.md-try:after {
+  content: '\eb7e';
+}
+
+.md-try:before {
+  content: '\eb7f';
+}
+
+.md-tungsten:after {
+  content: '\eb80';
+}
+
+.md-tungsten:before {
+  content: '\eb81';
+}
+
+.md-upcoming:after {
+  content: '\eb82';
+}
+
+.md-upcoming:before {
+  content: '\eb83';
+}
+
+.md-upload:after {
+  content: '\eb84';
+}
+
+.md-upload:before {
+  content: '\eb85';
+}
+
+.md-upload_file:after {
+  content: '\eb86';
+}
+
+.md-upload_file:before {
+  content: '\eb87';
+}
+
+.md-video_camera_back:after {
+  content: '\eb88';
+}
+
+.md-video_camera_back:before {
+  content: '\eb89';
+}
+
+.md-video_camera_front:after {
+  content: '\eb8a';
+}
+
+.md-video_camera_front:before {
+  content: '\eb8b';
+}
+
+.md-video_stable:after {
+  content: '\eb8c';
+}
+
+.md-video_stable:before {
+  content: '\eb8d';
+}
+
+.md-view_in_ar:after {
+  content: '\eb8e';
+}
+
+.md-view_in_ar:before {
+  content: '\eb8f';
+}
+
+.md-villa:after {
+  content: '\eb90';
+}
+
+.md-villa:before {
+  content: '\eb91';
+}
+
+.md-volunteer_activism:after {
+  content: '\eb92';
+}
+
+.md-volunteer_activism:before {
+  content: '\eb93';
+}
+
+.md-vrpano:after {
+  content: '\eb94';
+}
+
+.md-vrpano:before {
+  content: '\eb95';
+}
+
+.md-warning_amber:after {
+  content: '\eb96';
+}
+
+.md-water:after {
+  content: '\eb97';
+}
+
+.md-waterfall_chart:after {
+  content: '\eb98';
+}
+
+.md-wb_shade:after {
+  content: '\eb99';
+}
+
+.md-wifi_calling_3:after {
+  content: '\eb9a';
+}
+
+.md-wifi_calling_3:before {
+  content: '\eb9b';
+}
+
+.md-wifi_tethering_error_rounded:after {
+  content: '\eb9c';
+}
+
+.md-wifi_tethering_off:after {
+  content: '\eb9d';
+}
+
+.md-window:after {
+  content: '\eb9e';
+}
+
+.md-window:before {
+  content: '\eb9f';
+}
+
+.md-yard:after {
+  content: '\eba0';
+}
+
+.md-yard:before {
+  content: '\eba1';
 }
